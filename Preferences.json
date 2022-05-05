@@ -1,0 +1,337 @@
+{
+  "AppConfigs": {
+    "TypeConfigs": {
+      "DirectoryOpus": {},
+      "WindowsExplorer": {},
+      "FileDialog": {},
+      "FolderDialog": {},
+      "Desktop": {},
+      "TotalCommander": {},
+      "XYplorer": {},
+      "Bandizip": {},
+      "AutoCAD": {},
+      "xplorer2": {},
+      "FreeCommander": {}
+    },
+    "PathConfigs": {}
+  },
+  "Menus": {
+    "Favorites": {
+      "Deletions": [
+        "75864775-974b-4763-a9ce-3a3560323666",
+        "ffab8ecb-899a-47c0-9c0d-0bc3f7f26d6c",
+        "4a57b0a8-7b52-45d1-8008-7b3f2fe387e3"
+      ],
+      "Moves": [],
+      "Insertions": [
+        {
+          "Index": -1,
+          "Info": null,
+          "Item": {
+            "Name": "工具",
+            "Children": [
+              {
+                "CustomCommandId": "14ada109-bb5c-47bc-bdee-04ffb4d65bd1",
+                "$customType": "CustomCommand"
+              },
+              {
+                "CustomCommandId": "c9407c74-b6f8-4679-a15d-b023ec772d54",
+                "$customType": "CustomCommand"
+              },
+              {
+                "CustomCommandId": "7c4728ed-0405-4e06-be42-c7d76d269ed1",
+                "$customType": "CustomCommand"
+              },
+              {
+                "CustomCommandId": "ae4f7f85-8a24-4277-8872-9128b7b40b3a",
+                "$customType": "CustomCommand"
+              },
+              {
+                "CustomCommandId": "3eeddfb4-8654-496a-9286-33c86a1403f7",
+                "$customType": "CustomCommand"
+              }
+            ],
+            "$customType": "Submenu"
+          }
+        },
+        {
+          "Index": -1,
+          "Info": null,
+          "Item": {
+            "CustomCommandId": "a1451723-0570-4542-ad05-b1ca78e4815c",
+            "$customType": "CustomCommand"
+          }
+        },
+        {
+          "Index": -1,
+          "Info": null,
+          "Item": {
+            "CustomCommandId": "b629d70b-b5b2-4a55-ba36-ef4ab30a3f24",
+            "$customType": "CustomCommand"
+          }
+        },
+        {
+          "Index": -1,
+          "Info": null,
+          "Item": {
+            "CustomCommandId": "e3115360-9c5a-4e93-88d3-b3d68fd27510",
+            "$customType": "CustomCommand"
+          }
+        },
+        {
+          "Index": -1,
+          "Info": null,
+          "Item": {
+            "CustomCommandId": "6ad3e680-45c9-405b-93d6-3ae0737b3ba6",
+            "$customType": "CustomCommand"
+          }
+        },
+        {
+          "Index": -1,
+          "Info": null,
+          "Item": {
+            "CustomCommandId": "5cf731fb-1ee7-4e4f-a8cd-5bca99748aa0",
+            "$customType": "CustomCommand"
+          }
+        },
+        {
+          "Index": -1,
+          "Info": null,
+          "Item": {
+            "$customType": "Separator"
+          }
+        },
+        {
+          "Index": -1,
+          "Info": null,
+          "Item": {
+            "CustomCommandId": "77cb1dd5-d23e-497a-8c81-caec1e802beb",
+            "$customType": "CustomCommand"
+          }
+        },
+        {
+          "Index": -1,
+          "Info": null,
+          "Item": {
+            "CommandType": "OpenCommandPrompt",
+            "$customType": "BuiltinCommand"
+          }
+        },
+        {
+          "Index": -1,
+          "Info": null,
+          "Item": {
+            "CommandType": "OpenCommandPromptAsAdmin",
+            "$customType": "BuiltinCommand"
+          }
+        },
+        {
+          "Index": -1,
+          "Info": null,
+          "Item": {
+            "CommandType": "OpenPowerShellAsAdmin",
+            "$customType": "BuiltinCommand"
+          }
+        }
+      ],
+      "Updates": []
+    }
+  },
+  "DiskSearch": {
+    "FolderPriority": {
+      "Deletions": [],
+      "Moves": [],
+      "Insertions": [],
+      "Updates": []
+    },
+    "FileNamePriority": {
+      "Deletions": [],
+      "Moves": [],
+      "Insertions": [],
+      "Updates": []
+    },
+    "SearchFilter": {
+      "Deletions": [],
+      "Moves": [],
+      "Insertions": [],
+      "Updates": []
+    },
+    "DisabledNtfsVolumes": [],
+    "CustomFolders": []
+  },
+  "Commands": {
+    "Items": {
+      "Deletions": [],
+      "Moves": [],
+      "Insertions": [
+        {
+          "Index": -1,
+          "Info": null,
+          "Item": {
+            "Title": "环境变量",
+            "Path": "C:\\\\Windows\\\\System32\\\\SystemPropertiesAdvanced.exe",
+            "Parameter": "",
+            "Id": "b629d70b-b5b2-4a55-ba36-ef4ab30a3f24",
+            "Keyword": "环境变量",
+            "$customType": "CustomCommand"
+          }
+        },
+        {
+          "Index": -1,
+          "Info": null,
+          "Item": {
+            "Title": "IP查询",
+            "Path": "C:\\\\Windows\\\\System32\\\\nslookup.exe",
+            "Parameter": "",
+            "Id": "14ada109-bb5c-47bc-bdee-04ffb4d65bd1",
+            "Keyword": "IP查询",
+            "$customType": "CustomCommand"
+          }
+        },
+        {
+          "Index": -1,
+          "Info": null,
+          "Item": {
+            "Title": "步骤记录器",
+            "Path": "C:\\\\Windows\\\\System32\\\\psr.exe",
+            "Parameter": "",
+            "Id": "7c4728ed-0405-4e06-be42-c7d76d269ed1",
+            "Keyword": "步骤记录器",
+            "$customType": "CustomCommand"
+          }
+        },
+        {
+          "Index": -1,
+          "Info": null,
+          "Item": {
+            "Title": "注册表编辑器",
+            "Path": "C:\\\\Windows\\\\regedit.exe",
+            "Parameter": "",
+            "Id": "6ad3e680-45c9-405b-93d6-3ae0737b3ba6",
+            "Keyword": "注册表编辑器",
+            "$customType": "CustomCommand"
+          }
+        },
+        {
+          "Index": -1,
+          "Info": null,
+          "Item": {
+            "Title": "组策略编辑器",
+            "Path": "C:\\\\Windows\\\\System32\\\\gpedit.msc",
+            "Parameter": "",
+            "Id": "5cf731fb-1ee7-4e4f-a8cd-5bca99748aa0",
+            "Keyword": "组策略编辑器",
+            "$customType": "CustomCommand"
+          }
+        },
+        {
+          "Index": -1,
+          "Info": null,
+          "Item": {
+            "Title": "Git Bash",
+            "Path": "C:\\Program Files\\Git\\git-bash.exe",
+            "Parameter": "",
+            "Id": "77cb1dd5-d23e-497a-8c81-caec1e802beb",
+            "Keyword": "Git Bash",
+            "$customType": "CustomCommand"
+          }
+        },
+        {
+          "Index": -1,
+          "Info": null,
+          "Item": {
+            "Title": "详细IP地址",
+            "Path": "C:\\\\Windows\\\\System32\\\\cmd.exe",
+            "Parameter": "\"cmd /k ipconfig/all\"",
+            "Id": "3eeddfb4-8654-496a-9286-33c86a1403f7",
+            "Keyword": "详细IP地址",
+            "$customType": "CustomCommand"
+          }
+        },
+        {
+          "Index": -1,
+          "Info": null,
+          "Item": {
+            "Title": "特殊字符表",
+            "Path": "C:\\\\Windows\\\\System32\\\\charmap.exe",
+            "Parameter": "",
+            "Id": "ae4f7f85-8a24-4277-8872-9128b7b40b3a",
+            "Keyword": "特殊字符表",
+            "$customType": "CustomCommand"
+          }
+        },
+        {
+          "Index": -1,
+          "Info": null,
+          "Item": {
+            "Title": "Geek",
+            "Path": "D:\\Portable Program\\geek.exe",
+            "Parameter": "",
+            "Id": "a1451723-0570-4542-ad05-b1ca78e4815c",
+            "Keyword": "geek",
+            "$customType": "CustomCommand"
+          }
+        }
+      ],
+      "Updates": [
+        {
+          "Id": "e3115360-9c5a-4e93-88d3-b3d68fd27510",
+          "UpdatedProperties": {
+            "Title": "卸载应用",
+            "Keyword": "卸载应用"
+          }
+        },
+        {
+          "Id": "c9407c74-b6f8-4679-a15d-b023ec772d54",
+          "UpdatedProperties": {
+            "Title": "编辑Hosts",
+            "Keyword": "编辑Hosts"
+          }
+        }
+      ]
+    }
+  },
+  "WebSearch": {
+    "Items": {
+      "Deletions": [
+        "ecb51462-cb27-4b89-ae53-333b4550f489",
+        "c78295a6-2cf8-4569-bf42-33f1e5c030d7",
+        "6d0a95b5-0f00-4058-a4cf-5ffb51f6b39b",
+        "dd896809-2af4-405b-834f-45816615e3e3",
+        "b36cf1bb-5527-42d8-bf91-d034bcbf057b",
+        "5ac62036-62aa-49d3-866b-d041bc7b1b76",
+        "4ed886fb-1df0-4fd0-abc1-810fc180e647",
+        "5014b42a-884d-40d3-835d-69079dd9fc51",
+        "95147e79-6274-4127-98bb-09d9ffa2a39a",
+        "610a486d-0028-4739-8eb6-50f5247c918f",
+        "2db0261a-1114-4c8d-8cc8-62a89aeb1a35",
+        "455e1dc4-5e38-4b00-85da-d0bf46c68f4f",
+        "1744aa0c-751a-495f-aac5-6910e7406229"
+      ],
+      "Moves": [],
+      "Insertions": [],
+      "Updates": []
+    }
+  },
+  "Actions": {
+    "Items": {
+      "Deletions": [
+        "afc47971-acaa-4731-bd26-0cd85109bee0",
+        "7971bb91-830f-474b-a976-8bfc9fc001d1"
+      ],
+      "Moves": [],
+      "Insertions": [],
+      "Updates": []
+    }
+  },
+  "Settings": {
+    "Hotkey.EnableDoubleCtrl": false,
+    "Listary5.SettingsImported": true
+  },
+  "Extensions": {
+    "Extensions": {
+      "1a63ea9d-bf25-431f-96e3-17b80027efab": {},
+      "f86966a8-24a9-46a0-baea-11e861a5c2c3": {}
+    }
+  }
+}
