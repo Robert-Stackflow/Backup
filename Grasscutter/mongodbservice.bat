@@ -1,0 +1,1 @@
+mongod --logpath "D:/Program Files/MongoDB/Server/4.0/log/mongodb.log" --logappend --dbpath "D:/Program Files/MongoDB/Server/4.0/data/db --directoryperdb" --serviceName MongoDB -install --auth
