@@ -30,6 +30,10 @@
     "WatchGacha": false,
     "ServerNickname": "Server",
     "ServerAvatarId": 10000007,
+    "ServerNameCardId": 210001,
+    "ServerLevel": 1,
+    "ServerWorldLevel": 1,
+    "ServerSignature": "Server Signature",
     "WelcomeEmotes": [
       2007,
       1002,
@@ -67,6 +71,10 @@
     "KeystorePassword": "123456",
     "UseSSL": true,
     "FrontHTTPS": true,
+    "CORS": false,
+    "CORSAllowedOrigins": [
+      "*"
+    ],
     "AutomaticallyCreateAccounts": false,
     "defaultPermissions": [
       ""
@@ -74,5 +82,6 @@
     "GameServers": []
   },
   "LocaleLanguage": "zh_CN",
+  "DefaultLanguage": "en_US",
   "OpenStamina": true
 }

@@ -11,5 +11,5 @@ choice /t 1 /d y /n >nul
 start wt -w /k proxy.bat
 choice /t 1 /d y /n >nul
 start wt -w /k exitgc.bat
-choice /t 1 /d y /n >nul
-start wt -w /k ip.bat
+::choice /t 1 /d y /n >nul
+::start wt -w /k ip.bat
