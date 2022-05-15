@@ -39,6 +39,46 @@ account.microsoft.com##._23tra1HsiiP6cT-Cka-ycB
 account.qt.io##.no_discs.cf.container
 account.xiaomi.com##.mi-copyright
 account.xiaomi.com##.mi-nav
+accounts.douban.com##.account-form-tips
+accounts.douban.com##.account-qr-text
+accounts.douban.com##.app-download
+accounts.douban.com##[href="https://www.douban.com/mobile/"]
+accounts.google.com##.Bgzgmd
+accounts.google.com##.RwBngc
+aiqicha.baidu.com###aqc-footer
+aiqicha.baidu.com##.aqc-advertisement-bottom-wrapper
+aiqicha.baidu.com##.aqc-advertisement-wrapper
+aiqicha.baidu.com##.aqc-detail-title > .aqc-table-logo
+aiqicha.baidu.com##.bottom-news
+aiqicha.baidu.com##.brelations-new
+aiqicha.baidu.com##.business-card-wrap
+aiqicha.baidu.com##.code-box
+aiqicha.baidu.com##.edit-tips
+aiqicha.baidu.com##.five-item.info-bar
+aiqicha.baidu.com##.grade-rights-card-size > .clue-card-box.clue-card-flex > .border.clue-card-wrap > .clue-set-meal
+aiqicha.baidu.com##.grade-rights-card-size > .clue-card-box.clue-card-flex > .border.clue-card-wrap > .sub-title
+aiqicha.baidu.com##.head-vip
+aiqicha.baidu.com##.header-compservice-wrap
+aiqicha.baidu.com##.header-mall
+aiqicha.baidu.com##.header-vip-button
+aiqicha.baidu.com##.holdstablecard > .grade-rights-card-size > .clue-card-box.clue-card-flex > .border.clue-card-wrap > .clue-set-meal
+aiqicha.baidu.com##.holdstablecard > .grade-rights-card-size > .clue-card-box.clue-card-flex > .border.clue-card-wrap > .clue-set-meal > .clue-set-meal-demourl
+aiqicha.baidu.com##.holdstablecard > .grade-rights-card-size > .clue-card-box.clue-card-flex > .border.clue-card-wrap > .sub-title
+aiqicha.baidu.com##.hot-topic
+aiqicha.baidu.com##.icon-new.new-func
+aiqicha.baidu.com##.icon-new.new-label
+aiqicha.baidu.com##.industry-news
+aiqicha.baidu.com##.ivu-carousel.banner
+aiqicha.baidu.com##.ivu-tooltip.claim-float.claim-tooltip
+aiqicha.baidu.com##.latest-claim
+aiqicha.baidu.com##.list-item.claim-company
+aiqicha.baidu.com##.list-item.credit-zone
+aiqicha.baidu.com##.list-item.news-info
+aiqicha.baidu.com##.list-item.recommend-company
+aiqicha.baidu.com##.person-info-limit-wrap > .grade-rights-card-size > .clue-card-box.clue-card-flex > .border.clue-card-wrap > .clue-set-meal
+aiqicha.baidu.com##.person-info-limit-wrap > .grade-rights-card-size > .clue-card-box.clue-card-flex > .border.clue-card-wrap > .sub-title
+aiqicha.baidu.com##.person-wrap > .tips
+aiqicha.baidu.com##div.ivu-poptip.poptip-wrap > .ivu-poptip-rel
 airportal.cn###footer-left
 airportal.cn###footer-right
 airportal.cn##.poster
@@ -93,6 +133,7 @@ baike.baidu.com###searchLemma
 baike.baidu.com###side-auth
 baike.baidu.com##.J-add-video.J-add-video-link.cmn-btn-28.cmn-btn-hover-blue.add-video
 baike.baidu.com##.J-cannot-add-video.J-add-video-dialog.cmn-btn-28.cmn-btn-hover-blue.cannot-add-video
+baike.baidu.com##.J-go-auth-box.go-auth-box
 baike.baidu.com##.J-part-audio-play.part-audio-play.audio-play
 baike.baidu.com##.J-polysemant-button--add.polysemant-button--add.polysemant-button
 baike.baidu.com##.J-secondsknow-large-container.secondsknow-large-container
@@ -104,6 +145,7 @@ baike.baidu.com##.article-statement
 baike.baidu.com##.article-vote
 baike.baidu.com##.author-wrapper
 baike.baidu.com##.authorityListPrompt
+baike.baidu.com##.bjh-module-wrapper
 baike.baidu.com##.breadcrumb
 baike.baidu.com##.caption-numbers
 baike.baidu.com##.cmn-btn-28.cmn-btn-white-blue.add-subLemma
@@ -111,10 +153,12 @@ baike.baidu.com##.cmn-clearfix.topbar
 baike.baidu.com##.contentArea-wrapper
 baike.baidu.com##.create-entrance p:nth-of-type(2)
 baike.baidu.com##.create-entrance p:nth-of-type(3)
+baike.baidu.com##.curTab.main_tab-defaultTab.main_tab > .clearfix
 baike.baidu.com##.edit-prompt
 baike.baidu.com##.excellent-icon.posterFlag
 baike.baidu.com##.expert-icon.posterFlag
 baike.baidu.com##.featureArea-wrapper
+baike.baidu.com##.flower-sender-.flower-sender
 baike.baidu.com##.flower-sender-light.flower-sender
 baike.baidu.com##.help
 baike.baidu.com##.home-module.character-container
@@ -140,6 +184,7 @@ baike.baidu.com##.search-page
 baike.baidu.com##.statistics_create
 baike.baidu.com##.statistics_hlp
 baike.baidu.com##.subtitle p
+baike.baidu.com##.tabCards
 baike.baidu.com##.tashuo-bottom
 baike.baidu.com##.tashuo-right
 baike.baidu.com##.tl-new-icon
@@ -147,6 +192,7 @@ baike.baidu.com##.tool-buttons
 baike.baidu.com##.top-tool
 baike.baidu.com##.user-info
 baike.baidu.com##.userArea-wrapper
+baike.baidu.com##.videoTab
 baike.baidu.com##.view-more
 baike.baidu.com##.wgt-footer-main
 baike.baidu.com##.wgt-footer-simple
@@ -166,6 +212,8 @@ baike.baidu.com##a[href="https://www.baidu.com/"]:nth-of-type(1)
 baike.baidu.com##a[href="https://www.baidu.com/"]:nth-of-type(2)
 bbs.csdn.net##.part-message.information-part
 bbs.mihoyo.com##.channel__breadcrumb
+bbs.mihoyo.com##.detail__copyright
+bbs.mihoyo.com##.detail__header-placeholder
 bbs.mihoyo.com##.footer
 bbs.mihoyo.com##.footer--home.footer
 bbs.mihoyo.com##.header__logo
@@ -184,6 +232,7 @@ bbs.mihoyo.com##.mhy-article-page-info
 bbs.mihoyo.com##.mhy-article-page-reply-action
 bbs.mihoyo.com##.mhy-article-page__auth
 bbs.mihoyo.com##.mhy-article-type
+bbs.mihoyo.com##.mhy-comment__card--post.mhy-comment__card.mhy-post-comment
 bbs.mihoyo.com##.mhy-home__header
 bbs.mihoyo.com##.mhy-home__post-wrp
 bbs.mihoyo.com##.mhy-rocket
@@ -270,15 +319,61 @@ c.biancheng.net##.clearfix.tab
 c.biancheng.net##.glyphicon-usd.glyphicon
 c.biancheng.net##.hover-none.glyphicon-user.glyphicon.user-info
 c.biancheng.net##blockquote
+c.runoob.com###runoob-goto-13 > div.col-md-12 > .nav-moredata
+c.runoob.com###runoob-goto-14 div.runoob-padding.col-6.col-sm-4.col-md-3.col-lg-2:nth-of-type(12)
+c.runoob.com###runoob-goto-14 div.runoob-padding.col-6.col-sm-4.col-md-3.col-lg-2:nth-of-type(13)
+c.runoob.com###runoob-goto-14 div.runoob-padding.col-6.col-sm-4.col-md-3.col-lg-2:nth-of-type(14)
+c.runoob.com###runoob-goto-14 div.runoob-padding.col-6.col-sm-4.col-md-3.col-lg-2:nth-of-type(15)
+c.runoob.com###runoob-goto-14 div.runoob-padding.col-6.col-sm-4.col-md-3.col-lg-2:nth-of-type(16)
+c.runoob.com###runoob-goto-14 div.runoob-padding.col-6.col-sm-4.col-md-3.col-lg-2:nth-of-type(17)
+c.runoob.com###runoob-goto-14 div.runoob-padding.col-6.col-sm-4.col-md-3.col-lg-2:nth-of-type(18)
+c.runoob.com###runoob-goto-14 div.runoob-padding.col-6.col-sm-4.col-md-3.col-lg-2:nth-of-type(19)
+c.runoob.com###runoob-goto-14 div.runoob-padding.col-6.col-sm-4.col-md-3.col-lg-2:nth-of-type(20)
+c.runoob.com###runoob-goto-14 div.runoob-padding.col-6.col-sm-4.col-md-3.col-lg-2:nth-of-type(23)
+c.runoob.com###runoob-goto-14 div.runoob-padding.col-6.col-sm-4.col-md-3.col-lg-2:nth-of-type(6)
+c.runoob.com###runoob-goto-15 div.runoob-padding.col-6.col-sm-4.col-md-3.col-lg-2:nth-of-type(1)
+c.runoob.com###runoob-goto-15 div.runoob-padding.col-6.col-sm-4.col-md-3.col-lg-2:nth-of-type(13)
+c.runoob.com###runoob-goto-36 div.runoob-padding.col-6.col-sm-4.col-md-3.col-lg-2:nth-of-type(23)
+c.runoob.com###runoob-goto-36 div.runoob-padding.col-6.col-sm-4.col-md-3.col-lg-2:nth-of-type(26)
+c.runoob.com###runoob-goto-36 div.runoob-padding.col-6.col-sm-4.col-md-3.col-lg-2:nth-of-type(3)
+c.runoob.com###runoob-goto-36 div.runoob-padding.col-6.col-sm-4.col-md-3.col-lg-2:nth-of-type(4)
+c.runoob.com###runoob-goto-37 div.runoob-padding.col-6.col-sm-4.col-md-3.col-lg-2:nth-of-type(1)
+c.runoob.com###runoob-goto-37 div.runoob-padding.col-6.col-sm-4.col-md-3.col-lg-2:nth-of-type(24)
+c.runoob.com###runoob-goto-38
+c.runoob.com###runoob-goto-41 div.runoob-padding.col-6.col-sm-4.col-md-3.col-lg-2:nth-of-type(6)
+c.runoob.com###runoob-goto-41 div.runoob-padding.col-6.col-sm-4.col-md-3.col-lg-2:nth-of-type(9)
+c.runoob.com###search-form
+c.runoob.com##.content-sidebar
+c.runoob.com##.current.runoob-item-index.runoob-custom.row
 c.runoob.com##.display__footer
+c.runoob.com##.dropdown.nav-item
+c.runoob.com##.fixed-top.shadow-sm.bg-white.nav-scroller
 c.runoob.com##.float-end.mr-sm-1.btn-outline-info.btn
+c.runoob.com##.justify-content-center.nav :nth-of-type(5)
+c.runoob.com##.mr-auto.navbar-nav li.nav-item:nth-of-type(1)
+c.runoob.com##.mr-auto.navbar-nav li.nav-item:nth-of-type(2)
+c.runoob.com##.mr-auto.navbar-nav li.nav-item:nth-of-type(3)
+c.runoob.com##.mr-auto.navbar-nav li.nav-item:nth-of-type(4)
+c.runoob.com##.mr-auto.navbar-nav li.nav-item:nth-of-type(5)
+c.runoob.com##.mr-auto.navbar-nav li.nav-item:nth-of-type(6)
+c.runoob.com##.mr-auto.navbar-nav li.nav-item:nth-of-type(7)
+c.runoob.com##.mr-auto.navbar-nav li.nav-item:nth-of-type(8)
+c.runoob.com##.sidebar.col-md-1
+c.runoob.com##div.runoob-item.row:nth-of-type(13)
+c.runoob.com##div.runoob-item.row:nth-of-type(14)
+c.runoob.com##dt
 c.runoob.com##footer
 c.runoob.com##hr
+c.runoob.com##li.lia:nth-of-type(2)
+carbon.now.sh##.login-button-container
+carbon.now.sh##.mb3.main > .mt3
+carbon.now.sh##.mt3
 cn.bing.com###actionbar li:nth-of-type(3)
 cn.bing.com###actionbar li:nth-of-type(4)
 cn.bing.com###b-scopeListItem-video
 cn.bing.com###b_context > .b_ans
 cn.bing.com###b_lgpd
+cn.bing.com###b_pole
 cn.bing.com###b_results > .b_ans
 cn.bing.com###copyright
 cn.bing.com###id_h
@@ -287,9 +382,14 @@ cn.bing.com###mainImageRegion > .nofocus.idpfb.action
 cn.bing.com###rc_gb_expand
 cn.bing.com###serpvidansrr
 cn.bing.com##.b_algoRCAggreFC
+cn.bing.com##.b_algospacing
 cn.bing.com##.b_canvas.b_msg
 cn.bing.com##.b_canvas2.value-prop-banner
 cn.bing.com##.b_footer
+cn.bing.com##.bm_flexWrapper
+cn.bing.com##.bm_flyoverButton
+cn.bing.com##.bottom_ad.ads_dwn
+cn.bing.com##.center_ad.ads_dwn
 cn.bing.com##.desktop_header
 cn.bing.com##.desktop_header_menu.t_navigation
 cn.bing.com##.ev_talkbox_wrapper_min
@@ -305,10 +405,15 @@ cn.bing.com##.recommendationsTableFeedback
 cn.bing.com##.rightNav
 cn.bing.com##.scope_cont
 cn.bing.com##.tabcap
+cn.bing.com##.top_ad.ads_dwn
 cn.bing.com##.tt_altTrnsExpItem.tta_phraseb
 cn.bing.com##.vkeyRest
 cn.bing.com##.vs_cont
 cn.bing.com##li.b_ans:nth-of-type(2)
+cn.bing.com##li.bm_dropdownEntry:nth-of-type(1)
+cn.bing.com##li.bm_dropdownEntry:nth-of-type(2)
+cn.bing.com##li.bm_dropdownEntry:nth-of-type(3)
+cn.bing.com##li.bm_dropdownEntry:nth-of-type(6)
 cnpassport.youku.com##.block3.login-blocks
 cnpassport.youku.com##.fm-field-mobile.fm-field > div > .block1.login-blocks
 cnpassport.youku.com##.qrcode-login > div > .block1.login-blocks
@@ -448,10 +553,21 @@ demo.themesberg.com##div.section-lg.pt-0.bg-primary.section:nth-of-type(6)
 demo.themesberg.com##li.dropdown.nav-item:nth-of-type(3)
 demo.themesberg.com##section.bg-soft.section-lg.section:nth-of-type(10)
 demo.themesberg.com##section.pt-0.section-lg.section:nth-of-type(3)
+devdocs.io##._attribution-p
+devdocs.io##._in._notif
+devdocs.io##._list-link
+devdocs.io##._list-note
+devdocs.io##.on-github
 discord.com##.anchorUnderlineOnHover-2qPutX.anchor-1MIwyf
 discord.com##.inviteToolbar-2k2nqz
 discord.com##div.listItem-3SmSlK:nth-of-type(6)
 discord.com##div.listItem-3SmSlK:nth-of-type(7)
+ditu.amap.com###mobileenterance_no_bg
+ditu.amap.com##.amap-copyright
+ditu.amap.com##.jBox-pointerPosition-right.jBox-Default.jBox-Tooltip.jBox-wrapper
+ditu.amap.com##.notice
+ditu.amap.com##.usel.amap-app-download
+docs.qq.com###docs-component-download-client
 down.52pojie.cn##.a-52pojie-logo
 down.52pojie.cn##.breadcrumb
 down.52pojie.cn##.footer
@@ -836,6 +952,7 @@ live.bilibili.com##.z-gift-control-section.border-box.p-relative.gift-control-se
 live.bilibili.com##.z-link-footer-ctnr.link-footer-ctnr
 live.bilibili.com##div.pointer.live-skin-normal-a-text.icon-ctnr:nth-of-type(1)
 live.bilibili.com##div.pointer.live-skin-normal-a-text.icon-ctnr:nth-of-type(2)
+login.live.com##.background-logo-holder
 login.live.com##.ext-footer.footer
 login.qt.io##.notificationwide.transparent
 logomakr.com##.elementor-location-footer.elementor-13.elementor
@@ -962,8 +1079,24 @@ manga.bilibili.com##.p-relative.m-auto.h-100.size-ruler
 manga.bilibili.com##.right-side
 manga.bilibili.com##.row-one
 manga.bilibili.com##.ts-dot-2.p-absolute.h-100.back-to-top-btn-container
+map.baidu.com###message-center
+map.baidu.com###newuilogo
+map.baidu.com##.anchorBL.BMap_noprint.BMap_cpyCtrl
+map.baidu.com##.associate-tip
+map.baidu.com##.message-panel-open
+map.baidu.com##.poiLeadDownloadCard
+map.baidu.com##.trafficLeadDownloadCard
+map.baidu.com##div.bottom-split:nth-of-type(3)
 map.hust.edu.cn###hust_logo
 map.hust.edu.cn##.layui-footer
+map.qq.com###Map > div > div > [href^="https://map.qq.com/"]
+map.qq.com###Map > div > div > div > span
+map.qq.com###footer
+map.qq.com###panoInviteToolTip
+map.qq.com###s_bar
+map.qq.com##.QRCodeContainer
+map.qq.com##.goTopButtonBlock
+map.qq.com##div.MapTools:nth-of-type(5)
 mbd.baidu.com##.app-module_bottomWrapper_Wo80H
 member.bilibili.com##.date-desc_wrap
 member.bilibili.com##.new
@@ -980,6 +1113,9 @@ microsoft.com##.c-uhff-base nav
 microsoft.com##.glyph-shopping-cart.c-uhf-nav-link.c-glyph.c-action-trigger
 microsoft.com##.glyph-world.c-glyph.c-uhff-lang-selector.c-uhff-link
 microsoft.com##.wf-menu
+mirrors.cloud.tencent.com##.ms-experience-active
+mirrors.cloud.tencent.com##.ms-footer
+mirrors.cloud.tencent.com##div.ms-content:nth-of-type(2)
 mirrors.tuna.tsinghua.edu.cn##.tuna-foot-1
 mooc1.chaoxing.com##.fr.check_repeat
 mooc1.chaoxing.com##.report
@@ -987,6 +1123,8 @@ mooc1.chaoxing.com##.right-button
 mooc1.chaoxing.com##.title
 mooc1.chaoxing.com##.verticalMiddle
 mooc2-ans.chaoxing.com##.fl.backOld
+movie.douban.com##.ticket
+movie.douban.com##.top-nav-doubanapp
 mp.weixin.qq.com##.login__type__container__scan__info__desc
 mp.weixin.qq.com##.mp-foot
 mp.weixin.qq.com##.notices_box
@@ -1041,6 +1179,13 @@ next.itellyou.cn##.mt-5
 next.itellyou.cn##.navbar-brand span
 next.itellyou.cn##.price
 next.itellyou.cn##div.px-0.pb-3.pt-2.position-relative.text-center.mb-2.col-sm-12:nth-of-type(3)
+note.youdao.com###flexible-list-left ad-component
+note.youdao.com##.enter-vip-link
+note.youdao.com##.sidebar-collapse-footer-web
+note.youdao.com##a.sidebar-footer-links-item:nth-of-type(1)
+note.youdao.com##a.sidebar-footer-links-item:nth-of-type(2)
+note.youdao.com##div.sidebar-content-item:nth-of-type(6)
+odc.officeapps.live.com###footer
 oi-wiki.org##.gt-header
 oi-wiki.org##.md-content__icon.md-icon
 oi-wiki.org##.md-typeset.md-footer-meta
@@ -1218,6 +1363,29 @@ pdfzj.cn##li:nth-of-type(11)
 pekwdl.hust.edu.cn##.png.system-help.icon-system-help
 pekwdl.hust.edu.cn##div.footer:nth-of-type(4)
 pekwdl.hust.edu.cn##div.footer:nth-of-type(5)
+pinpai.qcc.com###ownhonorlist > .tcaption > .text-warning
+pinpai.qcc.com###ownintroduce > .tcaption > .text-warning
+pinpai.qcc.com###ownpartnerlist > .tcaption > .watermark
+pinpai.qcc.com##.app-nfooter
+pinpai.qcc.com##.app-suspend
+pinpai.qcc.com##.bicon-phoneview.bicon
+pinpai.qcc.com##.follow.action-btn
+pinpai.qcc.com##.header-qrcode.dropdown.nav-item
+pinpai.qcc.com##.hot-news > .pull-left
+pinpai.qcc.com##.hot-news-title
+pinpai.qcc.com##.icon-icon_hot.iconfont.aicon-hot.aicon
+pinpai.qcc.com##.monitor-text
+pinpai.qcc.com##.source-from
+pinpai.qcc.com##.tcaption > .text-warning
+pinpai.qcc.com##.tcaption > .watermark
+pinpai.qcc.com##[href="https://www.qcc.com/weixin_xcx"] > .img-rc
+pinpai.qcc.com##div.npanel:nth-of-type(1)
+pinpai.qcc.com##div.npanel:nth-of-type(2)
+pinpai.qcc.com##div.rnav-menu:nth-of-type(1)
+pinpai.qcc.com##li.head-line:nth-of-type(2)
+pinpai.qcc.com##li.head-line:nth-of-type(4)
+pinpai.qcc.com##li.nav-item:nth-of-type(1)
+pinpai.qcc.com##li.nav-item:nth-of-type(3)
 pintia.cn##.FeedbackButton_37cUX.link_7nYhB
 pintia.cn##.active.hover\:no-underline.hover\:text-primary.rounded.leading-5.py-1\.5.px-6
 pintia.cn##.ad_2uZiS.pc-slider
@@ -1267,6 +1435,16 @@ qah5.zhihuishu.com##.home-logo
 qah5.zhihuishu.com##.item.cursor-p.icontishi.iconfont.el-tooltip
 qah5.zhihuishu.com##.left-back > .line
 qah5.zhihuishu.com##.rightFix
+qiye.baidu.com##.base-footer-tip
+qiye.baidu.com##.bottom-tip
+qiye.baidu.com##.expire-time
+qiye.baidu.com##.footer
+qiye.baidu.com##.sign
+qiye.baidu.com##.user
+qiye.baidu.com##.user-point
+qiye.baidu.com##li.nav-item:nth-of-type(10)
+qiye.baidu.com##li.nav-item:nth-of-type(2)
+qiye.baidu.com##li.nav-item:nth-of-type(3)
 qt5.digitser.net##.Header.container
 qt5.digitser.net##.Top.row
 qt5.digitser.net##footer
@@ -1313,6 +1491,7 @@ space.bilibili.com##div.i-ann.section:nth-of-type(5)
 space.bilibili.com##div.i-ann.section:nth-of-type(6)
 sso.icourses.cn##.content-box p
 sso.icourses.cn##.note-text
+stackoverflow.com##.mt12
 study.163.com###auto-id-1651390645752
 study.163.com###j-footer
 study.163.com##.course-list
@@ -1362,6 +1541,32 @@ t.captcha.qq.com###guideText
 t.captcha.qq.com##.show-FB.tc-action--feedback.tc-icon.tc-action
 themesberg.com##.text-center.bg-soft.mt-5.p-md-5.pt-5.p-3.bd-footer
 themesberg.com##div.align-items-center.d-flex:nth-of-type(2)
+tieba.baidu.com###com_userbar
+tieba.baidu.com###lcsas-container
+tieba.baidu.com###onekey_sign
+tieba.baidu.com##.aggregate_entrance_wrap
+tieba.baidu.com##.apply_groups
+tieba.baidu.com##.clearfix.top-sec
+tieba.baidu.com##.foot
+tieba.baidu.com##.footer
+tieba.baidu.com##.j_lzl_wrapper.core_reply > .core_reply_tail > .p_mtail > .complaint.j_jb_ele
+tieba.baidu.com##.j_search_nav.search_nav
+tieba.baidu.com##.j_zyq_mod_friend.zyq_mod_friend.aside_region
+tieba.baidu.com##.my_current_forum
+tieba.baidu.com##.r-right-sec
+tieba.baidu.com##.r-top-sec
+tieba.baidu.com##.region_cnt > .user_level
+tieba.baidu.com##.related_forums.aside_region
+tieba.baidu.com##.sign_mod_bright
+tieba.baidu.com##.star-info-iconred
+tieba.baidu.com##.tb_rich_poster_container
+tieba.baidu.com##.tbui_aside_float_bar
+tieba.baidu.com##.tbui_fbar_auxiliaryCare.tbui_aside_fbar_button > [href]
+tieba.baidu.com##.u-f-w
+tieba.baidu.com##.user_rights_msg
+tieba.baidu.com##div.u-f-t:nth-of-type(1)
+tieba.baidu.com##main.svelte-zmnt4x:nth-of-type(1)
+tieba.baidu.com##main.svelte-zmnt4x:nth-of-type(2)
 tool.liumingye.cn###app-footer
 tool.liumingye.cn##.el-upload__tip
 tool.liumingye.cn##.fixed.toggle-others.sidebar-menu
@@ -1401,6 +1606,45 @@ tool.oschina.net##.advise
 tool.oschina.net##.badge-important.badge
 tool.oschina.net##.menu.fixed.inverted.secondary.ui
 tool.oschina.net##div.clearfix.column:nth-of-type(2)
+tools.pdf24.org##.allTools
+tools.pdf24.org##.centerPane
+tools.pdf24.org##.downloadInfo
+tools.pdf24.org##.even.section-10.section
+tools.pdf24.org##.even.section-12.section
+tools.pdf24.org##.even.section-16.section
+tools.pdf24.org##.even.section-2.section
+tools.pdf24.org##.even.section-4.section
+tools.pdf24.org##.even.section-6.section
+tools.pdf24.org##.even.section-8.section
+tools.pdf24.org##.featureMarks.noLimits
+tools.pdf24.org##.filled.mt3.adBlock
+tools.pdf24.org##.filled.removeOnWorkerZoneShow.mb2.mt2.adBlock
+tools.pdf24.org##.filters
+tools.pdf24.org##.first.even.section-0.section
+tools.pdf24.org##.ib.burger.icon-menu
+tools.pdf24.org##.icon-palette
+tools.pdf24.org##.last.even.section-2.section
+tools.pdf24.org##.last.odd.section-17.section
+tools.pdf24.org##.lowerLeftTools
+tools.pdf24.org##.main.container > .mt3
+tools.pdf24.org##.mb4 > h2
+tools.pdf24.org##.odd.section-1.section
+tools.pdf24.org##.odd.section-11.section
+tools.pdf24.org##.odd.section-3.section
+tools.pdf24.org##.odd.section-5.section
+tools.pdf24.org##.odd.section-7.section
+tools.pdf24.org##.odd.section-9.section
+tools.pdf24.org##.tc.even.section-14.section
+tools.pdf24.org##.tc.mb4.main.container
+tools.pdf24.org##.tc.mb4.main.container > div:nth-of-type(2)
+tools.pdf24.org##.tc.odd.section-15.section
+tools.pdf24.org##.terms.note
+tools.pdf24.org##.upperRightTools
+tools.pdf24.org##div.downloadButtonsGroup:nth-of-type(2)
+tools.pdf24.org##div.downloadButtonsGroup:nth-of-type(3)
+tools.pdf24.org##div.filled.downloadButtonsAd.adBlock:nth-of-type(1)
+tools.pdf24.org##div.filled.downloadButtonsAd.adBlock:nth-of-type(3)
+tools.pdf24.org##h1
 toolwa.com##.flash-icon
 toolwa.com##.footer
 toolwa.com##.header
@@ -1763,6 +2007,7 @@ www.axutongxue.com##div:nth-of-type(4)
 www.baidu.com###content_right > table > tbody > tr > td
 www.baidu.com##.foot-container_2X1Nt
 www.baidu.com##.opr-recommends-merge-content
+www.baidu.com##.quickdelete-line
 www.baidu.com##.rs-normal-width_2T91A
 www.baidu.com##.s-center-box
 www.baidu.com##.s-isindex-wrap.s-bottom-layer
@@ -1882,6 +2127,8 @@ www.bilibili.com##.variety-area
 www.bilibili.com##.vcd
 www.bilibili.com##.visible.feedback.primary-btn
 www.bilibili.com##.watch-info
+www.bilibili.com##a.channel-link__right:nth-of-type(4)
+www.bilibili.com##a.channel-link__right:nth-of-type(5)
 www.bilibili.com##div.eva-banner-shim > div
 www.bilibili.com##div.primary-btn
 www.bilibili.com##div.row:nth-of-type(2)
@@ -2039,6 +2286,21 @@ www.docin.com##.slideButton
 www.docin.com##.toSwipe.changeLoginMode
 www.docin.com##.top_nav_item
 www.docin.com##.top_wrap
+www.douban.com###anony-events
+www.douban.com###anony-market
+www.douban.com###anony-nav-banner
+www.douban.com###anony-sns
+www.douban.com###footer
+www.douban.com###ft
+www.douban.com###top-nav-doumail-link
+www.douban.com##.anony-nav-links > ul > li:nth-of-type(7)
+www.douban.com##.anony-nav-links > ul > li:nth-of-type(8)
+www.douban.com##.anony-nav-links > ul > li:nth-of-type(9)
+www.douban.com##.app
+www.douban.com##.top-nav-doubanapp
+www.douban.com##.top-nav-reminder
+www.douban.com##[src="https://img3.doubanio.com/f/shire/e49eca1517424a941871a2667a8957fd6c72d632/pics/new_menu.gif"]
+www.douban.com##div.account-form-raw:nth-of-type(4)
 www.douyin.com###_bwc5czk
 www.douyin.com##.SEV11UjY
 www.douyin.com##.WPC30Qlr.hC6cBN64.MiecXVmm
@@ -2456,6 +2718,7 @@ www.jianshu.com##._3Qa4dn5YlokOkxn6RsnEsL_0
 www.jianshu.com##._7hb9O4 > ._1YbC5u._2WY0RL._3Mi9q9._1OyPqC
 www.jianshu.com##.active.tab > [href="/"]
 www.jianshu.com##.aside.col-xs-offset-1.col-xs-7
+www.jianshu.com##.banner
 www.jianshu.com##.d0hShY
 www.jianshu.com##.download-content
 www.jianshu.com##.forget-btn
@@ -2473,6 +2736,7 @@ www.jianshu.com##[href="/subscriptions"]
 www.jianshu.com##a._1OhGeD.hM7XFL:nth-of-type(1)
 www.jianshu.com##a._1OhGeD.hM7XFL:nth-of-type(2)
 www.jianshu.com##a._1OhGeD.hM7XFL:nth-of-type(3)
+www.jianshu.com##footer.container
 www.jianshu.com##li.tab > [href="/"]
 www.jianshu.com##li.tab:nth-of-type(3)
 www.jianshu.com##section._3Z3nHf:nth-of-type(1)
@@ -2566,6 +2830,9 @@ www.niceso.fun##a.header-url:nth-of-type(4)
 www.niceso.fun##div.side-item:nth-of-type(3)
 www.niceso.fun##div.side-item:nth-of-type(4)
 www.niceso.fun##div.side-item:nth-of-type(6)
+www.onenote.com##.ResizableFooterContainer.DarkColorPalette.FooterUIFont.footerContainer
+www.onenote.com##.SharedHeaderFeedback
+www.onenote.com##.headXLinks
 www.onlinegdb.com##.text-center.container-fluid
 www.patest.cn##.ads_1L6T2.w-full.pc-slider
 www.patest.cn##.alerts_2cEyX
@@ -2573,16 +2840,24 @@ www.patest.cn##.info_1SehB
 www.patest.cn##.items-center.justify-center.mb-2.space-x-4.center.pc-slider-indicator.pc-h
 www.patest.cn##.lg\:inline.ml-2
 www.patest.cn##.md\:absolute.md\:leading-loose.leading-none.pt-2.block.footer_227uT
+www.processon.com###banner_2
 www.processon.com###board-btn
+www.processon.com##.achievement.n_page_con
 www.processon.com##.app-down
+www.processon.com##.collaboration.n_page_con
 www.processon.com##.content_box
 www.processon.com##.global-tip.badge
 www.processon.com##.left-bottom-con
 www.processon.com##.left-bottom-files
 www.processon.com##.link-instanted.to-template
+www.processon.com##.mind_map_tab
+www.processon.com##.show.serve.n_page_con
+www.processon.com##.svg.mind_map_svg
+www.processon.com##.template.n_page_con
 www.processon.com##a[href="javascript:;"]:nth-of-type(2)
 www.processon.com##a[href="javascript:;"]:nth-of-type(3)
 www.processon.com##a[href="javascript:;"]:nth-of-type(4)
+www.processon.com##footer
 www.processon.com##header
 www.python123.io##.container > .help
 www.python123.io##.footer
@@ -2593,6 +2868,69 @@ www.python123.io##.vertical-rl.feedback.is-primary.button
 www.python123.io##a.navbar-item:nth-of-type(5)
 www.python123.io##button.is-white.is-small.button:nth-of-type(2)
 www.python123.io##div.field > .is-white.is-small.button
+www.qcc.com##.app-nfooter
+www.qcc.com##.app-suspend
+www.qcc.com##.bicon-phoneview.bicon
+www.qcc.com##.bottom > .m-t-xs
+www.qcc.com##.dcert
+www.qcc.com##.fixed.fixedlink
+www.qcc.com##.follow.action-btn
+www.qcc.com##.header-qrcode.dropdown.nav-item > .no-cart.dropdown-toggle.nav-link
+www.qcc.com##.hot-news-scroll
+www.qcc.com##.hot-news-title
+www.qcc.com##.icon-10w
+www.qcc.com##.icon-icon_hot.iconfont.aicon-hot.aicon
+www.qcc.com##.icon-icon_new.iconfont.aicon-new.aicon
+www.qcc.com##.index-hot-box
+www.qcc.com##.login-tip-large.m-t-n-xs.text-center.font-12.text-gray
+www.qcc.com##.login-tip.m-t-n-xs.text-center.font-12.text-gray
+www.qcc.com##.monitor-text
+www.qcc.com##.right-link
+www.qcc.com##.tcaption > .watermark
+www.qcc.com##div.rnav-menu:nth-of-type(1)
+www.qcc.com##div.subtitle
+www.qcc.com##li.head-line:nth-of-type(2)
+www.qcc.com##li.head-line:nth-of-type(4)
+www.qcc.com##li.head-line:nth-of-type(6)
+www.qcc.com##li.nav-item:nth-of-type(1)
+www.qcc.com##li.nav-item:nth-of-type(3)
+www.qcc.com##li.pass-drop.dropdown.nav-item:nth-of-type(7)
+www.qcc.com##p.desc
+www.qixin.com##.app-be-vip2 > .vip-padding > .bg-white.vip-container > .text-center.top-container > .padding-20px > .m-t-4.font-12.font-f11
+www.qixin.com##.bg-transparent.app-top-bar-home > .container > .row > .clearfix.col-xs-24 > .pull-left > .beian-container.inline-block
+www.qixin.com##.btn-sm.btn1.btt.app-collect-btn
+www.qixin.com##.clearfix.relative.col-xs-24.col-md-21.col-md-offset-2.col-lg-18.col-lg-offset-3.margin-t-0-3x
+www.qixin.com##.col-xs-16 > .trend-logo
+www.qixin.com##.container.normal-width > .row > .clearfix.col-xs-24 > .pull-left > .beian-container.inline-block > .font-white.font-12.text-center.app-beian
+www.qixin.com##.cursor-p.app-corner-marker
+www.qixin.com##.fixed-tool
+www.qixin.com##.font-18.font-f17.m-b-25.m-t-50.login-text
+www.qixin.com##.font-f11.bg-top.app-common-top-header
+www.qixin.com##.footer
+www.qixin.com##.inline-block.claim-tag
+www.qixin.com##.inline-block.trend-swiper > .item-fade.list-item
+www.qixin.com##.m-l-10.font-12.app-collect-btn-box
+www.qixin.com##.m-l-4.font-f6
+www.qixin.com##.m-t-10.font-12.font-f11
+www.qixin.com##.m-t-20.font-14
+www.qixin.com##.m-v-15.tips.text-center.small
+www.qixin.com##.min-width.footer
+www.qixin.com##.min-width.p-b-40.m-t-40.app-home-verify-companies.container
+www.qixin.com##.minute-entry
+www.qixin.com##.p-h-0.p-v-50.container
+www.qixin.com##.p-h-10.hidden-md.hidden-sm.hidden-xs.cursor-p.tab-link.btn-group
+www.qixin.com##.p-h-15.hidden-md.hidden-sm.hidden-xs.cursor-p.nowrap.tab-link.btn-group
+www.qixin.com##.p-t-40.p-h-0.app-home-carousel.container
+www.qixin.com##.report-hot
+www.qixin.com##.vip-padding > .bg-white.vip-container > .app-vip-list
+www.qixin.com##div.hidden-sm.hidden-xs.nav-link.btn-group:nth-of-type(3)
+www.qixin.com##div.hidden-sm.hidden-xs.nav-link.btn-group:nth-of-type(7)
+www.qixin.com##div.hidden-xs.nav-link.btn-group:nth-of-type(2)
+www.qixin.com##div.hover-rotate.dropdown-container.nav-link.hidden-sm.hidden-xs.btn-group:nth-of-type(4)
+www.qixin.com##span.hidden-md.hidden-sm.hidden-xs.split-line:nth-of-type(3)
+www.qixin.com##span.hidden-md.hidden-sm.hidden-xs.split-line:nth-of-type(4)
+www.qixin.com##span.hidden-sm.hidden-xs.split-line:nth-of-type(1)
+www.qixin.com##span.hidden-sm.hidden-xs.split-line:nth-of-type(2)
 www.qt.io##.b-footer
 www.runoob.com##.cf.runoob dl:nth-of-type(4)
 www.runoob.com##.copyright.w-1000
@@ -2632,6 +2970,47 @@ www.teachermate.com.cn##[href="/cpdaily-api/auth"]
 www.teachermate.com.cn##[href="https://www.wzj.io/user-login"]
 www.teachermate.com.cn##button:nth-of-type(4)
 www.teachermate.com.cn##div.rowFlex___2al9P:nth-of-type(1)
+www.tianyancha.com##.-human.company-header-claim-btn.button-claim.-h28.button
+www.tianyancha.com##.-p10.-vip.nav-line-right.nav-item
+www.tianyancha.com##.-risk.nav-new
+www.tianyancha.com##.J_isShowHotNews.hot-news-container
+www.tianyancha.com##.\31 .claim-opt
+www.tianyancha.com##.back_to_top_container
+www.tianyancha.com##.company-claim-certificate-btn-container
+www.tianyancha.com##.company_bottom_question
+www.tianyancha.com##.content-top > span > .tic-tag-new.tic
+www.tianyancha.com##.data-logo
+www.tianyancha.com##.focusBtn.followfocusbtn.link-hover-click
+www.tianyancha.com##.footer-seo-bar
+www.tianyancha.com##.header-intro
+www.tianyancha.com##.header-intro
+www.tianyancha.com##.home-common-box.box-news.bglight
+www.tianyancha.com##.home-common-box.home-claim.bgdark
+www.tianyancha.com##.home-common-box.home-qifu.bgdark
+www.tianyancha.com##.hotlist.hotsearch
+www.tianyancha.com##.in.collapse.f-base.message_box.modulein2.modulein > .login-bottom
+www.tianyancha.com##.in.collapse.f-base.message_box.modulein2.modulein > .login-property
+www.tianyancha.com##.in.collapse.f-base.mobile_box.modulein1.modulein > .login-property
+www.tianyancha.com##.js-nav-switch.tyc-header > .rel.container > .f0.left > .header-intro
+www.tianyancha.com##.js-nav-switch.tyc-header > .rel.container > .right > .tyc-nav > .nav-line-right.-vip.-p10.nav-item
+www.tianyancha.com##.nav-line-right.-vip.-p10.-home.nav-item
+www.tianyancha.com##.own-btn
+www.tianyancha.com##.partner-company-header > .-claim-guide.tips-block-data
+www.tianyancha.com##.right-claim-company.right-block > .right-data-container
+www.tianyancha.com##.right-hot-topic.right-block
+www.tianyancha.com##.scan-tips
+www.tianyancha.com##.scan-title > .tip
+www.tianyancha.com##.titleHot > .tic-tag-hot.tic
+www.tianyancha.com##.triangle-xcx
+www.tianyancha.com##.tyc-footer
+www.tianyancha.com##.tyc-home > .container
+www.tianyancha.com##.tyc-page-end
+www.tianyancha.com##div.-p10.nav-line-right.nav-item:nth-of-type(4)
+www.tianyancha.com##div.coope-home.nav-line-right.-p10.-home.nav-item:nth-of-type(4)
+www.tianyancha.com##div.coope-home.nav-line-right.-p10.-home.nav-item:nth-of-type(5)
+www.tianyancha.com##div.nav-line-right.-p10.-home.nav-item:nth-of-type(3)
+www.tianyancha.com##div.nav-line-right.-p10.nav-item:nth-of-type(3)
+www.tianyancha.com##div.nav-line-right.-p10.nav-item:nth-of-type(6)
 www.tool77.com##.badge
 www.tool77.com##.col-sm-12.col-xs-12.col-md-5
 www.tool77.com##.first-area.center-area > .other-tool-recommend.content-area
@@ -2708,6 +3087,22 @@ www.xiaoso.net##div.multi:nth-of-type(8)
 www.xpdf.cn###navbar-login
 www.xpdf.cn##.container-xl > .d-lg-block.d-none
 www.xpdf.cn##.d-print-none.footer-transparent.footer
+www.yhdmp.cc##.bdshare-button-style0-16.l.bdsharebuttonbox
+www.yhdmp.cc##.bg.foucs
+www.yhdmp.cc##.botit
+www.yhdmp.cc##.box.area
+www.yhdmp.cc##.foot
+www.yhdmp.cc##.gbook
+www.yhdmp.cc##.imgs
+www.yhdmp.cc##.info
+www.yhdmp.cc##.link
+www.yhdmp.cc##.playbg
+www.yhdmp.cc##.r.dmus
+www.yhdmp.cc##.score
+www.yhdmp.cc##div.area > .dtit
+www.yhdmp.cc##div.blank:nth-of-type(3)
+www.yhdmp.cc##div.blank:nth-of-type(5)
+www.yhdmp.cc##div.pics p
 www.youku.com##.copyright
 www.youtube.com###button > .ytd-subscription-notification-toggle-button-renderer.style-scope
 www.youtube.com###chat
@@ -2944,6 +3339,8 @@ xueshu.baidu.com##div.dtl_r_item:nth-of-type(2)
 xueshu.baidu.com##h2
 xui.ptlogin2.qq.com###bottom_qlogin > span.dotted
 xui.ptlogin2.qq.com###feedback_qlogin
+xui.ptlogin2.qq.com###qlogin_entry
+xui.ptlogin2.qq.com###qlogin_tips_0
 xui.ptlogin2.qq.com###web_login > .bottom
 xui.ptlogin2.qq.com##.qr_info_link
 xui.ptlogin2.qq.com##.qr_safe_tips
@@ -3203,6 +3600,9 @@ zhuanlan.zhihu.com##.Voters
 zhuanlan.zhihu.com##li.NestComment--child > .CommentItemV2 > div > .CommentItemV2-metaSibling > .CommentItemV2-footer
 ||alp.alicdn.com/1640974710740-2100-220.png$image
 ||assets.retiehe.com/donate.png$image
+||bgcdn.qixin.com/pcweb/static/font/beian-a0aac1f0.svg$image
+||bgcdn.qixin.com/pcweb/static/img/new_icon-f175ed1c.png$image
+||bgcdn.qixin.com/pcweb/static/img/vip-75fd68b2.png$image
 ||cdn2.jianshu.io/assets/web/sign_in_bg-bbc515a9c2e7734807ea281b9b2ab380.png$image
 ||edu-image.nosdn.127.net/58302e280f7d4a3aab53d0240fe4775b.png?imageView&quality=100$image
 ||edu-image.nosdn.127.net/6531D913BDB804B34ABF22325EC2305E.png?imageView&thumbnail=1200y160&quality=100$image
@@ -3233,6 +3633,7 @@ zhuanlan.zhihu.com##li.NestComment--child > .CommentItemV2 > div > .CommentItemV
 ||puui.qpic.cn/vupload/0/20190708_h2gvgd4og8/0$image
 ||puui.qpic.cn/vupload/0/20190708_hvl7275ycy7/0$image
 ||puui.qpic.cn/vupload/0/20190708_put2hy5e2g/0$image
+||qcc-static.qichacha.com/qcc/pc-web/prod-22.05.89/images/logo_zx3-777e76ee.png$image
 ||qn11.tool.lu/201708/03/124834fKC2UXA9sQUEVshq.svg$image
 ||s.pc.qq.com/tousu/img/20210831/4586728_1630410592.jpg$image
 ||s1.hdslb.com/bfs/seed/game-web/duang/footer/images/feedback.9f3fd76.png$image
@@ -3248,6 +3649,7 @@ zhuanlan.zhihu.com##li.NestComment--child > .CommentItemV2 > div > .CommentItemV
 ||www.52pojie.cn/template/default/style/t5/bgimg.jpg$image
 ||www.jianguoyun.com/static/images/nutstore_robot.png$image
 ||www.liaoxuefeng.com/files/attachments/1422670998536258/0$image
+||www.processon.com/assets/images/home/achievement_bg.png$image
 ||www.runoob.com/wp-content/themes/runoob/assets/img/bg.gif$image
 ||www.runoob.com/wp-content/uploads/2018/06/history-operator.jpg$image
 ||www.w3school.com.cn/ui2017/icon8.png$image
