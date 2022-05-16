@@ -278,6 +278,8 @@ biligame.com##.right-entry li.right-entry-item:nth-of-type(2)
 biligame.com##.right-entry li.right-entry-item:nth-of-type(7)
 blog.csdn.net###treeSkill
 blog.csdn.net##.comment-title
+blog.csdn.net##.lock-img
+blog.csdn.net##.npsBox404
 book.codefine.site##.col-12.col.text-center
 book.codefine.site##.footer-text.text-center.mb-0
 book.codefine.site##.pink.v-size--default.theme--dark.v-btn--round.v-btn--right.v-btn--has-bg.v-btn--fixed.v-btn--fab.v-btn--is-elevated.v-btn--bottom.v-btn
@@ -580,6 +582,7 @@ download.csdn.net##.content-middle
 download.csdn.net##.feedback
 download.csdn.net##.gift
 download.csdn.net##.hot-search
+download.csdn.net##.icon.icon-small.favorite-icon
 download.csdn.net##.icon_banner_share
 download.csdn.net##.is-never-shadow.el-card
 download.csdn.net##.layout-right
@@ -589,6 +592,7 @@ download.csdn.net##.navs
 download.csdn.net##.relative.mb-24.flex-hc.flex.mt-24
 download.csdn.net##.upload-sidebar
 download.csdn.net##.vip
+download.csdn.net##[src="https://img-home.csdnimg.cn/images/20220420034224.gif"]
 drive.google.com##.CvF1Qb
 drive.google.com##.M1zY4b.bMWlzf
 drive.google.com##.ml-Pr-kg
@@ -598,6 +602,9 @@ ebook2.lorefree.com##.footer
 ebook2.lorefree.com##.nav.navbar-right.navbar-nav
 ebook2.lorefree.com##[href="#"]
 ebook2.lorefree.com##[href="http://www.lorefree.com"]
+edaser.github.io##.el-icon--right.el-icon-link
+edaser.github.io##.feedback
+edaser.github.io##.hide-in-mobile.el-icon-edit.el-tooltip
 edu.csdn.net##.feedback.fr
 edu.csdn.net##.isActive.item_sign
 edu.csdn.net##.isStudyVip.isVip.item_sign
@@ -800,11 +807,18 @@ hou.qialu999.com##label:nth-of-type(4)
 hou.qialu999.com##label:nth-of-type(6)
 hou.qialu999.com##label:nth-of-type(7)
 hou.qialu999.com##label:nth-of-type(8)
+hub.hust.edu.cn###landing-content > div.login-a
 hub.hust.edu.cn##.layui-row.foot
+hub.hust.edu.cn##.login-footer
+hub.hust.edu.cn##div.login-a:nth-of-type(3)
+hub.hust.edu.cn##div.login-a:nth-of-type(5)
+hub.hust.edu.cn##div.login-a:nth-of-type(6)
 hubs.hust.edu.cn###landing-content > div.login-a
 hubs.hust.edu.cn##.footer
 hubs.hust.edu.cn##.login-footer
 hubs.hust.edu.cn##div.login-a:nth-of-type(3)
+hust.edu.cn###footer
+hust.edu.cn###jumphandle
 i.chaoxing.com###first108968
 i.chaoxing.com###first108970
 i.chaoxing.com###first108973
@@ -962,9 +976,6 @@ luogu.com.cn##.am-u-md-12 > .lg-article
 luogu.com.cn##.am-u-md-12 > .lg-article > .am-g
 luogu.com.cn##.mdui-color-theme
 luogu.com.cn##.mdui-color-theme > .mdui-valign
-luogu.com.cn##.user-header-top > .avatar
-luogu.com.cn##.user-info > .lfe-caption
-luogu.com.cn##.user-name
 luogu.com.cn##a.color-none.header-link:nth-of-type(1)
 luogu.com.cn##div.lfe-body.wrapped.wrapper:nth-of-type(2)
 luogu.com.cn##div.lg-article:nth-of-type(2)
@@ -1117,12 +1128,24 @@ mirrors.cloud.tencent.com##.ms-experience-active
 mirrors.cloud.tencent.com##.ms-footer
 mirrors.cloud.tencent.com##div.ms-content:nth-of-type(2)
 mirrors.tuna.tsinghua.edu.cn##.tuna-foot-1
+mooc1.chaoxing.com###_report
+mooc1.chaoxing.com##.f13.pct60.rel.mb10.r
 mooc1.chaoxing.com##.fr.check_repeat
+mooc1.chaoxing.com##.insightBtn.fl.listSubmit
 mooc1.chaoxing.com##.report
 mooc1.chaoxing.com##.right-button
 mooc1.chaoxing.com##.title
 mooc1.chaoxing.com##.verticalMiddle
+mooc1.chaoxing.com##.viewer-report
+mooc2-ans.chaoxing.com##.course-info > .color2.line2.margint10
 mooc2-ans.chaoxing.com##.fl.backOld
+mooc2-ans.chaoxing.com##.stuNavigationList.nav-content ul:nth-of-type(1) li:nth-of-type(3)
+mooc2-ans.chaoxing.com##.stuNavigationList.nav-content ul:nth-of-type(3)
+mooc2-ans.chaoxing.com##[href="http://hust.benke.chaoxing.com/schoolcourse/schoolcourselist.html?type=5"]
+mooc2-ans.chaoxing.com##[href="javascript:void(0);"] > span
+mooc2-ans.chaoxing.com##btn_group:nth-of-type(1)
+mooc2-ans.chaoxing.com##div.course-tab
+mooc2-ans.chaoxing.com##dt
 movie.douban.com##.ticket
 movie.douban.com##.top-nav-doubanapp
 mp.weixin.qq.com##.login__type__container__scan__info__desc
@@ -1205,7 +1228,9 @@ onlineweb.zhihuishu.com###interestingClassed
 onlineweb.zhihuishu.com###titleListAll
 onlineweb.zhihuishu.com##.box_line
 onlineweb.zhihuishu.com##.cns-main-footer
+onlineweb.zhihuishu.com##.course-type-icon
 onlineweb.zhihuishu.com##.header-content_leftBox > [href]
+onlineweb.zhihuishu.com##.header-content_middleBox
 onlineweb.zhihuishu.com##.important-alert-header > span
 onlineweb.zhihuishu.com##.important-alert-header i
 onlineweb.zhihuishu.com##.retireClass
@@ -1678,8 +1703,10 @@ url15.ctfile.com##.bg-light.card
 user.zhihuishu.com###wall-bg
 user.zhihuishu.com##.clearfix.vipmemebr-div
 user.zhihuishu.com##.fl.Z_em
+user.zhihuishu.com##.persInfoBox-div.clearfix.pr.persInfoBox > .clearfix.persInfoList-ul.persInfoList > li.clearfix:nth-of-type(1)
 user.zhihuishu.com##.rightFix
 user.zhihuishu.com##.switch-wrap-signup > .other-signin-way-ques
+user.zhihuishu.com##.userphoto-edit
 user.zhihuishu.com##.zhs-user-deal
 v.qq.com###Thai_series
 v.qq.com###ad_qll_width1
@@ -1995,10 +2022,29 @@ www.aliyundrive.com##li.ant-dropdown-menu-item-only-child.ant-dropdown-menu-item
 www.aliyundrive.com##li.ant-dropdown-menu-item-only-child.ant-dropdown-menu-item:nth-of-type(9)
 www.aliyundrive.com##li.nav-menu-item--2oDIG:nth-of-type(5)
 www.aliyundrive.com##li.tab--15mUG:nth-of-type(1)
-www.aplaybox.com##.el-button--default.p_font_weight_thin.p_button_primry_with_icon.el-button
-www.aplaybox.com##.el-dropdown-selfdefine.hover_mouse
-www.aplaybox.com##.margin_bottom_normal.p_font_weight_thin.p_font_sm
-www.aplaybox.com##.margin_top_big.p_b_color_footer.p_font_sm.p_footer
+www.aplaybox.com##.Header > .el-button--default.p_font_weight_thin.p_button_primry_with_icon.el-button
+www.aplaybox.com##.banner.p_wrap
+www.aplaybox.com##.desc.p_font_tab.report_state.hover_mouse
+www.aplaybox.com##.dislike_state.hover_mouse.margin_left_big
+www.aplaybox.com##.el-dropdown-selfdefine.icon-shenglve.iconfont.p_icons_sm
+www.aplaybox.com##.el-tooltip.back-to-ceiling
+www.aplaybox.com##.like_state.hover_mouse.margin_left_big
+www.aplaybox.com##.margin_left_big.p_font_sm.details > .margin_top_normal.info > .right
+www.aplaybox.com##.margin_left_normal.p_font_msm.hover_mouse_no_color_change.followBtnDetailsSmall
+www.aplaybox.com##.margin_left_small.p_b_center.p_b_lv
+www.aplaybox.com##.margin_left_small.p_b_lv
+www.aplaybox.com##.p_b_color_footer.p_font_sm.p_footer
+www.aplaybox.com##.p_font_color_gray2.margin_left_big
+www.aplaybox.com##.p_font_msm.up
+www.aplaybox.com##.reply_state.hover_mouse.margin_left_big
+www.aplaybox.com##button.el-button--default.p_font_weight_thin.p_b_normal.p_font_color_gray.p_font_sm.el-button:nth-of-type(2)
+www.aplaybox.com##div.p_border_bottom_normal.padding_bottom_sm.p_font_sm.comment-wrap:nth-of-type(1)
+www.aplaybox.com##div.p_border_bottom_normal.padding_bottom_sm.p_font_sm.comment-wrap:nth-of-type(3)
+www.aplaybox.com##div.padding_right_header:nth-of-type(2)
+www.aplaybox.com##div.padding_right_header:nth-of-type(3)
+www.aplaybox.com##li.hover_mouse.tabs_item:nth-of-type(5)
+www.aplaybox.com##li.p_font_md.margin_top_big.hover_mouse.p_controll_list_item_height.articleItem:nth-of-type(4)
+www.aplaybox.com##li.p_font_md.margin_top_big.hover_mouse.p_controll_list_item_height.articleItem:nth-of-type(5)
 www.axutongxue.com###footer
 www.axutongxue.com##.forkit
 www.axutongxue.com##.sider-text
@@ -2112,6 +2158,7 @@ www.bilibili.com##.reply-con > .user > a.level-link > .level
 www.bilibili.com##.report-scroll-module.report-wrap-module.pop-live
 www.bilibili.com##.report-scroll-module.report-wrap-module.recom-wrapper
 www.bilibili.com##.report-wrap-module.pay-bar
+www.bilibili.com##.report-wrap-module.recommend-list
 www.bilibili.com##.right-entry--vip.right-entry__outside
 www.bilibili.com##.right-entry-item--upload.right-entry-item > .v-popover-wrap > [href]
 www.bilibili.com##.roll-btn-wrap
@@ -2245,8 +2292,13 @@ www.codenong.com##.fa-tag.fa
 www.codenong.com##.mt-5.py-3.bg-light
 www.codenong.com##.navbar-collapse.collapse
 www.codenong.com##.tools
+www.csdn.net###csdn-copyright-footer
+www.csdn.net##.ag-tb-rt
 www.csdn.net##.ask.Community-item > .content > .operation
 www.csdn.net##.blog.Community-item > .content > .operation
+www.csdn.net##.nps-block
+www.csdn.net##.right-special-column
+www.csdn.net##div.pudn-recommend:nth-of-type(3)
 www.docin.com###aboutChoose
 www.docin.com###jControlDiv
 www.docin.com###jRealNameTips
@@ -2333,18 +2385,45 @@ www.ebook80.com##.inpr
 www.ebook80.com##.inpr > p
 www.ebook80.com##.loglist
 www.ebook80.com##dl#Tblogpublished.function:nth-of-type(2)
+www.educoder.net###\33  > a > span
 www.educoder.net###wechat_QR_code_ids
+www.educoder.net##.action-bar a:nth-of-type(4)
+www.educoder.net##.actionBtns___30tMe
 www.educoder.net##.ant-breadcrumb
 www.educoder.net##.ant-card-bordered.fadeIn.animated.ant-card > .ant-card-body > .ant-card-meta > .ant-card-meta-detail > .ant-card-meta-description > div > .excellentTag___3SQzl
 www.educoder.net##.ant-dropdown-trigger.font16
+www.educoder.net##.ant-rate
 www.educoder.net##.banner___2ShvM
 www.educoder.net##.bg___27JHL > div
+www.educoder.net##.btn-resize
+www.educoder.net##.c-grey-333
+www.educoder.net##.c-light-black
 www.educoder.net##.c-yellow
+www.educoder.net##.close-line
+www.educoder.net##.contentLeftWrap___3cPFj .c-white.font14
+www.educoder.net##.eval-desc.flex-container
+www.educoder.net##.fadeIn.animated.tc .font14.mt20
+www.educoder.net##.font14.hint___1VSGa
+www.educoder.net##.font14.hint___1nYz_
+www.educoder.net##.font14.hint___2Mhin
+www.educoder.net##.font14.hint___CtVJ2
+www.educoder.net##.gold-and-experience
+www.educoder.net##.grade-info
+www.educoder.net##.green.icon-wancheng1.iconfont
 www.educoder.net##.icon-shenqingchengweijiaoshi.iconfont.c-white
 www.educoder.net##.icon-shenqingchengweizhujiao.iconfont.c-white
+www.educoder.net##.icon-tishi.colorRed___3vds7.mr25.font16.iconfont
+www.educoder.net##.icon-wancheng.colorGreen___1cWMZ.mr25.font16.iconfont
+www.educoder.net##.icon-wancheng1.iconfont
 www.educoder.net##.left___1ibOB > .btn___2qiRc
 www.educoder.net##.left___1ibOB > .btns___1GDWA > .b1___3pTXG
 www.educoder.net##.left___1ibOB > .btns___1GDWA > .b2___2yHB2 > .icon-jiantou1.iconfont
+www.educoder.net##.left___2kvDQ > span:nth-of-type(2)
+www.educoder.net##.left___aG9EY > span:nth-of-type(2)
+www.educoder.net##.link___9K6BJ > span:nth-of-type(1)
+www.educoder.net##.link___9K6BJ > span:nth-of-type(2)
+www.educoder.net##.link___YOlst > span:nth-of-type(1)
+www.educoder.net##.link___YOlst > span:nth-of-type(2)
 www.educoder.net##.mainSiteBanner___BnI08.banner___5fOFW
 www.educoder.net##.mr15.ml15.current.font18.icon-sousuo.iconfont
 www.educoder.net##.mt15.mb0
@@ -2353,21 +2432,34 @@ www.educoder.net##.public___24PL-
 www.educoder.net##.qrcode___kjUuj.affixContainer___py2xS
 www.educoder.net##.radio-group-sort-order.mr20.ml20.ant-radio-group-solid.ant-radio-group
 www.educoder.net##.recommandTrainingWrap___2E26J
+www.educoder.net##.rightMenu___2Vjbz p:nth-of-type(2)
 www.educoder.net##.rightWrap___3cIAT
 www.educoder.net##.school___1PUs6
 www.educoder.net##.searchBarBorder___vlQvU.searchBar___1Op2O
 www.educoder.net##.shareClassroom___2h8IX
+www.educoder.net##.star-tip
 www.educoder.net##.tabBadge___k9fHK
+www.educoder.net##.task-header > span
+www.educoder.net##.task-tip
 www.educoder.net##.teachingTool___1xxbz
+www.educoder.net##.tips___3tOnF
+www.educoder.net##.tips___6bZPM
+www.educoder.net##.title1_right___QCRrC.ant-col
+www.educoder.net##.titleFlexEnd___3qeo-.titleWrap___3rqyq > div > span
 www.educoder.net##.undefined.menu___Km2Uo > li:nth-of-type(5)
 www.educoder.net##.undefined.menu___Km2Uo > li:nth-of-type(6)
 www.educoder.net##.undefined.menu___Km2Uo > li:nth-of-type(7)
 www.educoder.net##.undefined.menu___Km2Uo > li:nth-of-type(8)
 www.educoder.net##.undefined.menu___Km2Uo > li:nth-of-type(9)
+www.educoder.net##.updateAvatar___3eO7J
 www.educoder.net##.wrap___2LlrN
 www.educoder.net##[href="/classrooms/new"] > .ant-btn-primary.ant-btn
 www.educoder.net##[src="https://data.educoder.net/api/attachments/2668733"]
+www.educoder.net##div.finish.task-item-container > .rate-container
+www.educoder.net##div.flex-container:nth-of-type(2) p:nth-of-type(3)
+www.educoder.net##div.flex-container:nth-of-type(3) p:nth-of-type(2)
 www.educoder.net##div.searchBar___1Op2O:nth-of-type(1)
+www.educoder.net##section > .btn-group
 www.educoder.net##strong.font14:nth-of-type(1)
 www.effie.co##.content-third
 www.effie.co##.dark\:bg-\[\#1a1a1b\].bg-\[\#efefef\]
@@ -2625,19 +2717,11 @@ www.ituring.com.cn##div.pointer.flex-view.count-item:nth-of-type(2)
 www.ituring.com.cn##div.right-icon:nth-of-type(1)
 www.ituring.com.cn##div.right-icon:nth-of-type(2)
 www.ituring.com.cn##footer.hidden-sm
-www.ixinqing.com##.buy
-www.ixinqing.com##.col-md-3
-www.ixinqing.com##.col-md-5
-www.ixinqing.com##.container > div.row > .col-md-4
-www.ixinqing.com##.container > div.row > .col-md-8
-www.ixinqing.com##.hidden-xs.pull-right.mb-0.mt-0.pagination
-www.ixinqing.com##.mb-25.text-center
-www.ixinqing.com##a.mb-15.btn-success.btn:nth-of-type(4)
-www.ixinqing.com##div.col-md-6:nth-of-type(1)
+www.ixinqing.com##.navbar-right.navbar-nav.nav
+www.ixinqing.com##a.mb-15.btn-success.btn:nth-of-type(2)
+www.ixinqing.com##a.mb-15.btn-success.btn:nth-of-type(3)
 www.ixinqing.com##div.col-md-6:nth-of-type(2)
 www.ixinqing.com##footer
-www.ixinqing.com##hr:nth-of-type(1)
-www.ixinqing.com##li:nth-of-type(5)
 www.jb51.net###footer
 www.jb51.net###header
 www.jb51.net###right-share
@@ -2779,6 +2863,7 @@ www.lintcode.com##.new-user-gift-img-3lt3rxQXPlrE8mAbypPOLo
 www.lintcode.com##.panel-15mDLyXTQMPXFQ5wcvwUuw.lc-panel-2pGfFs1rf_2f4Nlc2dCyAy
 www.lintcode.com##.problem-list-advertisement-6wusRXnS1KWIRNvWja4WC.advertisement-1Fno7AfKtaFeIt5ihp0PnB
 www.lintcode.com##li.ant-menu-item:nth-of-type(10)
+www.listarypro.com##.floadAd
 www.logosc.cn##.CS-Layer
 www.logosc.cn##.btns > .bold.chat.brand-btn
 www.logosc.cn##.create-number-container
@@ -3289,6 +3374,24 @@ www.zhihu.com##li.Tabs-item--noMeta.Tabs-item:nth-of-type(7)
 www.zhihu.com##li.Tabs-item--noMeta.Tabs-item:nth-of-type(8)
 www.zhihu.com##li.Tabs-item--noMeta.Tabs-item:nth-of-type(9)
 www.zhihu.com##ol li:nth-of-type(5)
+www.zhihuishu.com###inter_list_one
+www.zhihuishu.com###vipJingxuan
+www.zhihuishu.com###virtualClass > .style-title > .block-type.icon
+www.zhihuishu.com##.all-channel__wrap
+www.zhihuishu.com##.app-item
+www.zhihuishu.com##.clearfix.footer
+www.zhihuishu.com##.clearfix.footer .banner
+www.zhihuishu.com##.content .live-course
+www.zhihuishu.com##.content .nav
+www.zhihuishu.com##.course-tag
+www.zhihuishu.com##.icon-vip.icon
+www.zhihuishu.com##.isMooc-icon
+www.zhihuishu.com##.rightFix
+www.zhihuishu.com##.swiper
+www.zhihuishu.com##.top-banner
+www.zhihuishu.com##.vip-item
+www.zhihuishu.com##div.style-one > .style-title > .inter-change.change
+www.zhihuishu.com##div.style-one > .style-title > .more
 wx.mail.qq.com##.ftn_sidebar_ad
 wx.mail.qq.com##.ftn_sidebar_info_expand
 wx.mail.qq.com##.xm_marginBottom10
