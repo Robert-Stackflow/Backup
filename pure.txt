@@ -970,6 +970,7 @@ live.bilibili.com##.index_2guBzSAh
 live.bilibili.com##.index_wAjp4xJW
 live.bilibili.com##.item-wrapper
 live.bilibili.com##.link-footer
+live.bilibili.com##.lower-row > .right-ctnr
 live.bilibili.com##.m-auto.area-detail-ctnr
 live.bilibili.com##.medal-section
 live.bilibili.com##.no__data
@@ -1533,16 +1534,17 @@ sm.ms##li.nav-item:nth-of-type(1)
 sm.ms##li.nav-item:nth-of-type(2)
 sm.ms##li:nth-of-type(5)
 sm.ms##li:nth-of-type(6)
-space.bilibili.com##.col-2 > div > .section
+space.bilibili.com##.clearfix.i-live-fo
 space.bilibili.com##.disable.h-vipType
 space.bilibili.com##.elec.section
+space.bilibili.com##.h-add-to-black.be-dropdown
 space.bilibili.com##.h-version.be-dropdown
-space.bilibili.com##.i-live.section
+space.bilibili.com##.i-live-unfod > p
 space.bilibili.com##.i-m.section
 space.bilibili.com##.icon.space-theme-trigger
 space.bilibili.com##.space-fans-medal
+space.bilibili.com##.to-top
 space.bilibili.com##div.i-ann.section:nth-of-type(5)
-space.bilibili.com##div.i-ann.section:nth-of-type(6)
 sso.icourses.cn##.content-box p
 sso.icourses.cn##.note-text
 stackoverflow.com##.mt12
