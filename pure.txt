@@ -2191,6 +2191,7 @@ www.bilibili.com##.note-btn__blue.note-btn
 www.bilibili.com##.palette-button-wrap
 www.bilibili.com##.palette-button-wrap > a.primary-btn
 www.bilibili.com##.pay-btns
+www.bilibili.com##.player-auxiliary-filter-menu.icon-general-moreactions.bp-icon
 www.bilibili.com##.popular-tips
 www.bilibili.com##.rank-tips
 www.bilibili.com##.rec-footer
