@@ -43,6 +43,20 @@ accounts.douban.com##.account-form-tips
 accounts.douban.com##.account-qr-text
 accounts.douban.com##.app-download
 accounts.douban.com##[href="https://www.douban.com/mobile/"]
+accounts.firefox.com###about-mozilla
+accounts.firefox.com###suggest-sync
+accounts.firefox.com##.faint.tos-pp
+accounts.firefox.com##.firefox-family-services
+accounts.firefox.com##.flex.self-center.relative
+accounts.firefox.com##.mobileLandscape\:rtl\:text-right.mobileLandscape\:text-left.text-center.mt-5
+accounts.firefox.com##.mt-2.text-xs.link-blue
+accounts.firefox.com##.pb-8.pt-7.tablet\:px-6.px-4.shadow.tablet\:rounded-xl.bg-white div.mt-5:nth-of-type(9)
+accounts.firefox.com##.rtl\:text-right.ltr\:text-left.mobileLandscape\:mt-8.desktop\:p-0.tablet\:px-8.py-7.px-6 > li:nth-of-type(2)
+accounts.firefox.com##.text-grey-400.border-grey-100.border-t.flex.mobileLandscape\:pb-6.mobileLandscape\:mx-8.mobileLandscape\:flex-no-wrap.flex-wrap.mx-4.mt-16.py-4 > [href]
+accounts.firefox.com##.text-sm > .link-blue
+accounts.firefox.com##.text-sm.link-blue.mx-auto
+accounts.firefox.com##div.items-center.flex > .p-1.hover\:bg-grey-200.border-transparent.rounded
+accounts.firefox.com##div.mobileLandscape\:ml-10.mobileLandscape\:mt-0.mt-3.items-center.flex.mobileLandscape\:w-auto.w-full
 accounts.google.com##.Bgzgmd
 accounts.google.com##.RwBngc
 aiqicha.baidu.com###aqc-footer
@@ -619,6 +633,8 @@ error.hust.edu.cn##.footer-box
 extract.me##.footer
 extract.me##.sm.sign-in
 extract.me##.top.ad
+fanya.chaoxing.com##.footer
+fanya.chaoxing.com##.mobile
 fanyi-api.baidu.com##.Contact-module__root--25ZHg
 fanyi-api.baidu.com##.Index-module__footer--1tvfT
 fanyi-api.baidu.com##.Index-module__main--3Oret > .style-module__root--1A-ji
@@ -819,6 +835,9 @@ hubs.hust.edu.cn##.login-footer
 hubs.hust.edu.cn##div.login-a:nth-of-type(3)
 hust.edu.cn###footer
 hust.edu.cn###jumphandle
+hust.fanya.chaoxing.com###firstSection
+hust.fanya.chaoxing.com###footer
+hust.fanya.chaoxing.com##.bg-align-style1.bg-repeat-style1.bg-scale-style4.custom-clip.page-footer-style14 > div
 i.chaoxing.com###first108968
 i.chaoxing.com###first108970
 i.chaoxing.com###first108973
@@ -888,6 +907,11 @@ koodo.960960.xyz##li.support.mt-2.col-lg-auto:nth-of-type(2)
 koodo.960960.xyz##li.support.mt-2.col-lg-auto:nth-of-type(3)
 koodo.960960.xyz##li.support.mt-2.col-lg-auto:nth-of-type(5)
 ks.csdn.net##.footer
+lc.zhihuishu.com###footer
+lc.zhihuishu.com##.conNav_right
+lc.zhihuishu.com##.header_right > ul > li:nth-of-type(2)
+lc.zhihuishu.com##.rightFix
+lc.zhihuishu.com##.toTop
 learn-english.dev##.tagline
 learn-english.dev##.the-end
 learn-english.dev##footer > .inner
@@ -937,9 +961,11 @@ leetcode-cn.com##li.ergbin89.css-gcuoo5-NavbarListItem:nth-of-type(7)
 link.bilibili.com##.badge
 link.bilibili.com##.link-footer
 link.bilibili.com##.webp.startlive-icon
+live.bilibili.com###anchor-guest-box-id
 live.bilibili.com##.banner-ctn
 live.bilibili.com##.border-box.convention-msg.chat-item
 live.bilibili.com##.f-left.h-100.shortcuts-ctnr
+live.bilibili.com##.haruna-sekai-de-ichiban-kawaii
 live.bilibili.com##.index_2guBzSAh
 live.bilibili.com##.index_wAjp4xJW
 live.bilibili.com##.item-wrapper
@@ -959,11 +985,14 @@ live.bilibili.com##.side-bar-cntr
 live.bilibili.com##.t-center.grid-area-ctnr
 live.bilibili.com##.ts-dot-4.a-move-in-left.live-sidebar-ctnr
 live.bilibili.com##.ts-dot-4.bg-no-repeat.bg-center.p-zero.p-absolute.h-100.w-100.bg-image
+live.bilibili.com##.v-bottom.gift-fans-medal.v-middle.p-relative.dp-i-block.fans-medal-item-target.fans-medal-item-ctnr
 live.bilibili.com##.v-middle.info-section.dp-i-block
 live.bilibili.com##.w-100.over-hidden.p-relative.flip-view
 live.bilibili.com##.webp.startlive-icon
 live.bilibili.com##.z-gift-control-section.border-box.p-relative.gift-control-section
 live.bilibili.com##.z-link-footer-ctnr.link-footer-ctnr
+live.bilibili.com##div.danmaku-item.chat-item > .v-middle.p-relative.dp-i-block.fans-medal-item-target.fans-medal-item-ctnr
+live.bilibili.com##div.gift-item.chat-item > .v-middle.dp-i-block
 live.bilibili.com##div.pointer.live-skin-normal-a-text.icon-ctnr:nth-of-type(1)
 live.bilibili.com##div.pointer.live-skin-normal-a-text.icon-ctnr:nth-of-type(2)
 login.live.com##.background-logo-holder
@@ -1631,9 +1660,13 @@ tool.oschina.net##.advise
 tool.oschina.net##.badge-important.badge
 tool.oschina.net##.menu.fixed.inverted.secondary.ui
 tool.oschina.net##div.clearfix.column:nth-of-type(2)
+tools.pdf24.org###erasedInfoLeftSideAd
+tools.pdf24.org###erasedInfoMain > div > .commonHints
+tools.pdf24.org###erasedInfoRightSideAd
 tools.pdf24.org##.allTools
 tools.pdf24.org##.centerPane
 tools.pdf24.org##.downloadInfo
+tools.pdf24.org##.dz-message div.note:nth-of-type(2)
 tools.pdf24.org##.even.section-10.section
 tools.pdf24.org##.even.section-12.section
 tools.pdf24.org##.even.section-16.section
@@ -1641,9 +1674,11 @@ tools.pdf24.org##.even.section-2.section
 tools.pdf24.org##.even.section-4.section
 tools.pdf24.org##.even.section-6.section
 tools.pdf24.org##.even.section-8.section
+tools.pdf24.org##.favstar
 tools.pdf24.org##.featureMarks.noLimits
 tools.pdf24.org##.filled.mt3.adBlock
 tools.pdf24.org##.filled.removeOnWorkerZoneShow.mb2.mt2.adBlock
+tools.pdf24.org##.filled.showOnWorkerZoneShow.mb2.mt2.adBlock
 tools.pdf24.org##.filters
 tools.pdf24.org##.first.even.section-0.section
 tools.pdf24.org##.ib.burger.icon-menu
@@ -1677,9 +1712,13 @@ toolwa.com##.help
 toolwa.com##.text-ad
 toolwa.com##[href="https://support.qq.com/products/62183"]
 translate.google.cn###sdgBod > .gb_2c.gb_5d
+translate.google.cn##.KIXMEf
 translate.google.cn##.TEGJAb > .kmrl0b
+translate.google.cn##.Tht3fc.bvzp8c > .OoYv6d > .X4hZJc.pEyuac > .j33Gae.MeCBDd.dykxn > .vSUSRc > div.F29iQc > .KKjvXb.qSb8Pe > .qGfVtc.VfPpkd-kBDsod.material-icons-extended
 translate.google.cn##.a88hkc
+translate.google.cn##.scLCMd
 translate.google.cn##.sp2Bqb
+translate.google.cn##.xU1xXd > div:nth-of-type(1)
 translate.google.cn##div.gb_Ac:nth-of-type(1)
 twitter.com##.r-13x4u8y.css-1dbjc4n
 twitter.com##.r-184en5c.r-13qz1uu.r-1ye8kvj.r-61z16t.r-11wrixw.r-1jgb5lz.r-1phboty.r-13l2t4g.r-1ljd8xs.r-jxzhtn.r-14lw9ot.css-1dbjc4n > .css-1dbjc4n > .r-184en5c.r-14lw9ot.css-1dbjc4n
@@ -2116,7 +2155,6 @@ www.bilibili.com##.comment-send-lite
 www.bilibili.com##.comment-send-lite > .textarea-container > .comment-submit
 www.bilibili.com##.comment-send-lite > .textarea-container > .ipt-txt
 www.bilibili.com##.con > .user > a.level-link > .level
-www.bilibili.com##.danmaku-wrap
 www.bilibili.com##.display
 www.bilibili.com##.fixed-service-bg
 www.bilibili.com##.head-title
@@ -2155,10 +2193,11 @@ www.bilibili.com##.popular-tips
 www.bilibili.com##.rank-tips
 www.bilibili.com##.rec-footer
 www.bilibili.com##.reply-con > .user > a.level-link > .level
+www.bilibili.com##.report-scroll-module.report-wrap-module.ad-floor.ad-report
 www.bilibili.com##.report-scroll-module.report-wrap-module.pop-live
 www.bilibili.com##.report-scroll-module.report-wrap-module.recom-wrapper
+www.bilibili.com##.report-scroll-module.report-wrap-module.video-ad-creative-card
 www.bilibili.com##.report-wrap-module.pay-bar
-www.bilibili.com##.report-wrap-module.recommend-list
 www.bilibili.com##.right-entry--vip.right-entry__outside
 www.bilibili.com##.right-entry-item--upload.right-entry-item > .v-popover-wrap > [href]
 www.bilibili.com##.roll-btn-wrap
@@ -2392,12 +2431,12 @@ www.educoder.net##.actionBtns___30tMe
 www.educoder.net##.ant-breadcrumb
 www.educoder.net##.ant-card-bordered.fadeIn.animated.ant-card > .ant-card-body > .ant-card-meta > .ant-card-meta-detail > .ant-card-meta-description > div > .excellentTag___3SQzl
 www.educoder.net##.ant-dropdown-trigger.font16
+www.educoder.net##.ant-form-vertical.ant-form > .tc
 www.educoder.net##.ant-rate
 www.educoder.net##.banner___2ShvM
 www.educoder.net##.bg___27JHL > div
 www.educoder.net##.btn-resize
 www.educoder.net##.c-grey-333
-www.educoder.net##.c-light-black
 www.educoder.net##.c-yellow
 www.educoder.net##.close-line
 www.educoder.net##.contentLeftWrap___3cPFj .c-white.font14
@@ -2662,6 +2701,7 @@ www.ilovepdf.com##.footer-main
 www.ilovepdf.com##.nav__item--gray.nav__item > [href]
 www.ilovepdf.com##.tooltip--bottom.tooltip.desktop > [href="/zh-cn/desktop"]
 www.ilovepdf.com##.top-menu > .nav
+www.ilovepdf.com##.uploader__droptxt
 www.iqiyi.com###J-header-upload > .header-sideItemCon
 www.iqiyi.com###nav_userBox > div > .qy-popup-box
 www.iqiyi.com##.J-download-title > .header-sideItemCon
@@ -2864,6 +2904,13 @@ www.lintcode.com##.panel-15mDLyXTQMPXFQ5wcvwUuw.lc-panel-2pGfFs1rf_2f4Nlc2dCyAy
 www.lintcode.com##.problem-list-advertisement-6wusRXnS1KWIRNvWja4WC.advertisement-1Fno7AfKtaFeIt5ihp0PnB
 www.lintcode.com##li.ant-menu-item:nth-of-type(10)
 www.listarypro.com##.floadAd
+www.lofter.com##._18kiHW_-mDCO0gIqki7j0T.style-13_1180-box-web-1
+www.lofter.com##._5aFA3gWS_rejTy7oRT0fb
+www.lofter.com##.g-ft
+www.lofter.com##.m-side-download-tip.g-boxv2
+www.lofter.com##.style-13_3098-box-web-1
+www.lofter.com##.style-14_4406-banner-web
+www.lofter.com##div._82COgGN-ouSfSobjg352c:nth-of-type(3)
 www.logosc.cn##.CS-Layer
 www.logosc.cn##.btns > .bold.chat.brand-btn
 www.logosc.cn##.create-number-container
@@ -2889,6 +2936,7 @@ www.logosc.cn##.team-intro
 www.logosc.cn##.text-center.samplelist-wrapper
 www.logosc.cn##.wechat-articles
 www.logosc.cn##.whylogobrand-wrapper
+www.luogu.com.cn##.shown.dropdown > .padding-0.float-card.card > .user-info > .user-action > span > span > span > .fa-w-4.fa-ellipsis-v.svg-inline--fa
 www.markdown.cn##.bs-footer
 www.markdown.cn##.dropdown-toggle
 www.markdown.cn##.jumbotron
@@ -3017,8 +3065,10 @@ www.qixin.com##span.hidden-md.hidden-sm.hidden-xs.split-line:nth-of-type(4)
 www.qixin.com##span.hidden-sm.hidden-xs.split-line:nth-of-type(1)
 www.qixin.com##span.hidden-sm.hidden-xs.split-line:nth-of-type(2)
 www.qt.io##.b-footer
+www.runoob.com###user_add_note
 www.runoob.com##.cf.runoob dl:nth-of-type(4)
 www.runoob.com##.copyright.w-1000
+www.runoob.com##.no_webshot
 www.runoob.com##.qrcode
 www.runoob.com##.search-share
 www.runoob.com##button.feedback-btn-gray.feedback-btn:nth-of-type(1)
@@ -3374,6 +3424,7 @@ www.zhihu.com##li.Tabs-item--noMeta.Tabs-item:nth-of-type(7)
 www.zhihu.com##li.Tabs-item--noMeta.Tabs-item:nth-of-type(8)
 www.zhihu.com##li.Tabs-item--noMeta.Tabs-item:nth-of-type(9)
 www.zhihu.com##ol li:nth-of-type(5)
+www.zhihu.com##p > span > .css-pgtd2j > .css-1dvsrp > path
 www.zhihuishu.com###inter_list_one
 www.zhihuishu.com###vipJingxuan
 www.zhihuishu.com###virtualClass > .style-title > .block-type.icon
