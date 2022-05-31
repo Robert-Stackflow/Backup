@@ -173,6 +173,7 @@ baike.baidu.com##.excellent-icon.posterFlag
 baike.baidu.com##.expert-icon.posterFlag
 baike.baidu.com##.featureArea-wrapper
 baike.baidu.com##.flower-sender-.flower-sender
+baike.baidu.com##.flower-sender-dark.flower-sender
 baike.baidu.com##.flower-sender-light.flower-sender
 baike.baidu.com##.help
 baike.baidu.com##.home-module.character-container
@@ -292,8 +293,10 @@ biligame.com##.right-entry li.right-entry-item:nth-of-type(2)
 biligame.com##.right-entry li.right-entry-item:nth-of-type(7)
 blog.csdn.net###treeSkill
 blog.csdn.net##.comment-title
+blog.csdn.net##.csdn-toolbar-fl.toolbar-menus [href^="https://dev-portal.csdn.net/welcome"]
 blog.csdn.net##.lock-img
 blog.csdn.net##.npsBox404
+blog.csdn.net##[href="https://edu.csdn.net/"]
 book.codefine.site##.col-12.col.text-center
 book.codefine.site##.footer-text.text-center.mb-0
 book.codefine.site##.pink.v-size--default.theme--dark.v-btn--round.v-btn--right.v-btn--has-bg.v-btn--fixed.v-btn--fab.v-btn--is-elevated.v-btn--bottom.v-btn
@@ -444,6 +447,8 @@ codefine.site###text-3
 codefine.site##.entry-meta
 codefine.site##.yarpp-related
 connect.qq.com##.footer
+console.amap.com##.default___JD3dF.aliRobotWrap___2HO9A
+console.amap.com##.index_page-permission__1Iwal .ant-row
 convert.io##.footer
 convert.io##.top.ad
 copytranslator.github.io###在线交流与反馈
@@ -729,6 +734,7 @@ gitee.com##div.card.ui:nth-of-type(1)
 gitee.com##div.card.ui:nth-of-type(2)
 gitee.com##div.item:nth-of-type(6)
 gitee.com##div.item:nth-of-type(7)
+github.com###js-pjax-container > .px-lg-5.px-md-4.px-3.container-xl > .Layout--sidebarPosition-flowRow-start.Layout--sidebarPosition-start.Layout--flowRow-until-md.Layout .mt-3.flex-items-baseline.d-flex.color-fg-muted.text-small
 github.com##.d-flex.js-feedback-link.UnderlineNav-actions > [href="https://github.com/github/feedback/discussions/categories/feed-feedback"]
 github.com##.f6.mt-6.py-6.p-responsive.container-lg.footer
 github.com##.flex-items-center.flex-row-reverse.flex-justify-between.d-sm-flex.py-4.f6.p-responsive.container-xl
@@ -739,6 +745,7 @@ github.com##.lh-condensed.js-user-status-context.user-status-container.f6.pr-3.p
 github.com##.mb-3.f6.no-underline.Link--secondary.d-block
 github.com##.mr-1.btn-sm.btn
 github.com##.mr-2.btn-sm.btn
+github.com##.mt-3.mb-2.mt-md-2.mx-md-2.color-fg-muted.text-small
 github.com##.mt-4.color-fg-muted.f6
 github.com##.my-3.text-center
 github.com##.my-6.text-center
@@ -840,6 +847,8 @@ hust.fanya.chaoxing.com###footer
 hust.fanya.chaoxing.com##.bg-align-style1.bg-repeat-style1.bg-scale-style4.custom-clip.page-footer-style14 > div
 i.chaoxing.com###first108968
 i.chaoxing.com###first108970
+i.chaoxing.com###first108971
+i.chaoxing.com###first108972
 i.chaoxing.com###first108973
 i.chaoxing.com###first108975
 i.chaoxing.com###first54652
@@ -907,6 +916,7 @@ koodo.960960.xyz##li.support.mt-2.col-lg-auto:nth-of-type(2)
 koodo.960960.xyz##li.support.mt-2.col-lg-auto:nth-of-type(3)
 koodo.960960.xyz##li.support.mt-2.col-lg-auto:nth-of-type(5)
 ks.csdn.net##.footer
+lbs.amap.com##.quick_entrance
 lc.zhihuishu.com###footer
 lc.zhihuishu.com##.conNav_right
 lc.zhihuishu.com##.header_right > ul > li:nth-of-type(2)
@@ -996,12 +1006,39 @@ live.bilibili.com##div.danmaku-item.chat-item > .v-middle.p-relative.dp-i-block.
 live.bilibili.com##div.gift-item.chat-item > .v-middle.dp-i-block
 live.bilibili.com##div.pointer.live-skin-normal-a-text.icon-ctnr:nth-of-type(1)
 live.bilibili.com##div.pointer.live-skin-normal-a-text.icon-ctnr:nth-of-type(2)
+live.douyin.com###EI3ZJwM-
+live.douyin.com###_7quBs0tJ
+live.douyin.com##.J2wk4Mzi
+live.douyin.com##.NXa6wC4O
+live.douyin.com##.VPz4-306.mBGB33Vg.fagGqGzK.vtmmwltk
+live.douyin.com##.W17ghGY4
+live.douyin.com##.WGxbwrzj
+live.douyin.com##._3zMWm4HT
+live.douyin.com##._9zUVS\+o1
+live.douyin.com##.gwlBHN9d._22VUB0r7
+live.douyin.com##.itRc5R8s
+live.douyin.com##.l0I0l5H4
+live.douyin.com##.l0I0l5H4
+live.douyin.com##.ohjo\+Xk3
+live.douyin.com##.w6mL8bho
+live.douyin.com##.webcast-chatroom___bottom-message
+live.douyin.com##.webcast-chatroom__room-message
+live.douyin.com##div.EgTrwgM9.tympALAb:nth-of-type(1)
+live.douyin.com##div.EgTrwgM9.tympALAb:nth-of-type(10)
+live.douyin.com##div.EgTrwgM9.tympALAb:nth-of-type(11)
+live.douyin.com##div.EgTrwgM9.tympALAb:nth-of-type(12)
+live.douyin.com##div.EgTrwgM9.tympALAb:nth-of-type(13)
+live.douyin.com##div.EgTrwgM9.tympALAb:nth-of-type(14)
+live.douyin.com##div.EgTrwgM9.tympALAb:nth-of-type(15)
+live.douyin.com##div.EgTrwgM9.tympALAb:nth-of-type(16)
+live.douyin.com##div.EgTrwgM9.tympALAb:nth-of-type(5)
+live.douyin.com##div.EgTrwgM9.tympALAb:nth-of-type(9)
+live.douyin.com##footer
 login.live.com##.background-logo-holder
 login.live.com##.ext-footer.footer
 login.qt.io##.notificationwide.transparent
 logomakr.com##.elementor-location-footer.elementor-13.elementor
 luogu.com.cn###feed > .lg-article
-luogu.com.cn##.am-g.lg-article
 luogu.com.cn##.am-u-md-12 > .lg-article
 luogu.com.cn##.am-u-md-12 > .lg-article > .am-g
 luogu.com.cn##.mdui-color-theme
@@ -1141,8 +1178,10 @@ map.qq.com##div.MapTools:nth-of-type(5)
 mbd.baidu.com##.app-module_bottomWrapper_Wo80H
 member.bilibili.com##.date-desc_wrap
 member.bilibili.com##.new
+member.bilibili.com##.notice-tag
 member.bilibili.com##.side-utils
 member.bilibili.com##.tips-calendar_wrap
+mermaid-js.github.io##.mx-2.px-2.flex-1 .font-thin.text-xs
 microsoft.com###StoreLocations-HighlightHero-j2658kn > .herohighlight
 microsoft.com###onestore-quicklinksmodule-rdviurm-quicklink2
 microsoft.com###onestore-quicklinksmodule-rdviurm-quicklink5
@@ -1467,6 +1506,7 @@ play.google.com##.X1PzMe
 play.google.com##.id-track-click.g3P27d.CVBexe.nMZKrb.ScJHi.LkLjZd
 play.google.com##.xvpTFf.FWdCP
 play.google.com##.y089Ob
+player.bilibili.com##.bilibili-player-video-pause-panel-container-qrcode
 plugin.csdn.net##.chrome-content
 plugin.csdn.net##.extension-wrap > article.section > .feature-container.container > .middle-sm.middle-md.row
 plugin.csdn.net##.nav-wrap > li > [href="/update-chrome"]
@@ -1589,8 +1629,11 @@ t.bilibili.com##.bili-dyn-content__orig__additional
 t.bilibili.com##.bili-dyn-item__more
 t.bilibili.com##.bili-dyn-list-no-more
 t.bilibili.com##.bili-dyn-publishing
+t.bilibili.com##.bili-dyn-up-list__item__face > span
 t.bilibili.com##.comment-send
 t.bilibili.com##.comment-send-lite
+t.bilibili.com##.reply-notice
+t.bilibili.com##.right-entry-item--upload.right-entry-item
 t.bilibili.com##.topic-panel
 t.bilibili.com##.trending
 t.captcha.qq.com###guideText
@@ -1600,14 +1643,18 @@ themesberg.com##div.align-items-center.d-flex:nth-of-type(2)
 tieba.baidu.com###com_userbar
 tieba.baidu.com###lcsas-container
 tieba.baidu.com###onekey_sign
+tieba.baidu.com###pagelet_encourage-celebrity\/pagelet\/celebrity
+tieba.baidu.com###spage_game_tab_wrapper
 tieba.baidu.com##.aggregate_entrance_wrap
 tieba.baidu.com##.apply_groups
 tieba.baidu.com##.clearfix.top-sec
+tieba.baidu.com##.config-tab-tip
 tieba.baidu.com##.foot
 tieba.baidu.com##.footer
 tieba.baidu.com##.j_lzl_wrapper.core_reply > .core_reply_tail > .p_mtail > .complaint.j_jb_ele
 tieba.baidu.com##.j_search_nav.search_nav
 tieba.baidu.com##.j_zyq_mod_friend.zyq_mod_friend.aside_region
+tieba.baidu.com##.more-privilege-container
 tieba.baidu.com##.my_current_forum
 tieba.baidu.com##.r-right-sec
 tieba.baidu.com##.r-top-sec
@@ -1620,6 +1667,7 @@ tieba.baidu.com##.tbui_aside_float_bar
 tieba.baidu.com##.tbui_fbar_auxiliaryCare.tbui_aside_fbar_button > [href]
 tieba.baidu.com##.u-f-w
 tieba.baidu.com##.user_rights_msg
+tieba.baidu.com##.user_score
 tieba.baidu.com##div.u-f-t:nth-of-type(1)
 tieba.baidu.com##main.svelte-zmnt4x:nth-of-type(1)
 tieba.baidu.com##main.svelte-zmnt4x:nth-of-type(2)
@@ -1667,6 +1715,7 @@ tools.pdf24.org###erasedInfoMain > div > .commonHints
 tools.pdf24.org###erasedInfoRightSideAd
 tools.pdf24.org##.allTools
 tools.pdf24.org##.centerPane
+tools.pdf24.org##.collapseHandle
 tools.pdf24.org##.downloadInfo
 tools.pdf24.org##.dz-message div.note:nth-of-type(2)
 tools.pdf24.org##.even.section-10.section
@@ -1793,6 +1842,7 @@ v.qq.com##._channel_nav_精选.channel_nav_0.channel_nav
 v.qq.com##._channel_nav_纪录片.channel_nav_6.channel_nav
 v.qq.com##._channel_nav_综艺.channel_nav_3.channel_nav
 v.qq.com##._player_helper.player_helper
+v.qq.com##._quickopen_duration._quickopen.cf.mod_bd > .mod_column_side > .mod_column_hd.mod_hd > .bg_rank_ball
 v.qq.com##._site_channel_more.channel_more
 v.qq.com##._top.ft_cell_backup.ft_cell
 v.qq.com##.banner_main
@@ -2069,6 +2119,7 @@ www.aplaybox.com##.desc.p_font_tab.report_state.hover_mouse
 www.aplaybox.com##.dislike_state.hover_mouse.margin_left_big
 www.aplaybox.com##.el-dropdown-selfdefine.icon-shenglve.iconfont.p_icons_sm
 www.aplaybox.com##.el-tooltip.back-to-ceiling
+www.aplaybox.com##.hover_mouse.card-pic > .p_font_color_gray1.p_font_weight_thin.p_font_msm.icons
 www.aplaybox.com##.like_state.hover_mouse.margin_left_big
 www.aplaybox.com##.margin_left_big.p_font_sm.details > .margin_top_normal.info > .right
 www.aplaybox.com##.margin_left_normal.p_font_msm.hover_mouse_no_color_change.followBtnDetailsSmall
@@ -2131,10 +2182,12 @@ www.bigemap.com##.web_logo
 www.bigemap.com##div.row:nth-of-type(4)
 www.bigemap.com##div.row:nth-of-type(5)
 www.bilibili.com###cheese_guide
+www.bilibili.com##.act-end.activity-m-v1
 www.bilibili.com##.act-end.report-scroll-module.report-wrap-module.activity-m
 www.bilibili.com##.act-now.report-scroll-module.report-wrap-module.activity-m
 www.bilibili.com##.activity
 www.bilibili.com##.appeal-text
+www.bilibili.com##.article-detail .report-wrap-module.recommend-list
 www.bilibili.com##.article-footer-box
 www.bilibili.com##.article-tags
 www.bilibili.com##.b-footer-wrap
@@ -2146,11 +2199,14 @@ www.bilibili.com##.bili-mini-agreement-wrapper
 www.bilibili.com##.bili-mini-scan-description
 www.bilibili.com##.bili-mini-scan-main > .bili-mini-scan-title
 www.bilibili.com##.bilibili-player-electric-panel
+www.bilibili.com##.bilibili-player-ending-panel-box-functions
 www.bilibili.com##.bilibili-player-video-popup-animate.bilibili-player-video-popup-guide-all.bilibili-player-video-popup-guide-attention.bilibili-player-video-popup-item
+www.bilibili.com##.bilibili-player-video-popup-animate.bilibili-player-video-popup-guide-attention.bilibili-player-video-popup-item
 www.bilibili.com##.bpx-docker-minor.bpx-docker
+www.bilibili.com##.btn-hover.reply
 www.bilibili.com##.btn-pay
 www.bilibili.com##.btn-rating
-www.bilibili.com##.channel-entry-more__link
+www.bilibili.com##.channel-entry-more__link--arrow > path
 www.bilibili.com##.clearfix.tag-area
 www.bilibili.com##.comment-send
 www.bilibili.com##.comment-send-lite
@@ -2158,18 +2214,28 @@ www.bilibili.com##.comment-send-lite > .textarea-container > .comment-submit
 www.bilibili.com##.comment-send-lite > .textarea-container > .ipt-txt
 www.bilibili.com##.con > .user > a.level-link > .level
 www.bilibili.com##.display
+www.bilibili.com##.fixed-nav
 www.bilibili.com##.fixed-service-bg
+www.bilibili.com##.footer-wrp
+www.bilibili.com##.has-charge > svg
+www.bilibili.com##.hate
 www.bilibili.com##.head-title
 www.bilibili.com##.help.nav-btn-item
 www.bilibili.com##.history-tips
+www.bilibili.com##.honor-rank.honor
+www.bilibili.com##.honor-weekly.honor
 www.bilibili.com##.inner-logo
 www.bilibili.com##.interaction-info
 www.bilibili.com##.international-footer
+www.bilibili.com##.is-in-large-ab.small-mode.right-container > .ad-floor-exp.ad-report
+www.bilibili.com##.item.copyright
 www.bilibili.com##.joined-activity
+www.bilibili.com##.left-container-under-player > .ad-floor-exp.ad-report
 www.bilibili.com##.link-instanted.activity
 www.bilibili.com##.little.bilibili-player-upinfo-electric
 www.bilibili.com##.live-card-list
 www.bilibili.com##.live-rank-conent > .aside-wrap > .aside-head
+www.bilibili.com##.live-status
 www.bilibili.com##.loading-state
 www.bilibili.com##.message
 www.bilibili.com##.mini.nav-btn-item
@@ -2196,6 +2262,7 @@ www.bilibili.com##.popular-tips
 www.bilibili.com##.rank-tips
 www.bilibili.com##.rec-footer
 www.bilibili.com##.reply-con > .user > a.level-link > .level
+www.bilibili.com##.reply-notice
 www.bilibili.com##.report-scroll-module.report-wrap-module.ad-floor.ad-report
 www.bilibili.com##.report-scroll-module.report-wrap-module.pop-live
 www.bilibili.com##.report-scroll-module.report-wrap-module.recom-wrapper
@@ -2206,23 +2273,35 @@ www.bilibili.com##.right-entry-item--upload.right-entry-item > .v-popover-wrap >
 www.bilibili.com##.roll-btn-wrap
 www.bilibili.com##.sailing
 www.bilibili.com##.show.bilibili-player-upinfo-spans
+www.bilibili.com##.split-line
 www.bilibili.com##.tips-holder
+www.bilibili.com##.toolbar-right
 www.bilibili.com##.trending
 www.bilibili.com##.two-line.comment-send-lite
 www.bilibili.com##.up-btn
+www.bilibili.com##.up-info_right_message
 www.bilibili.com##.up-list
 www.bilibili.com##.user > .nameplate
+www.bilibili.com##.userInfo > .level-link
 www.bilibili.com##.variety-area
 www.bilibili.com##.vcd
 www.bilibili.com##.visible.feedback.primary-btn
 www.bilibili.com##.watch-info
+www.bilibili.com##[href="//www.bilibili.com/blackboard/help.html#%E5%B8%B8%E8%A7%81%E6%92%AD%E6%94%BE%E9%97%AE%E9%A2%98%E8%87%AA%E6%95%91%E6%96%B9%E6%B3%95"]
 www.bilibili.com##a.channel-link__right:nth-of-type(4)
 www.bilibili.com##a.channel-link__right:nth-of-type(5)
+www.bilibili.com##div.custom-navbar-item:nth-of-type(10)
+www.bilibili.com##div.custom-navbar-item:nth-of-type(12)
+www.bilibili.com##div.custom-navbar-item:nth-of-type(23)
+www.bilibili.com##div.custom-navbar-item:nth-of-type(9)
 www.bilibili.com##div.eva-banner-shim > div
+www.bilibili.com##div.fresh-home-content-layout-item:nth-of-type(1)
+www.bilibili.com##div.grow.fresh-home-content-layout-item:nth-of-type(2)
 www.bilibili.com##div.primary-btn
 www.bilibili.com##div.row:nth-of-type(2)
 www.bilibili.com##div.row:nth-of-type(5)
 www.bilibili.com##div.row:nth-of-type(6)
+www.bilibili.com##li.right-entry-item:nth-of-type(8)
 www.bilibili.com##section.bili-grid:nth-of-type(10)
 www.bilibili.com##section.bili-grid:nth-of-type(11)
 www.bilibili.com##section.bili-grid:nth-of-type(12)
@@ -2395,23 +2474,48 @@ www.douban.com##.top-nav-doubanapp
 www.douban.com##.top-nav-reminder
 www.douban.com##[src="https://img3.doubanio.com/f/shire/e49eca1517424a941871a2667a8957fd6c72d632/pics/new_menu.gif"]
 www.douban.com##div.account-form-raw:nth-of-type(4)
+www.douyin.com###JlZDnd5d
 www.douyin.com###_bwc5czk
+www.douyin.com##.Ad8E2quR
+www.douyin.com##.IS7FyuLE.V5Rmr_ZY
+www.douyin.com##.J8AIXmPF
+www.douyin.com##.MoQWZoTN
+www.douyin.com##.RBq5asD0
 www.douyin.com##.SEV11UjY
 www.douyin.com##.WPC30Qlr.hC6cBN64.MiecXVmm
+www.douyin.com##.aUrf44Pb.j6uwv42L.w9CvHQ3U
+www.douyin.com##.cLdvQQ.sc-jKJlTe
+www.douyin.com##.hWO3SyuW.j6uwv42L.w9CvHQ3U
+www.douyin.com##.hdkDPH.sc-gPEVay
 www.douyin.com##.qC6TbH1B
 www.douyin.com##.r62Yt4yT
+www.douyin.com##.rdP6CfLV
 www.douyin.com##.s2O1MLsL
 www.douyin.com##.sUBrJFBU
+www.douyin.com##.web-login-confirm-info
+www.douyin.com##.web-login-scan-desc-text
 www.douyin.com##.wyDjseuR
+www.douyin.com##.xfVAG0BN.bx6jfq7y.YTu_A7CW > .NRiH5zYV
 www.douyin.com##.yF7Mvis1
+www.douyin.com##.yKWIxvLy
+www.douyin.com##.yQH6fSw7.hC6cBN64.MiecXVmm
+www.douyin.com##[src="https://lf1-cdn-tos.bytegoofy.com/goofy/ies/douyin_web/public/icons/hot/hot_boom.png"]
+www.douyin.com##[src="https://lf1-cdn-tos.bytegoofy.com/goofy/ies/douyin_web/public/icons/hot/hot_hot.png"]
+www.douyin.com##[src="https://lf1-cdn-tos.bytegoofy.com/goofy/ies/douyin_web/public/icons/hot/hot_new.png"]
 www.douyin.com##circle
+www.douyin.com##div > .CDx534Ub > .RHiEl2d8 > .YzbzCgxU > .rJFDwdFI > .o8AFb5q0 > .NRiH5zYV
+www.douyin.com##div > .CDx534Ub > .RHiEl2d8 > .YzbzCgxU > .rJFDwdFI > .o8AFb5q0 > .z8UmWwH2
+www.douyin.com##div > div > .CDx534Ub > .RHiEl2d8 > .YzbzCgxU > .AMzEzRWv > .PDN14l01 > div
 www.douyin.com##div.qoKzjoSV.fuy_wmct:nth-of-type(1)
 www.douyin.com##div.qoKzjoSV.fuy_wmct:nth-of-type(10)
 www.douyin.com##div.qoKzjoSV.fuy_wmct:nth-of-type(11)
 www.douyin.com##div.qoKzjoSV.fuy_wmct:nth-of-type(12)
 www.douyin.com##div.qoKzjoSV.fuy_wmct:nth-of-type(13)
 www.douyin.com##div.qoKzjoSV.fuy_wmct:nth-of-type(14)
+www.douyin.com##div.qoKzjoSV.fuy_wmct:nth-of-type(15)
+www.douyin.com##div.qoKzjoSV.fuy_wmct:nth-of-type(16)
 www.douyin.com##div.qoKzjoSV.fuy_wmct:nth-of-type(4)
+www.douyin.com##div.qoKzjoSV.fuy_wmct:nth-of-type(5)
 www.douyin.com##div.qoKzjoSV.fuy_wmct:nth-of-type(7)
 www.douyin.com##div.qoKzjoSV.fuy_wmct:nth-of-type(8)
 www.douyin.com##div.qoKzjoSV.fuy_wmct:nth-of-type(9)
@@ -2443,6 +2547,7 @@ www.educoder.net##.c-grey-333
 www.educoder.net##.c-yellow
 www.educoder.net##.close-line
 www.educoder.net##.contentLeftWrap___3cPFj .c-white.font14
+www.educoder.net##.discounts___2JS39
 www.educoder.net##.eval-desc.flex-container
 www.educoder.net##.fadeIn.animated.tc .font14.mt20
 www.educoder.net##.font14.hint___1VSGa
@@ -2462,6 +2567,7 @@ www.educoder.net##.left___1ibOB > .btns___1GDWA > .b1___3pTXG
 www.educoder.net##.left___1ibOB > .btns___1GDWA > .b2___2yHB2 > .icon-jiantou1.iconfont
 www.educoder.net##.left___2kvDQ > span:nth-of-type(2)
 www.educoder.net##.left___aG9EY > span:nth-of-type(2)
+www.educoder.net##.lineationPrice___2LeZ4
 www.educoder.net##.link___9K6BJ > span:nth-of-type(1)
 www.educoder.net##.link___9K6BJ > span:nth-of-type(2)
 www.educoder.net##.link___YOlst > span:nth-of-type(1)
@@ -2470,6 +2576,7 @@ www.educoder.net##.mainSiteBanner___BnI08.banner___5fOFW
 www.educoder.net##.mr15.ml15.current.font18.icon-sousuo.iconfont
 www.educoder.net##.mt15.mb0
 www.educoder.net##.newFooter___UNzWw
+www.educoder.net##.newslight___jwZR3
 www.educoder.net##.public___24PL-
 www.educoder.net##.qrcode___kjUuj.affixContainer___py2xS
 www.educoder.net##.radio-group-sort-order.mr20.ml20.ant-radio-group-solid.ant-radio-group
@@ -2939,6 +3046,10 @@ www.logosc.cn##.team-intro
 www.logosc.cn##.text-center.samplelist-wrapper
 www.logosc.cn##.wechat-articles
 www.logosc.cn##.whylogobrand-wrapper
+www.luogu.com.cn###article-comments > div:nth-of-type(1)
+www.luogu.com.cn##.am-comment-actions
+www.luogu.com.cn##.blog-hr.am-article-divider
+www.luogu.com.cn##.lg-footer
 www.luogu.com.cn##.shown.dropdown > .padding-0.float-card.card > .user-info > .user-action > span > span > span > .fa-w-4.fa-ellipsis-v.svg-inline--fa
 www.markdown.cn##.bs-footer
 www.markdown.cn##.dropdown-toggle
@@ -3068,12 +3179,17 @@ www.qixin.com##span.hidden-md.hidden-sm.hidden-xs.split-line:nth-of-type(4)
 www.qixin.com##span.hidden-sm.hidden-xs.split-line:nth-of-type(1)
 www.qixin.com##span.hidden-sm.hidden-xs.split-line:nth-of-type(2)
 www.qt.io##.b-footer
+www.runoob.com###moon
 www.runoob.com###user_add_note
 www.runoob.com##.cf.runoob dl:nth-of-type(4)
 www.runoob.com##.copyright.w-1000
+www.runoob.com##.fa-tag.fa
 www.runoob.com##.no_webshot
+www.runoob.com##.p-3.text-muted.text-center
 www.runoob.com##.qrcode
 www.runoob.com##.search-share
+www.runoob.com##.wrapper.comt-avatar > .upvotejs-enabled.upvotejs
+www.runoob.com##.wrapper.comt-meta
 www.runoob.com##button.feedback-btn-gray.feedback-btn:nth-of-type(1)
 www.runoob.com##button.feedback-btn-gray.feedback-btn:nth-of-type(2)
 www.sysmini.com###menu-item-159 > [href="https://www.sysmini.com/help"]
@@ -3108,6 +3224,10 @@ www.teachermate.com.cn##[href="/cpdaily-api/auth"]
 www.teachermate.com.cn##[href="https://www.wzj.io/user-login"]
 www.teachermate.com.cn##button:nth-of-type(4)
 www.teachermate.com.cn##div.rowFlex___2al9P:nth-of-type(1)
+www.teachermate.com.cn##ul.nav-group___trl0s:nth-of-type(1) li:nth-of-type(4)
+www.teachermate.com.cn##ul.nav-group___trl0s:nth-of-type(2) li:nth-of-type(3)
+www.teachermate.com.cn##ul.nav-group___trl0s:nth-of-type(2) li:nth-of-type(4)
+www.teachermate.com.cn##ul.nav-group___trl0s:nth-of-type(5) li:nth-of-type(3)
 www.tianyancha.com##.-human.company-header-claim-btn.button-claim.-h28.button
 www.tianyancha.com##.-p10.-vip.nav-line-right.nav-item
 www.tianyancha.com##.-risk.nav-new
@@ -3604,7 +3724,6 @@ z1.m1907.cn###video-skip
 z1.m1907.cn##.show > div > div > div > span
 z1.m1907.cn##.show > div > div > span
 z1.m1907.cn##.show > div > span
-z1.m1907.cn##.show > div:nth-of-type(2)
 z1.m1907.cn##label
 z1.m1907.cn##p
 z1.m1907.cn##p.surprise
@@ -3804,6 +3923,7 @@ zhuanlan.zhihu.com##li.NestComment--child > .CommentItemV2 > div > .CommentItemV
 ||vfiles.gtimg.cn/vupload/202005/1f68341597825237110.png$image
 ||wanweibaike.net/static/index/img/logo.png$image
 ||www.52pojie.cn/template/default/style/t5/bgimg.jpg$image
+||www.aplaybox.com/img/pb_bg_image.54b326e0.png$image
 ||www.jianguoyun.com/static/images/nutstore_robot.png$image
 ||www.liaoxuefeng.com/files/attachments/1422670998536258/0$image
 ||www.processon.com/assets/images/home/achievement_bg.png$image

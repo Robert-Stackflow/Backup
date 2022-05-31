@@ -1,0 +1,7 @@
+//pip换源
+pip config set global.index-url https://pypi.tuna.tsinghua.edu.cn/simple
+//pip-preview批量更新
+pip install pip-review
+pip-review --local --interactive -a
+//pip版本更新
+pip3 install --upgrade pip
