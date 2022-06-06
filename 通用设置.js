@@ -554,4 +554,6 @@ class windowSize {
             $("span.name").css("color", "white");
         }, 300);
     }
+    //QQ邮箱
+    if (window_host.indexOf("mail.qq.com") != -1) {}
 })();
