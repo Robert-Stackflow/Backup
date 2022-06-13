@@ -42,16 +42,43 @@ class windowSize {
     if (window_host.indexOf("i.chaoxing.com") != -1) {
         //个人主页点击课程按钮
         $("#first108969").click();
+        //进行评价问卷
+        $("#first54652").click();
         $("#first54652 h5").html("问卷");
         $("#siteName").html("华中科技大学");
         //修改网页标题
         document.title = "学习通";
-    }
-    if (window_host.indexOf("mooc2-ans.chaoxing.com") != -1) {
-        //课程详情点击作业按钮
-        $(
-            ".stuNavigationList.nav-content ul:nth-of-type(1) li:nth-of-type(4)"
-        ).click();
+        if (window_host.indexOf("mooc2-ans.chaoxing.com") != -1) {
+            //课程详情点击作业按钮
+            $(
+                ".stuNavigationList.nav-content ul:nth-of-type(1) li:nth-of-type(4)"
+            ).click();
+        }
+        setTimeout(function() {
+            $('#frame_content').contents().find("#ratedHomeList").children().each(function() {
+                var text = $(this).children("td").eq(7).children("a").eq(0).html();
+                if (text == "待评价" && $(this).children("td").eq(7).children("a").eq(0).attr("onclick") != undefined) {
+                    console.log($(this).children("td").eq(3).html() + " " + text);
+                    console.log("点击:" + $(this).children("td").eq(7).children("a").eq(0).attr("onclick"));
+                    $(this).children("td").eq(7).children("a").eq(0).click();
+                    return false;
+                }
+            });
+        }, 2000);
+        setTimeout(function() {
+            console.log("进入执行");
+            $('#frame_content').contents().find(".singleChoose li:nth-of-type(2) input").each(function() {
+                var value = $(this).attr("checked");
+                console.log($(this).text() + value);
+                if (value == undefined) {
+                    $(this).click();
+                    $(this).attr("checked", "checked");
+                }
+            });
+            $('#frame_content').contents().find(".testBox textarea").html("无");
+            $('#frame_content').contents().find("div.botBtnBox > a:nth-child(2)").click();
+            $('#frame_content').contents().find("#layui-layer1 > div.layui-layer-btn.layui-layer-btn- > a.layui-layer-btn0").click();
+        }, 4000);
     }
     //中国大学慕课
     if (window_host.indexOf("www.icourse163.org") != -1) {
@@ -556,4 +583,19 @@ class windowSize {
     }
     //QQ邮箱
     if (window_host.indexOf("mail.qq.com") != -1) {}
+    //educoder
+    if (window_host.indexOf("educoder.net") != -1) {
+        setInterval(function() {
+            $(".close___1_R1B").click();
+            $("#root > div > div > div:nth-child(1) > img").click();
+            $("a.wrap___2Yh5x").each(function() {
+                $(this).css("margin", "10px");
+                var title = $(this).find(".title___anL3V").html();
+                console.log(title);
+                if (title == "大学计算机基础 —— 计算思维第4期" || title == "C&amp;C++程序设计（计算机程序设计）第8期") {
+                    $(this).hide();
+                }
+            });
+        }, 300);
+    }
 })();
