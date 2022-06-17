@@ -43,7 +43,7 @@ class windowSize {
         //个人主页点击课程按钮
         $("#first108969").click();
         //进行评价问卷
-        $("#first54652").click();
+        //$("#first54652").click();
         $("#first54652 h5").html("问卷");
         $("#siteName").html("华中科技大学");
         //修改网页标题
@@ -79,6 +79,29 @@ class windowSize {
             $('#frame_content').contents().find("div.botBtnBox > a:nth-child(2)").click();
             $('#frame_content').contents().find("#layui-layer1 > div.layui-layer-btn.layui-layer-btn- > a.layui-layer-btn0").click();
         }, 4000);
+    }
+    if (window_host.indexOf("mooc1.chaoxing.com") != -1) {
+        $("#selector > div.tabs > div.showcontent.posChapter").css("top", "0px");
+        $("#selector > div.tabs > div.showcontent.posChapter").css("margin-top", "10px");
+        $("#selector").css("top", "0px");
+        $("#selector").css("margin-top", "10px");
+        $("#mainid").css("height", "2000px");
+        $("#mainid").css("margin", "10px 10px 10px 10px");
+        $("#mainid").css("padding", "0px");
+        $("#mainid").css("width", "1190px");
+        $("#qqqq").css("min-width", "1000px");
+        setInterval(function() {
+            if ($("#video > div.vjs-control-bar > div.vjs-menu-button.vjs-menu-button-popup.vjs-control.vjs-button.vjs-resolution-button.vjs-playline-button > div > ul > li:nth-child(2)").attr("class") != "vjs-menu-item vjs-selected") {
+                $("#video > div.vjs-control-bar > div.vjs-menu-button.vjs-menu-button-popup.vjs-control.vjs-button.vjs-resolution-button.vjs-playline-button > div > ul > li:nth-child(2)").click();
+            }
+            if ($("#selector").css("right") != "0px") {
+                $("#mainid").css("width", "1500px");
+            } else {
+                $("#mainid").css("width", "1190px");
+            }
+            var dynamicWidth = 1490 - parseInt($("#selector").css("width"));
+            $("#mainid").css("width", dynamicWidth);
+        }, 300);
     }
     //中国大学慕课
     if (window_host.indexOf("www.icourse163.org") != -1) {
