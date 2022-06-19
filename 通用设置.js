@@ -527,9 +527,13 @@ class windowSize {
     //腾讯视频
     if (window_host.indexOf("v.qq.com") != -1) {
         setTimeout(function() {
-            var tengxunshipinTitle = document.title.split("_")[0];
-            tengxunshipinTitle = tengxunshipinTitle.split("-")[0];
-            document.title = tengxunshipinTitle;
+            setInterval(function() {
+                var tengxunshipinTitle = document.title.split("_")[0];
+                tengxunshipinTitle = tengxunshipinTitle.split("-")[0];
+                document.title = tengxunshipinTitle;
+                $(".mark_v").remove();
+            }, 300);
+            $(".player__wide-btn").click();
             $(".player_container_wide_switch").click();
             $("#new_vs_focus").remove();
             $("body > div.site_board_ads._dkb").remove();
@@ -619,6 +623,17 @@ class windowSize {
                     $(this).hide();
                 }
             });
+        }, 300);
+    }
+    if (window_host.indexOf("www.xixicai.top") != -1) {
+        setInterval(function() {
+            document.title = "西西菜";
+            console.log($(".palyer-iframe").html());
+            $("#myiframe").contents().find(".palyer-iframe").each(function() {
+                alert(this.html());
+                $(this).remove();
+            });
+            $("div.jconfirm.jconfirm-light.jconfirm-open").remove();
         }, 300);
     }
 })();
