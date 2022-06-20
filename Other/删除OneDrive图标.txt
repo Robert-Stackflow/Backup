@@ -1,3 +1,0 @@
-键入“计算机\HKEY_CLASSES_ROOT\CLSID”
-查找OneDrive或者对应名称
-设置“System.IsPinnedToNameSpaceTree”值为0
