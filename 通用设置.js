@@ -58,18 +58,14 @@ class windowSize {
             $('#frame_content').contents().find("#ratedHomeList").children().each(function() {
                 var text = $(this).children("td").eq(7).children("a").eq(0).html();
                 if (text == "待评价" && $(this).children("td").eq(7).children("a").eq(0).attr("onclick") != undefined) {
-                    console.log($(this).children("td").eq(3).html() + " " + text);
-                    console.log("点击:" + $(this).children("td").eq(7).children("a").eq(0).attr("onclick"));
                     $(this).children("td").eq(7).children("a").eq(0).click();
                     return false;
                 }
             });
         }, 2000);
         setTimeout(function() {
-            console.log("进入执行");
             $('#frame_content').contents().find(".singleChoose li:nth-of-type(2) input").each(function() {
                 var value = $(this).attr("checked");
-                console.log($(this).text() + value);
                 if (value == undefined) {
                     $(this).click();
                     $(this).attr("checked", "checked");
@@ -117,7 +113,6 @@ class windowSize {
                     clearInterval(moocInterval);
                 }
                 $(".slick-track>.slick-slide").each(function() {
-                    console.log($(this).attr("data-index"));
                     $(this).hide();
                 });
                 $("._2QYIL>._31ZKq ").each(function() {
@@ -159,7 +154,6 @@ class windowSize {
     if (window_host.indexOf("www.luogu.com.cn") != -1) {
         setTimeout(function() {
             var luoguOldTitle = document.title;
-            console.log(luoguOldTitle);
             var luoguTimesRun = 0;
             var luoguInterval = setInterval(function() {
                 luoguTimesRun += 1;
@@ -186,11 +180,7 @@ class windowSize {
     //Github
     if (window_host.indexOf("github.com") != -1) {
         $("h2").each(function() {
-            console.log($(this).attr("class"));
-            console.log($(this).text());
-            if ($(this).text().indexOf("Recent Repositories") != -1) {
-                console.log("ok");
-            }
+            if ($(this).text().indexOf("Recent Repositories") != -1) {}
         });
         $("h2:contains('Recent Repositories')").html("近期仓库");
     }
@@ -377,11 +367,6 @@ class windowSize {
             //修改搜索框提示词
             $(".SearchBar-input input").attr("placeholder", "搜索");
             $(".SimpleSearchBar-input input").attr("placeholder", "搜索");
-            console.log(
-                $(
-                    "#Popover2-content > div > div:nth-child(1) > div.SearchBar-label"
-                ).html()
-            );
             if (
                 $(
                     "#Popover2-content > div > div:nth-child(1) > div.SearchBar-label"
@@ -618,22 +603,41 @@ class windowSize {
             $("a.wrap___2Yh5x").each(function() {
                 $(this).css("margin", "10px");
                 var title = $(this).find(".title___anL3V").html();
-                console.log(title);
                 if (title == "大学计算机基础 —— 计算思维第4期" || title == "C&amp;C++程序设计（计算机程序设计）第8期") {
                     $(this).hide();
                 }
             });
         }, 300);
     }
+    //xixicai
     if (window_host.indexOf("www.xixicai.top") != -1) {
         setInterval(function() {
             document.title = "西西菜";
-            console.log($(".palyer-iframe").html());
             $("#myiframe").contents().find(".palyer-iframe").each(function() {
                 alert(this.html());
                 $(this).remove();
             });
             $("div.jconfirm.jconfirm-light.jconfirm-open").remove();
+        }, 300);
+    }
+    //讯飞开放平台
+    if (window_url.indexOf("challenge.xfyun.cn") != -1) {
+        setInterval(function() {
+            var title = $(".select_title").text();
+            title = title.split("赛")[0] + "赛";
+            // title = title.substring(0, title.length - 6);
+            if (title != undefined && window_url != "http://challenge.xfyun.cn/" && window_url != "http://challenge.xfyun.cn/programming_contest") {
+                document.title = title;
+            } else {
+                document.title = "讯飞开放平台";
+            }
+            $(".gameDetail_notice").each(function() {
+                $(this).css("font-size", "12px");
+            });
+            $("#__next > div > div.gameDetail_banner").css("padding-top", "25px");
+            $("#__next > div > div.gameDetail_banner").css("height", "250px");
+            $("#__next > div > div.gameDetail_desc").css("padding-top", "25px");
+            $("#__next > div > div.gameDetail_desc").css("padding-bottom", "25px");
         }, 300);
     }
 })();
