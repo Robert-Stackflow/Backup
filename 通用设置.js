@@ -640,4 +640,41 @@ class windowSize {
             $("#__next > div > div.gameDetail_desc").css("padding-bottom", "25px");
         }, 300);
     }
+    //CSDN
+    if (window_url.indexOf("csdn.net") != -1) {
+        setInterval(function() {
+            $("#csdn-toolbar .toolbar-container-right").css("margin-right", "70px");
+            $(".csdn-toolbar-fl.toolbar-menus").remove();
+        }, 300);
+    }
+    if (window_url.indexOf("www.csdn.net") != -1) {
+        setInterval(function() {
+            $(".www-follow-title").remove();
+            $(".www-home-content").remove();
+            $(".sort-switch ").css("margin-top", "50px");
+            $(".www-home").css("margin-left", "10px");
+            $(".www-home").css("margin-top", "10px");
+            $(".www-home").css("margin-right", "10px");
+            $(".www-home").css("min-width", "1500px");
+            $(".www-home").css("max-width", "1500px");
+            $(".www-home-left").css("min-width", "1400px");
+            $("#floor-nav_557 .blog-nav-tag .blog-nav ").remove();
+        }, 300);
+    }
+    if (window_url.indexOf("blog.csdn.net") != -1) {
+        setInterval(function() {
+            document.title = document.title.split("_")[0];
+            $(".user-profile-head-banner").css("height", "20px");
+            $("#userSkin > div.user-profile-body > div > div.user-profile-body-left > div > div.user-interest-area.user-profile-aside-common-box").remove();
+            $(".header-content-box ").remove();
+            $("body > header > div.container.d-flex.clearfix").css("height", "20px");
+        }, 300);
+    }
+    if (window_url.indexOf("im.csdn.net") != -1) {
+        setInterval(function() {
+            $("#app .indexPage").css("margin-left", "20px");
+            $("#app .indexPage").css("margin-right", "20px");
+            $("#app .indexPage").css("width", "1500px");
+        }, 300);
+    }
 })();
