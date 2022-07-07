@@ -1,4 +1,4 @@
-123apps.com###usermenu
+﻿123apps.com###usermenu
 123apps.com##.d1
 123apps.com##.footer
 123apps.com##.h1
@@ -20,8 +20,10 @@ account.bilibili.com##.report-wrap-module.security-ul
 account.bilibili.com##.sipwer-link
 account.bilibili.com##.vip-description
 account.bilibili.com##li.security-list:nth-of-type(13)
+account.chsi.com.cn##.login_footer
 account.chsi.com.cn##.login_footer_my.login_footer
 account.chsi.com.cn##.my_topR.top_right
+account.chsi.com.cn##.outer-footer
 account.chsi.com.cn##.wap-hide.ch-robot
 account.cnblogs.com##app-sign-in-up-page-title.ng-tns-c122-1
 account.cnblogs.com##div > .grecaptcha-badge
@@ -202,6 +204,7 @@ baike.baidu.com##.subtitle p
 baike.baidu.com##.tabCards
 baike.baidu.com##.tashuo-bottom
 baike.baidu.com##.tashuo-right
+baike.baidu.com##.text > .linkout
 baike.baidu.com##.tl-new-icon
 baike.baidu.com##.tool-buttons
 baike.baidu.com##.top-tool
@@ -225,6 +228,8 @@ baike.baidu.com##[href="https://zhidao.baidu.com/"]
 baike.baidu.com##[src="https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/configModule/hotspotmining/img/flag_new_5f5180c.png"]
 baike.baidu.com##a[href="https://www.baidu.com/"]:nth-of-type(1)
 baike.baidu.com##a[href="https://www.baidu.com/"]:nth-of-type(2)
+bbs.csdn.net##.introduce
+bbs.csdn.net##.myCtyProfile
 bbs.csdn.net##.part-message.information-part
 bbs.mihoyo.com##.channel__breadcrumb
 bbs.mihoyo.com##.detail__copyright
@@ -291,12 +296,27 @@ biligame.com##.nav-link li.nav-link-item:nth-of-type(7)
 biligame.com##.nav-link li.nav-link-item:nth-of-type(8)
 biligame.com##.right-entry li.right-entry-item:nth-of-type(2)
 biligame.com##.right-entry li.right-entry-item:nth-of-type(7)
+blog.csdn.net###asideArchive
+blog.csdn.net###asideNewComments
+blog.csdn.net###copyright-box
 blog.csdn.net###treeSkill
+blog.csdn.net##.about-more
+blog.csdn.net##.blog-footer-bottom
+blog.csdn.net##.column-studyvip-pass.column-studyvip-bt
+blog.csdn.net##.column_person_box
 blog.csdn.net##.comment-title
+blog.csdn.net##.csdn-toolbar-fl.toolbar-menus
 blog.csdn.net##.csdn-toolbar-fl.toolbar-menus [href^="https://dev-portal.csdn.net/welcome"]
+blog.csdn.net##.d-flex.badge-box
+blog.csdn.net##.left_img
 blog.csdn.net##.lock-img
 blog.csdn.net##.npsBox404
+blog.csdn.net##.studyvip-bt-href
 blog.csdn.net##[href="https://edu.csdn.net/"]
+blog.csdn.net##[href^="https://mp.csdn.net/mp_others/manage/code"]
+blog.csdn.net##[src="https://www.oschina.net/img/hot3.png"]
+blog.csdn.net##div.item-tiling.d-flex.data-info:nth-of-type(2)
+blog.csdn.net##div.item-tiling.d-flex.data-info:nth-of-type(4)
 book.codefine.site##.col-12.col.text-center
 book.codefine.site##.footer-text.text-center.mb-0
 book.codefine.site##.pink.v-size--default.theme--dark.v-btn--round.v-btn--right.v-btn--has-bg.v-btn--fixed.v-btn--fab.v-btn--is-elevated.v-btn--bottom.v-btn
@@ -387,10 +407,22 @@ c.runoob.com##li.lia:nth-of-type(2)
 carbon.now.sh##.login-button-container
 carbon.now.sh##.mb3.main > .mt3
 carbon.now.sh##.mt3
+challenge.xfyun.cn###anim-box
+challenge.xfyun.cn##.announcement-wrap
+challenge.xfyun.cn##.banner
+challenge.xfyun.cn##.contact_us
+challenge.xfyun.cn##.index-page.footer.section
+challenge.xfyun.cn##.jiangjinchi
+challenge.xfyun.cn##.new_home_banner
+challenge.xfyun.cn##.rank_tips
+challenge.xfyun.cn##.select_line
+challenge.xfyun.cn##.select_prize
+challenge.xfyun.cn##.select_prize > span
+challenge.xfyun.cn##.swiper-container-pointer-events.swiper-container-vertical.swiper-container-initialized.swiper-container
 cn.bing.com###actionbar li:nth-of-type(3)
 cn.bing.com###actionbar li:nth-of-type(4)
 cn.bing.com###b-scopeListItem-video
-cn.bing.com###b_context > .b_ans
+cn.bing.com###b_context .b_rrsr
 cn.bing.com###b_lgpd
 cn.bing.com###b_pole
 cn.bing.com###b_results > .b_ans
@@ -400,10 +432,14 @@ cn.bing.com###imagemeta span.meta_sp:nth-of-type(2)
 cn.bing.com###mainImageRegion > .nofocus.idpfb.action
 cn.bing.com###rc_gb_expand
 cn.bing.com###serpvidansrr
+cn.bing.com###textDeeplinksWidgetContainer
 cn.bing.com##.b_algoRCAggreFC
 cn.bing.com##.b_algospacing
 cn.bing.com##.b_canvas.b_msg
 cn.bing.com##.b_canvas2.value-prop-banner
+cn.bing.com##.b_entityTP  div.b_suppModule > .b_footnote
+cn.bing.com##.b_entityTP .b_inlineblock.b_descriptionSeeMore
+cn.bing.com##.b_entityTP .iasmtab
 cn.bing.com##.b_footer
 cn.bing.com##.bm_flexWrapper
 cn.bing.com##.bm_flyoverButton
@@ -428,6 +464,7 @@ cn.bing.com##.top_ad.ads_dwn
 cn.bing.com##.tt_altTrnsExpItem.tta_phraseb
 cn.bing.com##.vkeyRest
 cn.bing.com##.vs_cont
+cn.bing.com##div.b_divsec.infoModule > .b_feedbackComponent
 cn.bing.com##li.b_ans:nth-of-type(2)
 cn.bing.com##li.bm_dropdownEntry:nth-of-type(1)
 cn.bing.com##li.bm_dropdownEntry:nth-of-type(2)
@@ -449,6 +486,7 @@ codefine.site##.yarpp-related
 connect.qq.com##.footer
 console.amap.com##.default___JD3dF.aliRobotWrap___2HO9A
 console.amap.com##.index_page-permission__1Iwal .ant-row
+console.xfyun.cn##.footer
 convert.io##.footer
 convert.io##.top.ad
 copytranslator.github.io###在线交流与反馈
@@ -465,7 +503,6 @@ csdn.net###kp_box_blog_cont
 csdn.net##.White.medal.aside-common-box-tit
 csdn.net##.active.www-home-content
 csdn.net##.answer-wap > .answer-cont > .answer-content-item > .reply_content_tool
-csdn.net##.aside-common-box-achievement
 csdn.net##.aside-common-box-medal
 csdn.net##.ask-home-page
 csdn.net##.ask-issue-tool
@@ -499,8 +536,6 @@ csdn.net##.toolbar-nav-menu
 csdn.net##.toolbar-search-half.toolbar-search-drop-menu
 csdn.net##.toolbar-subMenu-box.csdn-toolbar-fl.toolbar-btn-write.toolbar-btn
 csdn.net##.user-influence-list
-csdn.net##.user-profile-aside-common-box.user-achievement > .aside-common-box-bottom > .aside-common-box-bottom-btn
-csdn.net##.user-profile-aside-common-box.user-achievement > .aside-common-box-head
 csdn.net##.user-profile-aside-common-box.user-interest-area
 csdn.net##.user-profile-head-info-b
 csdn.net##.user-profile-icon
@@ -527,18 +562,24 @@ cupfox.app###anime
 cupfox.app###documentary
 cupfox.app###show
 cupfox.app###tv
-cupfox.app##.banner-box
 cupfox.app##.banner-img
 cupfox.app##.box-shadow.fixed-nav
+cupfox.app##.content .watch-time
 cupfox.app##.filter-zone
 cupfox.app##.fixed-nav
 cupfox.app##.head
 cupfox.app##.head-guide
 cupfox.app##.items
-cupfox.app##.logo-wrapper
-cupfox.app##.navs
+cupfox.app##.load-message
+cupfox.app##.movie-list-more
+cupfox.app##.navs li:nth-of-type(1)
+cupfox.app##.navs li:nth-of-type(2)
+cupfox.app##.navs li:nth-of-type(3)
+cupfox.app##.rating-text
 cupfox.app##.red
+cupfox.app##.show-more-text
 cupfox.app##.sidebar.jsx-142170839 > div > .jsx-758147661
+cupfox.app##div.center.jsx-8f67dac2e9cff775:nth-of-type(12)
 cupfox.com###documentary > .movie-list-body.jsx-3979026562
 cupfox.com###documentary > .movie-list-header.jsx-1081505423
 cupfox.com###filter > .movie-list-body.jsx-3979026562
@@ -580,6 +621,7 @@ devdocs.io##._list-link
 devdocs.io##._list-note
 devdocs.io##.on-github
 discord.com##.anchorUnderlineOnHover-2qPutX.anchor-1MIwyf
+discord.com##.colorDefault-1e8tQv.notice-2HEN-u
 discord.com##.inviteToolbar-2k2nqz
 discord.com##div.listItem-3SmSlK:nth-of-type(6)
 discord.com##div.listItem-3SmSlK:nth-of-type(7)
@@ -624,6 +666,15 @@ ebook2.lorefree.com##[href="http://www.lorefree.com"]
 edaser.github.io##.el-icon--right.el-icon-link
 edaser.github.io##.feedback
 edaser.github.io##.hide-in-mobile.el-icon-edit.el-tooltip
+editor.csdn.net##.show_name
+editor.foxitsoftware.cn###beforeCopyright
+editor.foxitsoftware.cn###copyright
+editor.foxitsoftware.cn##.fl.butBow > p
+editor.foxitsoftware.cn##.fl.butVip
+editor.foxitsoftware.cn##.fl.login
+editor.foxitsoftware.cn##.inVip
+editor.foxitsoftware.cn##.intTitle > i
+editor.foxitsoftware.cn##.suspend
 edu.csdn.net##.feedback.fr
 edu.csdn.net##.isActive.item_sign
 edu.csdn.net##.isStudyVip.isVip.item_sign
@@ -701,11 +752,25 @@ genshin-impact.fandom.com###p-views > .wds-dropdown
 genshin-impact.fandom.com##.global-footer
 genshin-impact.fandom.com##.license-description
 genshin-impact.fandom.com##.mcf-wrapper
+getquicker.net###form_like
+getquicker.net##.border-0.section.contact
+getquicker.net##.border-left.pt-3.pb-4.rounded.bg-white.order-md-last.col-md-3.col-12 > div > .font12.mt-1
+getquicker.net##.cursor-pointer.text-secondary.mr-4.font14
+getquicker.net##.font14.alert-warning.alert
 getquicker.net##.footer
+getquicker.net##.mt-4
+getquicker.net##.p-3.bg-light.text-danger.text-center.mb-4.mt-4
 getquicker.net##.text-success.btn-block.btn-light.btn
+getquicker.net##[href^="/DonateAuthor"]
+getquicker.net##a[href="https://getquicker.net/kc/manual/doc/pro-version"]:nth-of-type(2)
+getquicker.net##div.mt-4 > .d-inline-block
+getquicker.net##div:nth-of-type(5)
+getquicker.net##div:nth-of-type(6)
+getquicker.net##hr:nth-of-type(3)
 gitee.com###feature-update-notice
 gitee.com###git-footer-main
 gitee.com###gitee-blog
+gitee.com###gitee-go
 gitee.com##.container.session__footer
 gitee.com##.cursor-pointer.icon-help-circle.iconfont
 gitee.com##.dashboard-card-wrapper
@@ -719,22 +784,26 @@ gitee.com##.header-container.header-menu.menu.ui > a.item:nth-of-type(4)
 gitee.com##.label.red.ui
 gitee.com##.message.warning.ui
 gitee.com##.message.yellow.ui
+gitee.com##.ml-1.margin-0.item
 gitee.com##.recommend-container.column.wide.four
 gitee.com##.recommend-user.recommend-block
 gitee.com##.session-login__oschina
 gitee.com##.session-sidebox-comments__header
 gitee.com##.session-sidebox__footer
+gitee.com##.session__2verify-container .mb-1.mt-3.session__2verify-switch
 gitee.com##.side-toolbar
 gitee.com##.swiper-container-vertical.swiper-container
 gitee.com##.udesk-client-btn
 gitee.com##.user-third-party > .form.ui
 gitee.com##.visible.transition.left.bottom.my-star-collection-popup.popup.ui
 gitee.com##.wechat-banner
+gitee.com##body > .fixed-notice-infos .all-messages > .message.info.ui
 gitee.com##div.card.ui:nth-of-type(1)
 gitee.com##div.card.ui:nth-of-type(2)
 gitee.com##div.item:nth-of-type(6)
 gitee.com##div.item:nth-of-type(7)
 github.com###js-pjax-container > .px-lg-5.px-md-4.px-3.container-xl > .Layout--sidebarPosition-flowRow-start.Layout--sidebarPosition-start.Layout--flowRow-until-md.Layout .mt-3.flex-items-baseline.d-flex.color-fg-muted.text-small
+github.com##.border-bottom.hide-sm.hide-md.hide-lg.mt-5.col-lg-4.col-md-3.team-left-column > div > .js-notice
 github.com##.d-flex.js-feedback-link.UnderlineNav-actions > [href="https://github.com/github/feedback/discussions/categories/feed-feedback"]
 github.com##.f6.mt-6.py-6.p-responsive.container-lg.footer
 github.com##.flex-items-center.flex-row-reverse.flex-justify-between.d-sm-flex.py-4.f6.p-responsive.container-xl
@@ -845,17 +914,24 @@ hust.edu.cn###jumphandle
 hust.fanya.chaoxing.com###firstSection
 hust.fanya.chaoxing.com###footer
 hust.fanya.chaoxing.com##.bg-align-style1.bg-repeat-style1.bg-scale-style4.custom-clip.page-footer-style14 > div
+i.chaoxing.com###first108967
 i.chaoxing.com###first108968
 i.chaoxing.com###first108970
-i.chaoxing.com###first108971
 i.chaoxing.com###first108972
 i.chaoxing.com###first108973
 i.chaoxing.com###first108975
-i.chaoxing.com###first54652
 i.chaoxing.com##.appCode
 i.chaoxing.com##.appDownload
 i.chaoxing.com##.floatLayer
-i.chaoxing.com##.user-block
+i.mi.com##.footer-NvPFh
+i.mi.com##.footer-wrapper-25oKo
+i.mi.com##.horizontal-divider
+i.mi.com##.law-section
+i.mi.com##.pc-button-3EDcX
+i.mi.com##.question-section
+i.mi.com##.undefined.qr-code
+i.mi.com##.upgrade-btn-2LRNI
+i.mi.com##a.hidden-1_KPX.item-2Njae:nth-of-type(2)
 iconstore.co##.js-notice.notice--v3.notice
 iconstore.co##.js-related-packs.padding-top-xl
 iconstore.co##.padding-md.dr-nav
@@ -974,7 +1050,9 @@ link.bilibili.com##.webp.startlive-icon
 live.bilibili.com###anchor-guest-box-id
 live.bilibili.com##.banner-ctn
 live.bilibili.com##.border-box.convention-msg.chat-item
+live.bilibili.com##.contain-optimize.z-sidebar.p-relative
 live.bilibili.com##.f-left.h-100.shortcuts-ctnr
+live.bilibili.com##.follow-cntr
 live.bilibili.com##.haruna-sekai-de-ichiban-kawaii
 live.bilibili.com##.index_2guBzSAh
 live.bilibili.com##.index_wAjp4xJW
@@ -1063,6 +1141,12 @@ magi.com##div.row:nth-of-type(3)
 magi.com##div.row:nth-of-type(4)
 magi.com##hr.theme--light.v-divider.my-5:nth-of-type(2)
 magi.com##hr.theme--light.v-divider.my-5:nth-of-type(3)
+mail.163.com###_mail_component_108_108
+mail.163.com###_mail_component_128_128
+mail.163.com##.iZ2.js-component-component
+mail.163.com##.mailApp
+mail.163.com##.w-lbApp-tips
+mail.163.com##[src="https://onegoods.nosdn.127.net/resupload/2021/5/27/5c18a3f4936577a616aa600210cee70e.png"]
 mail.google.com##.FgKVne.aAw
 mail.google.com##.J-J5-Ji.aBS
 mail.google.com##.V4.pfiaof.l2
@@ -1128,12 +1212,12 @@ mail.yeah.net###_mail_component_108_108
 mail.yeah.net###_mail_component_112_112
 mail.yeah.net###_mail_component_128_128
 mail.yeah.net###_mail_component_3_3
-mail.yeah.net###_mail_component_82_82
 mail.yeah.net###_mail_tree_34_278
 mail.yeah.net###dvDock
 mail.yeah.net###dvPlugin_Music_Wrapper
 mail.yeah.net##.gWel-mailInfo-health-suc.gWel-mailInfo-item
 mail.yeah.net##.gWel-weather-default.gWel-weather
+mail.yeah.net##.iZ2.js-component-component
 mail.yeah.net##.np0
 mail.yeah.net##.nui-closeable.gWel-promt-radius.gWel-recommend
 mail.yeah.net##.pn1.rZ0.js-component-component
@@ -1198,14 +1282,20 @@ mirrors.cloud.tencent.com##.ms-footer
 mirrors.cloud.tencent.com##div.ms-content:nth-of-type(2)
 mirrors.tuna.tsinghua.edu.cn##.tuna-foot-1
 mooc1.chaoxing.com###_report
+mooc1.chaoxing.com##.content > div:nth-of-type(2)
 mooc1.chaoxing.com##.f13.pct60.rel.mb10.r
 mooc1.chaoxing.com##.fr.check_repeat
 mooc1.chaoxing.com##.insightBtn.fl.listSubmit
+mooc1.chaoxing.com##.next.prev_next.fs14.jb_btn_92.jb_btn
+mooc1.chaoxing.com##.prev.marginRight30.prev_next.fs14.btn_92.btnBlue
 mooc1.chaoxing.com##.report
 mooc1.chaoxing.com##.right-button
+mooc1.chaoxing.com##.sp_function
+mooc1.chaoxing.com##.tabCatalog
 mooc1.chaoxing.com##.title
 mooc1.chaoxing.com##.verticalMiddle
 mooc1.chaoxing.com##.viewer-report
+mooc1.chaoxing.com##.z-index99.subNav
 mooc2-ans.chaoxing.com##.course-info > .color2.line2.margint10
 mooc2-ans.chaoxing.com##.fl.backOld
 mooc2-ans.chaoxing.com##.stuNavigationList.nav-content ul:nth-of-type(1) li:nth-of-type(3)
@@ -1214,9 +1304,10 @@ mooc2-ans.chaoxing.com##[href="http://hust.benke.chaoxing.com/schoolcourse/schoo
 mooc2-ans.chaoxing.com##[href="javascript:void(0);"] > span
 mooc2-ans.chaoxing.com##btn_group:nth-of-type(1)
 mooc2-ans.chaoxing.com##div.course-tab
-mooc2-ans.chaoxing.com##dt
 movie.douban.com##.ticket
 movie.douban.com##.top-nav-doubanapp
+mp.csdn.net###nps-box
+mp.csdn.net##[href^="https://mp.csdn.net/activity/newclock/"]
 mp.weixin.qq.com##.login__type__container__scan__info__desc
 mp.weixin.qq.com##.mp-foot
 mp.weixin.qq.com##.notices_box
@@ -1235,6 +1326,7 @@ msdn.itellyou.cn##.shang_box
 msdn.itellyou.cn##[src="/images/1633669959012x400-min.png"]
 my.chsi.com.cn##.ch-robot
 my.chsi.com.cn##.footer
+my.oschina.net##.section-link-card.sidebar-section
 myaccount.google.com##.G0oD
 myaccount.google.com##.XAdKte.XLK0Od
 myaccount.google.com##.cmSWBc
@@ -1277,6 +1369,8 @@ note.youdao.com##.sidebar-collapse-footer-web
 note.youdao.com##a.sidebar-footer-links-item:nth-of-type(1)
 note.youdao.com##a.sidebar-footer-links-item:nth-of-type(2)
 note.youdao.com##div.sidebar-content-item:nth-of-type(6)
+numpy.org##.fa-twitter-square.fab
+numpy.org##.mt-md-0.mt-5.footer
 odc.officeapps.live.com###footer
 oi-wiki.org##.gt-header
 oi-wiki.org##.md-content__icon.md-icon
@@ -1300,6 +1394,7 @@ onlineweb.zhihuishu.com##.cns-main-footer
 onlineweb.zhihuishu.com##.course-type-icon
 onlineweb.zhihuishu.com##.header-content_leftBox > [href]
 onlineweb.zhihuishu.com##.header-content_middleBox
+onlineweb.zhihuishu.com##.icon-playback.right-top.icons
 onlineweb.zhihuishu.com##.important-alert-header > span
 onlineweb.zhihuishu.com##.important-alert-header i
 onlineweb.zhihuishu.com##.retireClass
@@ -1523,6 +1618,32 @@ portal.teachermate.com.cn##.goto-work-box
 portal.teachermate.com.cn##.map-wrapper
 portal.teachermate.com.cn##.navbar-nav
 portal.teachermate.com.cn##.users
+python123.io##.back-to-top
+python123.io##.bottom.landing
+python123.io##.footer
+python123.io##.footer div.column:nth-of-type(3)
+python123.io##.footer div.column:nth-of-type(5)
+python123.io##.footer-bottom
+python123.io##.has-text-centered.section-desc
+python123.io##.is-hidden-mobile.coding.is-white.button
+python123.io##.is-hidden-mobile.container
+python123.io##.is-hoverable.has-dropdown.navbar-item
+python123.io##.is-inline-block.is-hoverable.featured-card.card > .tag-right
+python123.io##.is-light.section
+python123.io##.is-marginless.hero-course-desc
+python123.io##.is-small.is-link.hero
+python123.io##.main > div > div > .hero-body .content > .help
+python123.io##.navbar-start a.navbar-item:nth-of-type(6)
+python123.io##.title-section div.mt-4:nth-of-type(2)
+python123.io##.title-section div.mt-4:nth-of-type(3)
+python123.io##.vertical-rl.feedback.is-primary.button
+python123.io##[href="https://www.chinaooc.com.cn"]
+python123.io##a.navbar-item:nth-of-type(2)
+python123.io##a.navbar-item:nth-of-type(5)
+python123.io##div.has-multi-column.columns:nth-of-type(3)
+python123.io##div.section-subtitle:nth-of-type(2)
+python123.io##section.section > .container > .is-multiline.columns div.is-3-widescreen.is-4-desktop.is-6.column:nth-of-type(5)
+python123.io##section.section:nth-of-type(4)
 qah5.zhihuishu.com##.Participatorytitle-div > .item.icontishi.iconfont.el-tooltip
 qah5.zhihuishu.com##.QRcode-div
 qah5.zhihuishu.com##.assist-item
@@ -1588,6 +1709,20 @@ space.bilibili.com##div.i-ann.section:nth-of-type(5)
 sso.icourses.cn##.content-box p
 sso.icourses.cn##.note-text
 stackoverflow.com##.mt12
+store.steampowered.com###about_ctas_area
+store.steampowered.com###about_features_more
+store.steampowered.com###about_features_more > .about_install_wrapper > .installer_list
+store.steampowered.com###about_games_cta_area
+store.steampowered.com###about_greeting > .about_install_wrapper > .installer_list
+store.steampowered.com###about_steam_feature_subtitle
+store.steampowered.com###footer
+store.steampowered.com###footer_spacer
+store.steampowered.com##.about_link.login_join_desc
+store.steampowered.com##.header_installsteam_btn_gray.header_installsteam_btn
+store.steampowered.com##.learn_more_btn
+store.steampowered.com##.login_col_padding.login_right_col > .login_btn_ctn
+store.steampowered.com##.subtext.login_join_desc
+store.steampowered.com##div.login_row:nth-of-type(3)
 study.163.com###auto-id-1651390645752
 study.163.com###j-footer
 study.163.com##.course-list
@@ -1619,6 +1754,10 @@ stuonline.zhihuishu.com##.footerBox
 stuonline.zhihuishu.com##.fr.onlineSchool_link
 stuonline.zhihuishu.com##.rightFix
 stuonline.zhihuishu.com##.tryme.tryme-btn
+sukunahust.com###block-15
+sukunahust.com##.live2d
+sukunahust.com##.pull-right.copyright
+sukunahust.com##.widget_media_image.widget_block.widget
 support.google.com##.footer-links > div > ul
 support.google.com##.shaded.sub-article-container
 support.google.com##footer
@@ -1640,6 +1779,27 @@ t.captcha.qq.com###guideText
 t.captcha.qq.com##.show-FB.tc-action--feedback.tc-icon.tc-action
 themesberg.com##.text-center.bg-soft.mt-5.p-md-5.pt-5.p-3.bd-footer
 themesberg.com##div.align-items-center.d-flex:nth-of-type(2)
+tianchi.aliyun.com##.ace-tianchi-common-footer
+tianchi.aliyun.com##.add_advertisement
+tianchi.aliyun.com##.ali-about-container
+tianchi.aliyun.com##.assist-content
+tianchi.aliyun.com##.change
+tianchi.aliyun.com##.common-style.kind-article
+tianchi.aliyun.com##.common-style.kind-detail
+tianchi.aliyun.com##.common-style.kind-issue
+tianchi.aliyun.com##.copyright-notice
+tianchi.aliyun.com##.forum-top
+tianchi.aliyun.com##.icon-paihangbang.iconfont
+tianchi.aliyun.com##.main-reply
+tianchi.aliyun.com##.post-box-bottom
+tianchi.aliyun.com##.tianchi-advertise.tianchi-footer
+tianchi.aliyun.com##.title.entrance-sign-box-list td:nth-of-type(5)
+tianchi.aliyun.com##.upVote-style.common-style
+tianchi.aliyun.com##.user-picurl
+tianchi.aliyun.com##.vote-box
+tianchi.aliyun.com##div.common-style:nth-of-type(3)
+tianchi.aliyun.com##div.common-style:nth-of-type(4)
+tianchi.aliyun.com##tr.entrance-sign-box-list:nth-of-type(2) td:nth-of-type(5)
 tieba.baidu.com###com_userbar
 tieba.baidu.com###lcsas-container
 tieba.baidu.com###onekey_sign
@@ -1774,12 +1934,16 @@ translate.google.cn##div.gb_Ac:nth-of-type(1)
 twitter.com##.r-13x4u8y.css-1dbjc4n
 twitter.com##.r-184en5c.r-13qz1uu.r-1ye8kvj.r-61z16t.r-11wrixw.r-1jgb5lz.r-1phboty.r-13l2t4g.r-1ljd8xs.r-jxzhtn.r-14lw9ot.css-1dbjc4n > .css-1dbjc4n > .r-184en5c.r-14lw9ot.css-1dbjc4n
 twitter.com##.r-1baxesd.r-1sp3mco.r-1777fci.r-1pz39u2.r-obd0qt.css-1dbjc4n
+twitter.com##.r-1ny4l3l.r-1adg3ll.r-qklmqi.r-j5o65s.css-1dbjc4n > .css-1dbjc4n > .css-1dbjc4n > .r-6416eg.r-o7ynqc.r-n3sdqm.r-y8nl5v.r-1udh08x.r-1ny4l3l.r-18u37iz.r-1loqt21.css-1dbjc4n > .r-1wbh5a2.r-16y2uox.r-eqz5dr.css-1dbjc4n > .r-1ny4l3l.r-1wbh5a2.r-16y2uox.css-1dbjc4n > .css-1dbjc4n > .r-18u37iz.css-1dbjc4n > .r-1t982j2.r-1777fci.r-16y2uox.r-1iusvr4.css-1dbjc4n > div.css-1dbjc4n > .r-zl2h9q.css-1dbjc4n > .r-1wtj0ep.r-18u37iz.r-k4xj1c.css-1dbjc4n > .r-1uvorsx.css-1dbjc4n > .r-18u37iz.r-6koalj.r-1awozwy.css-1dbjc4n > .css-1dbjc4n > .r-1h0z5md.r-18u37iz.css-1dbjc4n > .r-lrvibr.r-bztko3.r-1ny4l3l.r-hudz2g.r-1777fci.css-1dbjc4n.css-18t94o4 > .r-qvutc0.r-3s2u2q.r-clp7b1.r-o7ynqc.r-bcqeeo.r-14yzgew.r-1h0z5md.r-16dba41.r-1b43r93.r-37j5jr.r-6koalj.r-14j79pv.r-1awozwy.css-901oao > .r-xoduu5.css-1dbjc4n > .r-6416eg.r-o7ynqc.r-ipm5af.r-zchlnj.r-u8s1d.r-1ny4l3l.r-xf4iuw.r-1d2f490.r-xoduu5.r-1p0dtai.r-sdzlij.r-1niwhzg.css-1dbjc4n
+twitter.com##.r-1ny4l3l.r-1adg3ll.r-qklmqi.r-j5o65s.css-1dbjc4n > .css-1dbjc4n > .r-184en5c.r-14lw9ot.css-1dbjc4n
 twitter.com##.r-1p6iasa.r-109y4c4.r-1sw30gj.css-1dbjc4n
+twitter.com##.r-1q0zpk3.css-1dbjc4n
 twitter.com##.r-1udh08x.r-1bro5k0.r-1cad53l.r-rs99b7.r-1phboty.r-1867qdf.r-1d6w8o1.r-x572qd.css-1dbjc4n
 twitter.com##.r-1udh08x.r-1bro5k0.r-1ifxtd0.r-rs99b7.r-1phboty.r-1867qdf.r-1d6w8o1.r-x572qd.css-1dbjc4n
 twitter.com##.r-1udh08x.r-1cad53l.r-1yadl64.r-1phboty.r-1867qdf.r-jxzhtn.r-1niwhzg.css-1dbjc4n
 twitter.com##.r-1udh08x.r-1ifxtd0.r-1yadl64.r-1phboty.r-1867qdf.r-jxzhtn.r-1niwhzg.css-1dbjc4n
 twitter.com##.r-1vvnge1.r-dnmrzs.css-1dbjc4n
+twitter.com##.r-5kkj8d.r-1phboty.r-jxzhtn.css-1dbjc4n
 twitter.com##.r-e7q0ms.r-1h1bdhe.css-1dbjc4n
 twitter.com##.r-e7q0ms.r-1p6iasa.css-1dbjc4n
 twitter.com##.r-qvutc0.r-fdjqy7.r-bcqeeo.r-1nxhmzv.r-rjixqe.r-16dba41.r-a023e6.r-37j5jr.r-14j79pv.css-901oao
@@ -1789,6 +1953,7 @@ twitter.com##a.r-13qz1uu.r-oyd9sg.r-1ny4l3l.r-16y2uox.r-eqz5dr.r-6koalj.r-1loqt2
 twitter.com##a.r-13qz1uu.r-oyd9sg.r-1ny4l3l.r-16y2uox.r-eqz5dr.r-6koalj.r-1loqt21.r-1habvwh.css-1dbjc4n.css-18t94o4.css-4rbku5:nth-of-type(4)
 twitter.com##css-1dbjc4n r-18u37iz r-16y2uox r-ymttw5 r-1yzf0co
 twitter.com##div.r-1udh08x.r-1cad53l.r-rs99b7.r-1phboty.r-1867qdf.r-1d6w8o1.r-x572qd.css-1dbjc4n > .css-1dbjc4n
+typoraio.cn##.download > span:nth-of-type(3)
 url15.ctfile.com##.bg-light.card
 user.zhihuishu.com###wall-bg
 user.zhihuishu.com##.clearfix.vipmemebr-div
@@ -1845,6 +2010,8 @@ v.qq.com##._player_helper.player_helper
 v.qq.com##._quickopen_duration._quickopen.cf.mod_bd > .mod_column_side > .mod_column_hd.mod_hd > .bg_rank_ball
 v.qq.com##._site_channel_more.channel_more
 v.qq.com##._top.ft_cell_backup.ft_cell
+v.qq.com##.b-sticky__content > div > .episode-list-hor
+v.qq.com##.b-sticky__content > div > div > div > .episode-list-hor
 v.qq.com##.banner_main
 v.qq.com##.banner_main > .container_inner
 v.qq.com##.btn_collect
@@ -1852,14 +2019,18 @@ v.qq.com##.btn_primary_lg.main_button.btn
 v.qq.com##.btn_search_hot
 v.qq.com##.cf.mod_action
 v.qq.com##.cf.mod_quick
+v.qq.com##.channel_nav_icon
+v.qq.com##.container-bottom
 v.qq.com##.container_main.site_container
 v.qq.com##.contentinfo_channel.contentinfo_column
 v.qq.com##.copyright_zheng
 v.qq.com##.copyrightzh
+v.qq.com##.episode-hor-tab.b-hor-tab
 v.qq.com##.first_tab_can_change.mod_row_box
 v.qq.com##.footermenu
 v.qq.com##.ft_cell_feedback.ft_cell
 v.qq.com##.icon_display.tag_item_intro.tag_item
+v.qq.com##.intro-wrapper__desc
 v.qq.com##.main_feature
 v.qq.com##.main_nav_0.main_nav > .main_nav_block_1.main_nav_block
 v.qq.com##.main_nav_1.main_nav > .main_nav_block_1.main_nav_block
@@ -1871,12 +2042,20 @@ v.qq.com##.mod_ad_rect
 v.qq.com##.mod_ad_spread
 v.qq.com##.mod_footer_supervision
 v.qq.com##.mod_mood
+v.qq.com##.mod_pay
+v.qq.com##.play-intro__desc.intro-expand
+v.qq.com##.player__bottom.player-bottom
 v.qq.com##.player_hint
 v.qq.com##.site_footer
 v.qq.com##.slider_nav_watched._quicklink.slider_nav
 v.qq.com##.status4.mod_vip_sidebar
+v.qq.com##.txp-layer-dynamic-above-control.txp-layer
+v.qq.com##.txp-watermark
+v.qq.com##.txp_info_icon
 v.qq.com##.txp_mod_barrage
 v.qq.com##.txp_top_btns
+v.qq.com##.txp_video_fit_cover.txp_video_container > .txp_shadow
+v.qq.com##.vip-button--small.vip-button--row.vip-button--primary.b-btn--round.vip-button.b-btn
 v.youku.com###bpmodule-playpage-fee
 v.youku.com###toast_content
 v.youku.com##.anthology-content-scroll > div:nth-of-type(3)
@@ -1905,6 +2084,8 @@ walkccc.me##.md-typeset.md-footer-meta
 wanweibaike.net##.foot
 wanweibaike.net##.row > .col-sm-offset-2.col-sm-8
 wanweibaike.net##p.text-center
+web.vip.miui.com##.content_mainComment__1De8L > div > .item_item__1xh5b > .item_commentCard__4vDZY > .item_itemHead__264ya > .item_itemHeadLeft__2MJ01 > .item_headMiddle__3PiKf > .item_headCenter__1AFg9 > .item_commentLevelIcon__3sC_v
+web.vip.miui.com##.input_bottom__3Jcak
 webstatic.mihoyo.com##.bbs-qr
 webstatic.mihoyo.com##.login-tip
 webstatic.mihoyo.com##[href="https://user.mihoyo.com/#/findAccountGuide"]
@@ -2121,6 +2302,7 @@ www.aplaybox.com##.el-dropdown-selfdefine.icon-shenglve.iconfont.p_icons_sm
 www.aplaybox.com##.el-tooltip.back-to-ceiling
 www.aplaybox.com##.hover_mouse.card-pic > .p_font_color_gray1.p_font_weight_thin.p_font_msm.icons
 www.aplaybox.com##.like_state.hover_mouse.margin_left_big
+www.aplaybox.com##.margin_bottom_normal.p_font_weight_thin.p_font_sm
 www.aplaybox.com##.margin_left_big.p_font_sm.details > .margin_top_normal.info > .right
 www.aplaybox.com##.margin_left_normal.p_font_msm.hover_mouse_no_color_change.followBtnDetailsSmall
 www.aplaybox.com##.margin_left_small.p_b_center.p_b_lv
@@ -2168,6 +2350,26 @@ www.baiduyun.wiki##div.feature:nth-of-type(7)
 www.baiduyun.wiki##div.feature:nth-of-type(9)
 www.baiduyun.wiki##div.nav-item:nth-of-type(5)
 www.baiduyun.wiki##div.nav-item:nth-of-type(6)
+www.bandisoft.com###buy
+www.bandisoft.com###ent
+www.bandisoft.com###forum
+www.bandisoft.com###help
+www.bandisoft.com###howto
+www.bandisoft.com###screenshots
+www.bandisoft.com###table_center > table > tbody > tr > td:nth-of-type(2)
+www.bandisoft.com##.main_container li:nth-of-type(2)
+www.bandisoft.com##.main_container li:nth-of-type(3)
+www.bandisoft.com##.main_container li:nth-of-type(5)
+www.bandisoft.com##.td_footer_color.td_footer
+www.bandisoft.com##[src="/img/download.24x24.png"]
+www.bandisoft.com##[src="/img/outlink.png"]
+www.bandisoft.com##center > [href="/bandizip/buy/"]
+www.bandisoft.com##span.submenuSplit:nth-of-type(1)
+www.bandisoft.com##span.submenuSplit:nth-of-type(2)
+www.bandisoft.com##span.submenuSplit:nth-of-type(3)
+www.bandisoft.com##span.submenuSplit:nth-of-type(5)
+www.bandisoft.com##span.submenuSplit:nth-of-type(6)
+www.bandisoft.com##span.submenuSplit:nth-of-type(7)
 www.banshujiang.cn##.brand
 www.banshujiang.cn##.get-codes-bdshare.bds_tools.bdshare_t
 www.banshujiang.cn##.tablex.table div
@@ -2214,6 +2416,7 @@ www.bilibili.com##.comment-send-lite > .textarea-container > .comment-submit
 www.bilibili.com##.comment-send-lite > .textarea-container > .ipt-txt
 www.bilibili.com##.con > .user > a.level-link > .level
 www.bilibili.com##.display
+www.bilibili.com##.download-client-trigger.download-entry
 www.bilibili.com##.fixed-nav
 www.bilibili.com##.fixed-service-bg
 www.bilibili.com##.footer-wrp
@@ -2420,6 +2623,24 @@ www.csdn.net##.blog.Community-item > .content > .operation
 www.csdn.net##.nps-block
 www.csdn.net##.right-special-column
 www.csdn.net##div.pudn-recommend:nth-of-type(3)
+www.dadagui.com##.clearfix.stui-foot
+www.dadagui.com##.clearfix.stui-link__text
+www.dadagui.com##.clearfix.tab
+www.dadagui.com##.clearfix.tab > li:nth-of-type(2)
+www.dadagui.com##.icon-moreunfold.iconfont
+www.dadagui.com##.menu-switch .icon-all.iconfont
+www.dadagui.com##.more > .btn-default.btn
+www.dadagui.com##.more > [href^="/gbook.html"]
+www.dadagui.com##.search.dropdown > ul
+www.dadagui.com##.stui-content__side
+www.dadagui.com##.stui-header__menu li:nth-of-type(3)
+www.dadagui.com##.stui-header__menu li:nth-of-type(4)
+www.dadagui.com##.stui-header__menu li:nth-of-type(6)
+www.dadagui.com##.stui-header__menu li:nth-of-type(7)
+www.dadagui.com##.stui_header__user .date
+www.dadagui.com##.stui_header__user > li:nth-of-type(2)
+www.dadagui.com##.stui_header__user > li:nth-of-type(3)
+www.dadagui.com##.stui_header__user > li:nth-of-type(4)
 www.docin.com###aboutChoose
 www.docin.com###jControlDiv
 www.docin.com###jRealNameTips
@@ -2545,7 +2766,6 @@ www.educoder.net##.bg___27JHL > div
 www.educoder.net##.btn-resize
 www.educoder.net##.c-grey-333
 www.educoder.net##.c-yellow
-www.educoder.net##.close-line
 www.educoder.net##.contentLeftWrap___3cPFj .c-white.font14
 www.educoder.net##.discounts___2JS39
 www.educoder.net##.eval-desc.flex-container
@@ -2576,7 +2796,6 @@ www.educoder.net##.mainSiteBanner___BnI08.banner___5fOFW
 www.educoder.net##.mr15.ml15.current.font18.icon-sousuo.iconfont
 www.educoder.net##.mt15.mb0
 www.educoder.net##.newFooter___UNzWw
-www.educoder.net##.newslight___jwZR3
 www.educoder.net##.public___24PL-
 www.educoder.net##.qrcode___kjUuj.affixContainer___py2xS
 www.educoder.net##.radio-group-sort-order.mr20.ml20.ant-radio-group-solid.ant-radio-group
@@ -2586,6 +2805,7 @@ www.educoder.net##.rightWrap___3cIAT
 www.educoder.net##.school___1PUs6
 www.educoder.net##.searchBarBorder___vlQvU.searchBar___1Op2O
 www.educoder.net##.shareClassroom___2h8IX
+www.educoder.net##.slick-initialized.slick-slider .slick-dots-bottom.slick-dots
 www.educoder.net##.star-tip
 www.educoder.net##.tabBadge___k9fHK
 www.educoder.net##.task-header > span
@@ -2630,11 +2850,50 @@ www.fosshub.com##.hm__p
 www.fosshub.com##.hm__p > .block--center.nm > .nm__p
 www.fosshub.com##.ms__h
 www.fosshub.com##.pfm__p
+www.foxitsoftware.cn###banner
+www.foxitsoftware.cn###editor > ul > li > .explain > .buy
+www.foxitsoftware.cn##.banner .two
+www.foxitsoftware.cn##.beforeFooter
+www.foxitsoftware.cn##.bg-transparent-dark
+www.foxitsoftware.cn##.big-screen-footer.footer
+www.foxitsoftware.cn##.big-screen-header.header-wrap > .container > div:nth-of-type(2)
+www.foxitsoftware.cn##.connerct-pdf.homepage-products
+www.foxitsoftware.cn##.container > .row
+www.foxitsoftware.cn##.footer-help
+www.foxitsoftware.cn##.header
+www.foxitsoftware.cn##.homepage-companie_acitvies
+www.foxitsoftware.cn##.homepage-companies div.containers:nth-of-type(4)
+www.foxitsoftware.cn##.margin-top-10
+www.foxitsoftware.cn##.margin-top-20.banner-video.col-md-6
+www.foxitsoftware.cn##.new-version
+www.foxitsoftware.cn##.pull-right.header-navigation
+www.foxitsoftware.cn##.sale-top
+www.foxitsoftware.cn##.swiper-container-horizontal.swiper-container-initialized.swiper-container
+www.foxitsoftware.cn##.title_logo
+www.foxitsoftware.cn##.top_nav > [href="/products/volume.html"]
+www.foxitsoftware.cn##[href="https://file.foxitreader.cn/file/Channel/reader/repiw_GA_NoFinishPage_FoxitInst.exe"]
+www.foxitsoftware.cn##[src="/resource/images/download/fire.png"]
+www.foxitsoftware.cn##[src="/resource/images/download/hot.gif"]
+www.foxitsoftware.cn##[src="/resource/images/download/type_logo.png"]
+www.foxitsoftware.cn##[src="https://www.foxitsoftware.cn/resource/images/new.gif"]
+www.foxitsoftware.cn##a.dropdown-toggle.btn-circle.white.btn:nth-of-type(1)
+www.foxitsoftware.cn##a.dropdown-toggle.btn-circle.white.btn:nth-of-type(2)
+www.foxitsoftware.cn##a.dropdown-toggle.btn-circle.white.btn:nth-of-type(3)
+www.foxitsoftware.cn##footer
+www.foxitsoftware.cn##li.dropdown-bottom.dropdown:nth-of-type(2)
+www.foxitsoftware.cn##li.dropdown-bottom.dropdown:nth-of-type(3)
+www.foxitsoftware.cn##li.dropdown-bottom.dropdown:nth-of-type(9)
+www.foxitsoftware.cn##li.dropdown:nth-of-type(4)
+www.foxitsoftware.cn##li.dropdown:nth-of-type(7)
+www.foxitsoftware.cn##ul > li > .explain > .buy
 www.ghxi.com###modules-15 > .sec-panel > .sec-panel-head
 www.ghxi.com###modules-15 > .sec-panel > .sec-panel-head > h3
 www.ghxi.com##.ad_single_1.ghxi_wpcom_ad_wrap
 www.ghxi.com##.ad_single_1.ghxi_wpcom_ad_wrap > ul > li
 www.ghxi.com##.carousel-slider.sec-panel-body
+www.google.cn##.chr-footer__bottom
+www.google.cn##.show.channel-win64-stable.platform.chr-homepage-hero__simplified-opt > .chr-checkbox > .chr-copy--legal.chr-copy.chr-checkbox__label > [href^="https://www.google.com/support/chrome/bin/answer.py"]
+www.google.cn##.show.chr-copy--legal.chr-copy.channel-win64-stable.chr-homepage-hero__simplified-links
 www.google.com###footcnt
 www.google.com##.hdtb-mitem > g-popup > .rIbAWc
 www.google.com##.id-fineprint
@@ -2644,6 +2903,7 @@ www.google.com.hk###footcnt
 www.google.com.hk###gws-output-pages-elements-homepage_additional_languages__als
 www.google.com.hk##.SSwjIe.KxwPGc
 www.google.com.hk##.lJ9FBc.FPdoLc > center
+www.google.com.hk##.oIk2Cb
 www.google.com.hk##.pdswFd
 www.google.com.hk##.qarstb.o3j99
 www.google.com.hk##.uU7dJb
@@ -2684,13 +2944,16 @@ www.iconfont.cn##li.nav-item:nth-of-type(4)
 www.iconfont.cn##li.nav-item:nth-of-type(5)
 www.iconfont.cn##li.nav-item:nth-of-type(6)
 www.iconfont.cn##span::after
+www.icourse163.org###app > div > div > div:nth-child(3) > div > div:nth-child(1)
 www.icourse163.org###appTab
 www.icourse163.org###auto-id-1642941941199
+www.icourse163.org###help
 www.icourse163.org###hour-tip
 www.icourse163.org###j-breadcrumb
 www.icourse163.org###j-courseshare
 www.icourse163.org###j-recommend-bottom
 www.icourse163.org###j-recommend-side
+www.icourse163.org###web-cert-apply-btn
 www.icourse163.org###wxItemTab
 www.icourse163.org##._1KBiK
 www.icourse163.org##._1U0Cy
@@ -2698,6 +2961,7 @@ www.icourse163.org##._1eTjX
 www.icourse163.org##._1gIRH > .XwYfs > ._2zoND._2uD4W
 www.icourse163.org##._1n6gQ
 www.icourse163.org##._2CxQ3
+www.icourse163.org##._2QYIL
 www.icourse163.org##._2_XXS
 www.icourse163.org##._2g9hu > div > div > .XwYfs > ._1uXXM > ._2mEuw
 www.icourse163.org##._2g9hu > div > div > .XwYfs > ._2zoND._2uD4W
@@ -2726,16 +2990,21 @@ www.icourse163.org##.f-fl.f-fc9.u-helplink
 www.icourse163.org##.f-fr.f-fc9.u-helplink
 www.icourse163.org##.f-fr.j-learning-plan
 www.icourse163.org##.f-fr.j-share
+www.icourse163.org##.f-fr.u-btn-default.u-btn
 www.icourse163.org##.f-pa.course-share.f-fs1.f-f0.f-fr
 www.icourse163.org##.f-pr.f-fr.f2
 www.icourse163.org##.f-pr.f-fr.f3
 www.icourse163.org##.f-pr.f-fr.f4
 www.icourse163.org##.f-pr.m-foot.g-wrap
 www.icourse163.org##.feedback.item-link-block
+www.icourse163.org##.ha9Vg
+www.icourse163.org##.iYY4d
 www.icourse163.org##.img > .badges
 www.icourse163.org##.j-forumIntro.f-fc6.indexDes
+www.icourse163.org##.j-progressbar.f-cb.progress
 www.icourse163.org##.j-report-bug.report.f-fc6.f-fl
 www.icourse163.org##.m-learnleft > .f-fc9.u-helplink
+www.icourse163.org##.m-learnleft > div
 www.icourse163.org##.m-recommend-content
 www.icourse163.org##.m-side-operation
 www.icourse163.org##.mark.tag-wrapper.f-vam.f-ib
@@ -3055,6 +3324,23 @@ www.markdown.cn##.bs-footer
 www.markdown.cn##.dropdown-toggle
 www.markdown.cn##.jumbotron
 www.markdown.cn##li:nth-of-type(5)
+www.matplotlib.org.cn##.ahome-nav
+www.matplotlib.org.cn##.footer
+www.matplotlib.org.cn##.home-footer
+www.matplotlib.org.cn##.home-wxpub
+www.matplotlib.org.cn##.sub-text
+www.matplotlib.org.cn##div.nav-item:nth-of-type(3)
+www.matplotlib.org.cn##div.nav-item:nth-of-type(7)
+www.mgtv.com##.clearfix.side-floatbtn
+www.mgtv.com##.damang
+www.mgtv.com##.hitv-upload.hitv-svg-icon
+www.mgtv.com##.m-aside-header-ie.m-aside-header > .add-box > .add
+www.mgtv.com##.news
+www.mgtv.com##.openvip
+www.mgtv.com##.pclient
+www.mgtv.com##.play-together
+www.mgtv.com##.sidebar-download
+www.mgtv.com##mango-control-tip > .u-control-tips
 www.mi.com##.col-contact
 www.mi.com##.footer-service
 www.mi.com##.home-tool-bar-large.home-tool-bar
@@ -3077,10 +3363,20 @@ www.niceso.fun##a.header-url:nth-of-type(4)
 www.niceso.fun##div.side-item:nth-of-type(3)
 www.niceso.fun##div.side-item:nth-of-type(4)
 www.niceso.fun##div.side-item:nth-of-type(6)
+www.numpy.org.cn##.ahome-nav
+www.numpy.org.cn##.footer
+www.numpy.org.cn##.home-footer
+www.numpy.org.cn##.home-wxpub
+www.numpy.org.cn##.show.teadocs-alert.custom-block.warning
+www.numpy.org.cn##.sub-text
 www.onenote.com##.ResizableFooterContainer.DarkColorPalette.FooterUIFont.footerContainer
 www.onenote.com##.SharedHeaderFeedback
 www.onenote.com##.headXLinks
 www.onlinegdb.com##.text-center.container-fluid
+www.oracle.com###products-nav > .tworow > li:nth-of-type(2)
+www.oracle.com##.rc115cta
+www.oracle.com##.u10v6.u10
+www.oracle.com##.u30-contact
 www.patest.cn##.ads_1L6T2.w-full.pc-slider
 www.patest.cn##.alerts_2cEyX
 www.patest.cn##.info_1SehB
@@ -3106,6 +3402,22 @@ www.processon.com##a[href="javascript:;"]:nth-of-type(3)
 www.processon.com##a[href="javascript:;"]:nth-of-type(4)
 www.processon.com##footer
 www.processon.com##header
+www.pypandas.cn##.ahome-nav
+www.pypandas.cn##.footer
+www.pypandas.cn##.home-footer
+www.pypandas.cn##.sub-text
+www.pypandas.cn##div.item.left-box:nth-of-type(1)
+www.pypandas.cn##div.nav-item:nth-of-type(3)
+www.python.org###container > .element-6.tier-1
+www.python.org###mainnav > .menu.navigation > .element-6.tier-1
+www.python.org##.donate-button
+www.python.org##.download-widget.sidebar-widget
+www.python.org##.element-8.tier-1
+www.python.org##.notification-bar--survey.notification-bar
+www.python.org##.site-base
+www.python.org##.winkwink-nudgenudge
+www.python.org##.with-supernav.element-1.tier-1
+www.python.org##.with-supernav.element-7.tier-1
 www.python123.io##.container > .help
 www.python123.io##.footer
 www.python123.io##.is-hidden-mobile.coding.is-white.button
@@ -3181,17 +3493,39 @@ www.qixin.com##span.hidden-sm.hidden-xs.split-line:nth-of-type(2)
 www.qt.io##.b-footer
 www.runoob.com###moon
 www.runoob.com###user_add_note
+www.runoob.com##.adsbygoogle
 www.runoob.com##.cf.runoob dl:nth-of-type(4)
 www.runoob.com##.copyright.w-1000
+www.runoob.com##.fa-external-link.fa
 www.runoob.com##.fa-tag.fa
 www.runoob.com##.no_webshot
 www.runoob.com##.p-3.text-muted.text-center
 www.runoob.com##.qrcode
+www.runoob.com##.runoob-block
 www.runoob.com##.search-share
 www.runoob.com##.wrapper.comt-avatar > .upvotejs-enabled.upvotejs
 www.runoob.com##.wrapper.comt-meta
 www.runoob.com##button.feedback-btn-gray.feedback-btn:nth-of-type(1)
 www.runoob.com##button.feedback-btn-gray.feedback-btn:nth-of-type(2)
+www.smdyy.cc##.btn-default.btn
+www.smdyy.cc##.clearfix.stui-foot
+www.smdyy.cc##.clearfix.tab
+www.smdyy.cc##.col-pd.stui-pannel_ft
+www.smdyy.cc##.menu-switch
+www.smdyy.cc##.msg
+www.smdyy.cc##.row > .container
+www.smdyy.cc##.search.dropdown > ul
+www.smdyy.cc##.stui-content__side
+www.smdyy.cc##.stui-header__menu > li:nth-of-type(3)
+www.smdyy.cc##.stui-header__menu > li:nth-of-type(5)
+www.smdyy.cc##.stui-header__menu li:nth-of-type(6)
+www.smdyy.cc##.stui-vodlist__head > .container
+www.smdyy.cc##.stui_header__user > li:nth-of-type(2)
+www.smdyy.cc##.stui_header__user > li:nth-of-type(3)
+www.smdyy.cc##.stui_header__user > li:nth-of-type(4)
+www.smdyy.cc##.stui_header__user > li:nth-of-type(5)
+www.smdyy.cc##.title > .pull-right
+www.smdyy.cc##.tncode_tips > a
 www.sysmini.com###menu-item-159 > [href="https://www.sysmini.com/help"]
 www.sysmini.com###menu-item-825 > [href="https://www.sysmini.com/about"]
 www.sysmini.com###menu-item-920 > [href="https://www.exehi.com"]
@@ -3338,13 +3672,24 @@ www.werebook.com##.widget.tab
 www.werebook.com##[href^="https://mail.qq.com/cgi-bin/qm_share"]
 www.werebook.com##div.widget:nth-of-type(1)
 www.werebook.com##div.widget:nth-of-type(4)
+www.xfyun.cn##.affix
+www.xfyun.cn##.hs-banner.home-section
+www.xfyun.cn##.hs-recom-pc
+www.xfyun.cn##.index.main-header
+www.xiaomi.cn##.addPost
+www.xiaomi.cn##.footer-style
 www.xiaoso.net##.headerbar
 www.xiaoso.net##.index_note
 www.xiaoso.net##div.box_title:nth-of-type(2)
 www.xiaoso.net##div.multi:nth-of-type(8)
+www.xixicai.top###infoStreamAd_stop
+www.xixicai.top###play-box > div > .hidden-xs div:nth-of-type(3)
+www.xixicai.top##.hidden-xs > div > b
+www.xixicai.top##.player-url-tips
 www.xpdf.cn###navbar-login
 www.xpdf.cn##.container-xl > .d-lg-block.d-none
 www.xpdf.cn##.d-print-none.footer-transparent.footer
+www.yeah.net##.mailApp
 www.yhdmp.cc##.bdshare-button-style0-16.l.bdsharebuttonbox
 www.yhdmp.cc##.bg.foucs
 www.yhdmp.cc##.botit
@@ -3438,134 +3783,6 @@ www.yuque.com##li.header-nav-item.ant-menu-item-only-child.ant-menu-item.ant-men
 www.yuque.com##li.header-nav-item.ant-menu-item-only-child.ant-menu-item.ant-menu-overflow-item:nth-of-type(6)
 www.yuque.com##li.menu-item-account.ant-menu-item-only-child.ant-menu-item:nth-of-type(3)
 www.yuque.com##li.menu-item-account.ant-menu-item-only-child.ant-menu-item:nth-of-type(4)
-www.zhihu.com###Popover9-toggle > span > .Button-zi.Zi--Dots.Zi
-www.zhihu.com##.AnswerItem.ContentItem > .LabelContainer-wrapper
-www.zhihu.com##.AppHeaderProfileMenu.Menu > div > .css-1e76yen.AppHeaderProfileMenu-item.Menu-item
-www.zhihu.com##.AuthorInfo > .AuthorInfo-content > .AuthorInfo-head > .AuthorInfo-name.UserLink > .css-n99yhz
-www.zhihu.com##.AuthorInfo--plain.AnswerItem-authorInfo.AuthorInfo > .AuthorInfo > .AuthorInfo-content > .AuthorInfo-detail
-www.zhihu.com##.AuthorInfo--plain.AnswerItem-authorInfo.AuthorInfo > .AuthorInfo > .AuthorInfo-content > .AuthorInfo-head > .AuthorInfo-name.UserLink > .css-n99yhz
-www.zhihu.com##.AuthorInfo--plain.AuthorInfo > .AuthorInfo > .AuthorInfo-content > .AuthorInfo-detail
-www.zhihu.com##.AuthorInfo--plain.AuthorInfo > .AuthorInfo > .AuthorInfo-content > .AuthorInfo-head > .AuthorInfo-name.UserLink > .css-n99yhz
-www.zhihu.com##.Button--blue.Button--primary.css-3q84jd.SearchBar-askButton.Button
-www.zhihu.com##.Button--blue.Button--primary.css-ie8gsr.TopstoryPageHeader-askButton.Button
-www.zhihu.com##.Button--link.AuthorInfo-Widget.Button
-www.zhihu.com##.Button--plain.ProfileHeader-expandButton.Button
-www.zhihu.com##.Button--spread.Button--blue.QuestionAnswers-answerButton.Button
-www.zhihu.com##.Card-header
-www.zhihu.com##.Card-section
-www.zhihu.com##.CommentEditorV2--active.CommentEditorV2--normal.CommentsV2-footer
-www.zhihu.com##.CommentEditorV2--normal.CommentsV2-footer
-www.zhihu.com##.ContentItem-action.ShareMenu.Popover
-www.zhihu.com##.ContentItem-actions > span
-www.zhihu.com##.CornerButtons
-www.zhihu.com##.CornerButtons
-www.zhihu.com##.CreatorEntrance-Link--smallIcon.CreatorEntrance-link.GlobalSideBar-creator.CreatorEntrance.Card
-www.zhihu.com##.Field-education.Field
-www.zhihu.com##.Footer
-www.zhihu.com##.GlobalSideBar-categoryList
-www.zhihu.com##.GlobalSideBar-navList
-www.zhihu.com##.GoodQuestionAction
-www.zhihu.com##.GoodsRecommendCard
-www.zhihu.com##.HotItem-label
-www.zhihu.com##.HotItem-metrics--bottom.HotItem-metrics
-www.zhihu.com##.HotList-end
-www.zhihu.com##.HoverCard-container
-www.zhihu.com##.Login-options
-www.zhihu.com##.MobileAppHeader-actions
-www.zhihu.com##.NestComment--child > .CommentItemV2 > div > .CommentItemV2-meta > span.UserLink > .css-1cd9gw4 > span > .css-139b4gy.Zi--VIP.Zi
-www.zhihu.com##.NestComment--child > .CommentItemV2 > div > .CommentItemV2-metaSibling > .CommentItemV2-footer
-www.zhihu.com##.NestComment--rootComment > .CommentItemV2 > div > .CommentItemV2-meta > span.UserLink > .css-1cd9gw4
-www.zhihu.com##.NestComment--rootComment > .CommentItemV2 > div > .CommentItemV2-metaSibling > .CommentItemV2-footer
-www.zhihu.com##.NestComment--rootCommentNoChild > .CommentItemV2 > div > .CommentItemV2-metaSibling > .CommentItemV2-footer
-www.zhihu.com##.NumberBoard--divider.NumberBoard
-www.zhihu.com##.Profile-createOrgAccount
-www.zhihu.com##.Profile-footerOperations
-www.zhihu.com##.ProfileHeader-badge
-www.zhihu.com##.ProfileSideCreator-creatorEntranceHint.CreatorEntrance-hint
-www.zhihu.com##.QuestionHeader > .QuestionHeader-content > .QuestionHeader-side
-www.zhihu.com##.QuestionHeader-footer-main.QuestionHeader-main > .QuestionButtonGroup > a > .Button--blue.Button
-www.zhihu.com##.QuestionHeader-side > .QuestionButtonGroup > a > .Button--blue.Button
-www.zhihu.com##.QuestionHeader-tags
-www.zhihu.com##.QuestionHeaderActions > .Button--withLabel.Button--withIcon.Button--grey.Button
-www.zhihu.com##.QuestionHeaderActions > .ShareMenu.Popover
-www.zhihu.com##.Reward
-www.zhihu.com##.SearchBar-noValueMenu.SearchBar-menu.AutoComplete-menu.Menu
-www.zhihu.com##.ShareMenu-wechat.Menu-item--noActive.Menu-item > .Button--plain.ShareMenu-button.Button
-www.zhihu.com##.SignContainer-tip
-www.zhihu.com##.SignFlowHomepage-footer
-www.zhihu.com##.SignFlowHomepage-logo
-www.zhihu.com##.SimilarQuestions-list.Card-section
-www.zhihu.com##.TopSearch-items
-www.zhihu.com##.TopicActions-shareMenu.ShareMenu.Popover
-www.zhihu.com##.VipRenameTip-left.VipRenameTip
-www.zhihu.com##.aria-entrance
-www.zhihu.com##.css-11028yi
-www.zhihu.com##.css-122fspz
-www.zhihu.com##.css-12e6q6q
-www.zhihu.com##.css-1bwzp6r
-www.zhihu.com##.css-1cd9gw4
-www.zhihu.com##.css-1f6tgea.AppHeader-TabsLink.Tabs-link
-www.zhihu.com##.css-1f6tgea.is-active.AppHeader-TabsLink.Tabs-link
-www.zhihu.com##.css-7dgah8.Zi--Bell.Zi
-www.zhihu.com##.css-7dgah8.Zi--Comments.Zi
-www.zhihu.com##.css-9mu7l2
-www.zhihu.com##.css-b2yyne
-www.zhihu.com##.css-n608gg
-www.zhihu.com##.css-py1o25.KfeCollection-FeedBlockSetting
-www.zhihu.com##.css-rzelnn
-www.zhihu.com##.css-sumlaa > div
-www.zhihu.com##.css-unjhbw
-www.zhihu.com##.css-v48dmn
-www.zhihu.com##.is-fixed.Sticky
-www.zhihu.com##.link-instanted.css-8z7gkt.Card
-www.zhihu.com##.yidun-fallback__tip.yidun_tips__text
-www.zhihu.com##.yidun_feedback
-www.zhihu.com##.yidun_modal__title
-www.zhihu.com##.yidun_top__audio
-www.zhihu.com##a.Button--withLabel.Button--withIcon.Button--plain.TopicActions-link.Button:nth-of-type(1)
-www.zhihu.com##a.Button--withLabel.Button--withIcon.Button--plain.TopicActions-link.Button:nth-of-type(2)
-www.zhihu.com##a.Topstory-tabsLink.TopstoryTabs-link:nth-of-type(4)
-www.zhihu.com##a.TopstoryPageHeader-tabsLink.TopstoryTabs-link:nth-of-type(4)
-www.zhihu.com##a.css-1e76yen.AppHeaderProfileMenu-item.Menu-item:nth-of-type(2)
-www.zhihu.com##button.Button--plain.ContentItem-action.Button:nth-of-type(3)
-www.zhihu.com##button.Button--plain.Login-socialButton.Button:nth-of-type(3)
-www.zhihu.com##button.Button--plain.ShareMenu-button.Menu-item.Button:nth-of-type(2)
-www.zhihu.com##button.Button--withLabel.Button--withIcon.Button--plain.ContentItem-action.Button:nth-of-type(3)
-www.zhihu.com##div.ContentItem-action.Popover:nth-of-type(2)
-www.zhihu.com##div.Popover:nth-of-type(4)
-www.zhihu.com##div.css-9ytsk0:nth-of-type(3)
-www.zhihu.com##form.Field:nth-of-type(3)
-www.zhihu.com##form.Field:nth-of-type(4)
-www.zhihu.com##form.Field:nth-of-type(5)
-www.zhihu.com##form.Field:nth-of-type(7)
-www.zhihu.com##form.Field:nth-of-type(8)
-www.zhihu.com##li.Tabs-item--noMeta.AppHeader-Tab.Tabs-item:nth-of-type(2)
-www.zhihu.com##li.Tabs-item--noMeta.AppHeader-Tab.Tabs-item:nth-of-type(3)
-www.zhihu.com##li.Tabs-item--noMeta.AppHeader-Tab.Tabs-item:nth-of-type(4)
-www.zhihu.com##li.Tabs-item--noMeta.Tabs-item:nth-of-type(4)
-www.zhihu.com##li.Tabs-item--noMeta.Tabs-item:nth-of-type(7)
-www.zhihu.com##li.Tabs-item--noMeta.Tabs-item:nth-of-type(8)
-www.zhihu.com##li.Tabs-item--noMeta.Tabs-item:nth-of-type(9)
-www.zhihu.com##ol li:nth-of-type(5)
-www.zhihu.com##p > span > .css-pgtd2j > .css-1dvsrp > path
-www.zhihuishu.com###inter_list_one
-www.zhihuishu.com###vipJingxuan
-www.zhihuishu.com###virtualClass > .style-title > .block-type.icon
-www.zhihuishu.com##.all-channel__wrap
-www.zhihuishu.com##.app-item
-www.zhihuishu.com##.clearfix.footer
-www.zhihuishu.com##.clearfix.footer .banner
-www.zhihuishu.com##.content .live-course
-www.zhihuishu.com##.content .nav
-www.zhihuishu.com##.course-tag
-www.zhihuishu.com##.icon-vip.icon
-www.zhihuishu.com##.isMooc-icon
-www.zhihuishu.com##.rightFix
-www.zhihuishu.com##.swiper
-www.zhihuishu.com##.top-banner
-www.zhihuishu.com##.vip-item
-www.zhihuishu.com##div.style-one > .style-title > .inter-change.change
-www.zhihuishu.com##div.style-one > .style-title > .more
 wx.mail.qq.com##.ftn_sidebar_ad
 wx.mail.qq.com##.ftn_sidebar_info_expand
 wx.mail.qq.com##.xm_marginBottom10
@@ -3857,29 +4074,22 @@ zhtj.hust.edu.cn##.layui-col-lg9
 zhtj.hust.edu.cn##.layui-footer
 zhtj.hust.edu.cn##.news-box
 zhtj.hust.edu.cn##div.layui-col-lg6 > div
-zhuanlan.zhihu.com##.Button--blue.Button--primary.FollowButton.Button
-zhuanlan.zhihu.com##.Button--blue.ColumnPageHeader-WriteButton.Button
-zhuanlan.zhihu.com##.ColumnPageHeader-Button
-zhuanlan.zhihu.com##.CommentEditorV2--normal.CommentsV2-footer
-zhuanlan.zhihu.com##.ContentItem-actions
-zhuanlan.zhihu.com##.ContentItem-actions > span
-zhuanlan.zhihu.com##.CornerAnimayedFlex
-zhuanlan.zhihu.com##.NestComment--rootComment > .CommentItemV2 > div > .CommentItemV2-metaSibling > .CommentItemV2-footer
-zhuanlan.zhihu.com##.NestComment--rootCommentNoChild > .CommentItemV2 > div > .CommentItemV2-meta > span.UserLink > .css-1cd9gw4
-zhuanlan.zhihu.com##.NestComment--rootCommentNoChild > .CommentItemV2 > div > .CommentItemV2-metaSibling > .CommentItemV2-footer
-zhuanlan.zhihu.com##.Post-Author
-zhuanlan.zhihu.com##.Post-SideActions
-zhuanlan.zhihu.com##.Post-topicsAndReviewer
+zhuanlan.zhihu.com##.CommentEditorV2-inputWrap
 zhuanlan.zhihu.com##.Recommendations-Main
-zhuanlan.zhihu.com##.TitleImage
-zhuanlan.zhihu.com##.Voters
-zhuanlan.zhihu.com##li.NestComment--child > .CommentItemV2 > div > .CommentItemV2-metaSibling > .CommentItemV2-footer
+zhuanlan.zhihu.com##.Reward
+zhuanlan.zhihu.com##.css-1fo89v5
+zhuanlan.zhihu.com##.css-xqep55
 ||alp.alicdn.com/1640974710740-2100-220.png$image
 ||assets.retiehe.com/donate.png$image
 ||bgcdn.qixin.com/pcweb/static/font/beian-a0aac1f0.svg$image
 ||bgcdn.qixin.com/pcweb/static/img/new_icon-f175ed1c.png$image
 ||bgcdn.qixin.com/pcweb/static/img/vip-75fd68b2.png$image
 ||cdn2.jianshu.io/assets/web/sign_in_bg-bbc515a9c2e7734807ea281b9b2ab380.png$image
+||challenge.xfyun.cn/_next/static/images/contest-bg.4aae6ce.png$image
+||csdnimg.cn/release/blogv2/dist/pc/themesSkin/skin-finalboss/images/bg-title.png$image
+||csdnimg.cn/release/cmsfe/public/img/skin-finalboss-title.70fae8f0.png$image
+||csdnimg.cn/release/cmsfe/public/img/skin-whitemove-bg.5a7e5126.gif$image
+||csdnimg.cn/release/cmsfe/public/img/skin-whitemove-title.2730b604.gif$image
 ||edu-image.nosdn.127.net/58302e280f7d4a3aab53d0240fe4775b.png?imageView&quality=100$image
 ||edu-image.nosdn.127.net/6531D913BDB804B34ABF22325EC2305E.png?imageView&thumbnail=1200y160&quality=100$image
 ||edu-wenku.bdimg.com/v1/pc/vip/vipPrivillegeBg-1645671383119.png$image
@@ -3887,6 +4097,7 @@ zhuanlan.zhihu.com##li.NestComment--child > .CommentItemV2 > div > .CommentItemV
 ||fanyi-cdn.cdn.bcebos.com/static/api-ssr/static/media/bg.f759974c.png$image
 ||fanyi.caiyunapp.com/static/img/fanyi-footer1.0ff9122.png$image
 ||hou.qialu999.com/wp-content/uploads/bing/1643040000_1920x1080.jpg$image
+||https://www.foxitsoftware.cn/resource/images/new.gif$image
 ||i.gtimg.cn/qqlive/images/20170515/rank_bg.jpg$image
 ||i0.hdslb.com/bfs/activity-plat/static/20171102/86685156c7e105a8509815159cf73d86/images/p6zp26183x.png$image
 ||i0.hdslb.com/bfs/activity-plat/static/20171102/86685156c7e105a8509815159cf73d86/images/p6zp26183x.png$image
@@ -3905,6 +4116,7 @@ zhuanlan.zhihu.com##li.NestComment--child > .CommentItemV2 > div > .CommentItemV
 ||plugin.csdn.net/images/top-bg.png$image
 ||portal.teachermate.com.cn/wp-content/themes/teachermate/dist/images/china-map-bg.png$image
 ||portal.teachermate.com.cn/wp-content/themes/teachermate/dist/images/china-map.png$image
+||puui.qpic.cn/media_img/lena/PICdkkr78_108_336/0$image
 ||puui.qpic.cn/vupload/0/20190708_9h1ffex3prf/0$image
 ||puui.qpic.cn/vupload/0/20190708_h2gvgd4og8/0$image
 ||puui.qpic.cn/vupload/0/20190708_hvl7275ycy7/0$image
@@ -3924,9 +4136,13 @@ zhuanlan.zhihu.com##li.NestComment--child > .CommentItemV2 > div > .CommentItemV
 ||wanweibaike.net/static/index/img/logo.png$image
 ||www.52pojie.cn/template/default/style/t5/bgimg.jpg$image
 ||www.aplaybox.com/img/pb_bg_image.54b326e0.png$image
+||www.foxitsoftware.cn/resource/images/banner/banner-bg-01.png$image
+||www.foxitsoftware.cn/resource/images/footer/top.png$image
+||www.foxitsoftware.cn/resource/images/hot.gif$image
 ||www.jianguoyun.com/static/images/nutstore_robot.png$image
 ||www.liaoxuefeng.com/files/attachments/1422670998536258/0$image
 ||www.processon.com/assets/images/home/achievement_bg.png$image
+||www.python.org/static/img/landing-downloads.0f509c33f57f.png$image
 ||www.runoob.com/wp-content/themes/runoob/assets/img/bg.gif$image
 ||www.runoob.com/wp-content/uploads/2018/06/history-operator.jpg$image
 ||www.w3school.com.cn/ui2017/icon8.png$image
